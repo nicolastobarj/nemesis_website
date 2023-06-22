@@ -1,11 +1,15 @@
 ---
-title: "¿Quiénes somos?"
+title: "Acerca de Némesis"
+about:
+  image: banner.png
+  template: marquee
+  links:
+    - text: Instagram
+      icon: instagram
+      href: https://www.instagram.com/revistanemesis/
+    - text: Email
+      icon: mail
+      href: mailto:nemesis@uchile.cl
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Bienvenidos

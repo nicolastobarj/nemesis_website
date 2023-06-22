@@ -6,15 +6,19 @@ website:
   title: "Revista Némesis"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Equipo
       - href: convocatorias.qmd
         text: Convocatorias 2023
 
 format:
   html:
     theme: flatly
+    mainfont: arapey
+    fontsize: 1.0rem
+    fontcolor: "#330033"
+    linkcolor: "#009B86"
+    monofont: lato
     css: styles.css
     toc: true
 

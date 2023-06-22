@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Acerca de Némesis",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Bienvenidos"
   },
   {
     "objectID": "convocatorias.html",
@@ -16,8 +16,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "¿Quiénes somos?",
+    "title": "Acerca de Némesis",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Bienvenidos"
   }
 ]
