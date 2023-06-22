@@ -3,16 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "nemesis_website"
+  title: "Revista Némesis"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: convocatorias.qmd
+        text: Convocatorias 2023
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
