@@ -1,16 +1,21 @@
 project:
   type: website
   output-dir: docs
-  preview:
-    browser: false
 
 website:
   navbar:
+    search: true
+    left:
+      - text: Equipo Némesis
+        href: equipo.qmd
+      - text: Convocatorias
+        href: convocatorias.qmd
+      - text: Publicaciones
+        menu: 
+          - href: https://revistanemesis.uchile.cl/
+            text: Portal Revista principal
+          - href: reseñas.qmd
     right:
-      - href: equipo.qmd
-        text: Equipo
-      - href: convocatorias.qmd
-        text: Convocatorias 2023
       - icon: instagram
         href: https://www.instagram.com/revistanemesis/
       - icon: twitter
@@ -20,11 +25,29 @@ website:
       - icon: mailbox
         href: mailto:nemesis@uchile.cl
     logo: images/circle_logo_black.png
-    search: true
     background: "#330033"
     foreground: "#FFFFBC"
     border: true
     pinned: true
+    back-to-top-navigation: true
+  sidebar:
+  - id: "Publicaciones"
+    title: Publicaciones
+    style: "docked"
+    search: false
+    pinned: true
+    contents:
+      - text: Portal Revista princial
+        href: https://revistanemesis.uchile.cl/
+      - section: "2023"
+        contents:
+          - product_2023/reseñas_2023.qmd
+          - product_2023/entrevistas_2023.qmd
+          - product_2023/columnas_2023.qmd
+          - product_2023/coloquios_2023.qmd
+          - product_2023/notas_investigativ_2023.qmd
+      - section: "2022"
+        contents:
 format:
   html:
     theme: flatly
