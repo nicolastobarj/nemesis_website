@@ -198,4 +198,4 @@ El comité editorial se reserva el derecho de hacer correcciones de estilo, orto
 
 # Anexos
 
-![icon_word](/images/word_icon.svg) [Carta de exclusividad](Carta%20de%20Exclusividad%20Nemesis.docx)
+![icon_word](images/word_icon.svg) [Carta de exclusividad](docx_pdf/Carta%20de%20Exclusividad%20Nemesis.docx)

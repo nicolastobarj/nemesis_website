@@ -1,7 +1,7 @@
 ---
 title: "Inicio"
 about:
-  image: banner.png
+  image: images/banner_white.png
   template: marquee
   links:
     - text: Instagram
@@ -38,13 +38,13 @@ El segundo, encargado de orientar la revista en base a su proyecto y de su edici
 
 El tercero, encargado de difundir el contenido que los otros equipos han considerado que debe ser publicado, se ocupa de: 1) gestionar y publicar en el sitio web de la revisa; 2) compartir en redes sociales las columnas de opinión y notas de investigación que han sido aceptadas; 3) gestionar los aspectos técnicos de la publicación impresa de la publicación principal de Némesis; 4) preparar afiches e infografías para las columnas de opinión, notas de investigación y otros contenidos para los que se considere necesario.
 
-![Flujo de Trabajo Equipo Némesis](images/flujo_trabajo.png)
+![](images/flujo_trabajo.png)
 
 # Productos de trabajo
 
 La lógica de conformar un Comité Editorial para abrir una convocatoria general a artículos académicos, y luego llevar a cabo un complejo proceso burocrático de revisión de pares que ha tenido la Revista en los últimos años, sin dudas que ha permitido aumentar la rigurosidad de los textos que son publicados, pero por todo lo dicho anteriormente, el trabajo se queda corto cuando uno solo se conforma con eso.
 
-Antes que una agrupación de “expertos”, el Comité Editorial debe actuar como un agente que intervenga en la facultad, atreviéndose a desarrollar actividades públicas en ella, que creen valor como comunidad de cientistas sociales que somos. Quienes levantan Némesis tienen que comprender que el número es solo la condensación final de todo el trabajo que se viene gestando durante el año, y en ese sentido, lo pulcro que termine dependerá del proceso, no de las condiciones finales del resultado. 
+Antes que una agrupación de "expertos", el Comité Editorial debe actuar como un agente que intervenga en la facultad, atreviéndose a desarrollar actividades públicas en ella, que creen valor como comunidad de cientistas sociales que somos. Quienes levantan Némesis tienen que comprender que el número es solo la condensación final de todo el trabajo que se viene gestando durante el año, y en ese sentido, lo pulcro que termine dependerá del proceso, no de las condiciones finales del resultado.
 
 El modelo de trabajo que pienso desplegar implica generar una ramificación de productos diferenciados que durante el año se irán publicando, ya sea en redes sociales, ya sea a través de una intervención física en la FACSO, para luego acumular escritos e instancias, que terminen siendo incluidas en el número final. En complemento, estarían las convocatorias generales de artículos académicos y otros varios.
 
@@ -52,7 +52,7 @@ A continuación, se presentan los productos que a mi parecer mejor permitirían 
 
 ## Artículos Académicos y Ensayos.
 
-En los artículos académicos y ensayos se encuentra la piedra angular del número. Corresponde a investigaciones conceptuales o empíricas sobre temas relevantes para el debate público y la disciplina sociológica, que colinden entre las 5.000 y 7.000 palabras. Se espera desarrollar dos secciones distintas. La primera estaría reservada para publicar "Dossier" del tema que se esté trabajando en el número, y la segunda para una convocatoria abierta a artículos con temáticas generales. Todos los semestres se hace un “call for papers” en Redes Sociales, y una vez recibidos los aportes, se someten a un proceso de revisión por pares que está sedimentado por las y los anteriores líderes de la Revista.
+En los artículos académicos y ensayos se encuentra la piedra angular del número. Corresponde a investigaciones conceptuales o empíricas sobre temas relevantes para el debate público y la disciplina sociológica, que colinden entre las 5.000 y 7.000 palabras. Se espera desarrollar dos secciones distintas. La primera estaría reservada para publicar "Dossier" del tema que se esté trabajando en el número, y la segunda para una convocatoria abierta a artículos con temáticas generales. Todos los semestres se hace un "call for papers" en Redes Sociales, y una vez recibidos los aportes, se someten a un proceso de revisión por pares que está sedimentado por las y los anteriores líderes de la Revista.
 
 ## Coloquio de tesistas
 
@@ -69,8 +69,3 @@ La presente sección estaría abierta a quienes quieran proporcionar reflexiones
 ## Presentación de organizaciones e iniciativas estudiantiles
 
 Tiene como objetivo destacar y promover a los grupos coordinados de estudiantes de la facultad para desarrollar algún objetivo que entregue valor público a la universidad. Puede incluir descripciones sobre sus misiones y objetivos, reseñas de eventos y actividades pasadas, así como información sobre cómo los estudiantes pueden unirse a estas organizaciones. En la facultad suele haber cierta confusión sobre los trabajos que hacen las organizaciones, y esta sección puede ser una herramienta útil para las organizaciones, en tanto permite aumentar su alcance y visibilidad, y para los estudiantes que buscan formas de involucrarse en la comunidad universitaria, en tanto facilita su consciencia de las oportunidades disponibles para involucrarse en actividades extracurriculares y en la sociedad en general. Sería una sección corta de no más de 500 palabras por organización. Puede incluir logo y contactos.
-
-
-
-
-
