@@ -17,3 +17,185 @@ Revista Némesis de Ciencias Sociales abre el llamado para la recepción de art�
 En esta ocasión no habrá un plazo establecido de recepción de los manuscritos, pues se requiere flexibilidad ante las condiciones de trabajo en las que se encuentra la revista. Pero el Comité editorial se compromete a informar, durante los primeros 10 días de recepción del artículo, si es que el texto será revisado para su publicación en el número XIX, o en los próximos números de la revista.
 
 **Comunicación del fallo editorial a los autores:** (Para los que sean declarados publicables para el número XIX) entre 15 y 30 días hábiles desde el momento de recepción del manuscrito. Fecha de publicación del número: *martes 15 de agosto de 2023*
+
+# Normas Editoriales \[Artículos\]
+
+Para que su postulación sea válida debe enviar tres documentos a [nemesis\@uchile.cl](mailto:nemesis@uchile.cl). Primero, una carta firmada en formato Word o PDF donde se indique si el artículo se enmarca en un estudio más extenso o una investigación (véanse los anexos). En la misma debe declararse la conformidad con el punto 2 (originalidad y exclusividad) y la cesión de los derechos para que Revista Némesis publique el artículo en caso de ser aceptado. Segundo, un archivo con los siguientes datos: título del artículo, en español e inglés; nombre, correo electrónico, afiliación institucional y teléfono de contacto del(los) autor(es) del artículo. Tercero, el manuscrito en formato .doc o .docx. El archivo, en sus propiedades, no debe poseer ningún elemento que permita la identificación del articulista ("autores", "equipo", "guardado por").
+
+Los documentos deben ser enviados al correo [nemesis\@uchile.cl](mailto:nemesis@uchile.cl), indicado por asunto: \[NXIX\] Apellido del autor - Título corto. Por ejemplo: \[NXIX\] Harvey -- Ciudades Rebeldes.
+
+Los artículos enviados deben ser inéditos, esto es, no haber sido publicados en ningún otro medio de difusión con anterioridad y no estar en proceso de evaluación en otra revista.
+
+Los artículos deben considerar los siguientes aspectos formales:
+
+1.  Hoja tamaño carta.
+
+2.  Márgenes de 3 centímetros (estándar de word).
+
+3.  Texto justificado
+
+4.  No debe utilizarse sangría.
+
+5.  Interlineado sencillo.
+
+6.  No debe incluirse número de página.
+
+7.  Espaciado del párrafo anterior de 0 pto. y posterior de 10 pto.
+
+8.  Letra Times New Roman 12.
+
+La extensión de los artículos contempla un **máximo de 7.000 palabras**, sin incluir referencias bibliográficas, tablas, resumen y palabras clave.
+
+El artículo debe contar necesariamente con las siguientes secciones y en el orden en que aparecen presentadas a continuación:
+
+-   Título en castellano. Título en inglés
+
+-   Resumen en castellano, con un máximo de 180 palabras, que describa el objetivo central del estudio, contenido, metodología y resultados o hallazgos más importantes.
+
+-   Resumen en inglés, traducción fiel del anterior.
+
+-   5 palabras clave en castellano.
+
+-   5 palabras clave en inglés.
+
+-   Introducción y marco conceptual (pueden ir juntos o en secciones diferentes, dependiendo de las necesidades del trabajo).
+
+-   Metodología.
+
+-   Resultados.
+
+-   Discusión.
+
+-   Referencias bibliográficas.
+
+Los artículos deben seguir el siguiente formato:
+
+-   Las citas incluidas en el texto deben ir entre comillas (no cursiva).
+
+-   Las citas cuya extensión sea superior a 3 líneas, debe tener un margen izquierdo de 1.25 centímetros adicionales al formato del resto del texto.
+
+-   Las notas al pie deben estar escritas en fuente Times New Roman, tamaño 10, con márgenes justificados.
+
+-   Los títulos deben estar escritos en negrita, en fuente Times New Roman, tamaño 12, con márgenes justificados y sin numerarse.
+
+-   Los subtítulos deben estar escritos en negrita y cursiva, en fuente Times New Roman, tamaño 12, con márgenes justificados.
+
+En caso de incorporar tablas, imágenes o gráficos, sólo las que se consideren imprescindibles para un correcto entendimiento del manuscrito deben ir en el cuerpo de este. El resto de éstas deben estar incluidas en una sección "Anexos" posterior a la sección *"Referencias bibliográficas"*. A su vez, es necesario enumerarlas e indicar en un párrafo aparte, entre corchetes, en el cuerpo del texto dónde corresponde que se ubique en el diseño final.
+
+Las tablas deben considerar los siguientes aspectos formales:
+
+-   Título: letra Times New Roman 12 en negrita, centrado y fuera de la tabla, con su respectiva numeración.
+
+-   Letra Times New Roman 10.
+
+-   Sólo incluir las líneas horizontales, de acuerdo con el formato APA séptima edición.
+
+-   Debe señalarse la fuente de la tabla.
+
+Debe usarse puntos, y no comas, como separador decimal.
+
+El Comité Editorial de Revista Némesis se reserva el derecho de someter a evaluación y considerar la publicación de los manuscritos enviados con arreglo a estos requisitos.
+
+La selección de los artículos será realizada por dicho Comité mediante el sistema de referato ciego. A los autores se les notificará, en su debido momento, la decisión sobre la publicación de su contribución.
+
+El estilo formal del texto final, una vez aceptado, queda subordinado a la diagramación y consideraciones del consejo de redacción de la revista. En el caso de que los autores deseasen publicar posteriormente su artículo en otro medio, deberán explicitar en esa publicación que la versión original se encuentra en Revista Némesis.
+
+# Normas Editoriales \[Ensayos\]
+
+Para que su postulación sea válida debe enviar tres documentos a [nemesis\@uchile.cl](mailto:nemesis@uchile.cl). Primero, una carta firmada en formato Word o PDF donde se indique si el ensayo se enmarca en un estudio más extenso o una investigación (véanse los anexos). En la misma debe declararse la conformidad con el punto 2 (originalidad y exclusividad) y la cesión de los derechos para que Revista Némesis publique el ensayo en caso de ser aceptado. Segundo, un archivo con los siguientes datos: título del ensayo, en español e inglés; nombre, correo electrónico, afiliación institucional y teléfono de contacto del(los) autor(es) del ensayo. Tercero, el manuscrito en formato .doc o .docx. El archivo, en sus propiedades, no debe poseer ningún elemento que permita la identificación del articulista ("autores", "equipo", "guardado por"). Es importante que el documento no permita identificar al autor para asegurar el proceso de referato ciego.
+
+Los documentos deben ser enviados al correo nemesis\@uchile.cl, indicado por asunto: \[NXIX\] Apellido del autor - Título corto del manuscrito. Por ejemplo: \[NXIX\] Harvey -- Ciudades Rebeldes. Los ensayos enviados deben ser inéditos, esto es, no haber sido publicados en ningún otro medio de difusión con anterioridad y no estar en proceso de evaluación en otra revista.
+
+Los ensayos deben considerar los siguientes aspectos formales:
+
+1.  Hoja tamaño carta.
+
+2.  Márgenes de 3 centímetros (estándar de word).
+
+3.  Texto justificado
+
+4.  No debe utilizarse sangría.
+
+5.  Interlineado sencillo.
+
+6.  No debe incluirse número de página.
+
+7.  Espaciado del párrafo anterior de 0 pto. y posterior de 10 pto.
+
+8.  Letra Times New Roman 12.
+
+La extensión de los manuscritos contempla un máximo de 5.500 palabras, sin incluir referencias bibliográficas, tablas, resumen y palabras clave.
+
+El ensayo debe constar de las siguientes secciones:
+
+-   Título en castellano.
+
+-   Título en inglés.
+
+-   Resumen en castellano, con un máximo de 180 palabras, que describa el objetivo central del ensayo. Resumen en inglés, traducción fiel del anterior.
+
+-   3 palabras clave en castellano.
+
+-   3 palabras clave en inglés.
+
+-   Una sección "Referencias bibliográficas".
+
+Las referencias deben seguir formato APA séptima edición. Los ensayos deben seguir el siguiente formato:
+
+-   Las citas incluidas en el texto deben ir entre comillas (no cursiva).
+
+-   Las citas cuya extensión sea superior a 3 líneas, debe tener un margen izquierdo de 1.25 centímetros adicionales al formato del resto del texto.
+
+-   Las notas al pie deben estar escritas en fuente Times New Roman, tamaño 10, con márgenes justificados.
+
+-   Los títulos deben estar escritos en negrita, en fuente Times New Roman, tamaño 12, con márgenes justificados y sin numerarse.
+
+-   Los subtítulos deben estar escritos en negrita y cursiva, en fuente Times New Roman, tamaño 12, con márgenes justificados.
+
+En caso de incorporar tablas, imágenes o gráficos, sólo las que se consideren imprescindibles para un correcto entendimiento del manuscrito deben ir en el cuerpo de este. El resto de éstas deben estar incluidas en una sección "Anexos" posterior a la sección "Referencias bibliográficas". A su vez, es necesario enumerarlas e indicar en un párrafo aparte, entre corchetes, en el cuerpo del texto dónde corresponde que se ubique en el diseño final.
+
+Las tablas deben considerar los siguientes aspectos formales:
+
+-   Título: letra Times New Roman 12 en negrita, centrado y fuera de la tabla, con su respectiva numeración.
+
+-   Letra Times New Roman 10.
+
+-   Sólo incluir las líneas horizontales, de acuerdo con el formato APA séptima edición.
+
+-   Debe señalarse la fuente de la tabla.
+
+Debe usarse puntos, y no comas, como separador decimal.
+
+El Comité Editorial de Revista Némesis se reserva el derecho de someter a evaluación y considerar la publicación de los ensayos enviados con arreglo a estos requisitos.
+
+La selección de los ensayos será realizada por dicho Comité mediante el sistema de referato ciego. A los colaboradores se les notificará, en su debido momento, la decisión sobre la publicación de su contribución.
+
+El estilo formal del texto final, una vez aceptado, queda subordinado a la diagramación y consideraciones del consejo de redacción de la revista. En el caso de que los autores deseasen publicar posteriormente su ensayo en otro medio, deberán explicitar en esa publicación que la versión original se encuentra en Revista Némesis.
+
+#Normas Editoriales \[Reseñas bibliográficas\]
+
+# Sobre el uso del lenguaje inclusivo
+
+El uso de lenguaje inclusivo es decisión del autor, es decir, no es de uso obligado ni prohibido para los manuscritos que se publiquen en la Revista Némesis. La Revista Némesis sólo publicará manuscritos en su web (columnas de opinión y notas de investigación) que, en caso de usar lenguaje inclusivo, utilicen una barra diagonal ("/"; los/as estudiantes, por ejemplo), que expliciten ambos sexos (los y las estudiantes, por ejemplo) o que usen términos neutros (en vez de los y las estudiantes "el estudiantado", por ejemplo). En su publicación principal (ensayos, artículos, reseñas y entrevistas), Némesis sólo permitirá el uso de estos dos últimos. La Revista Némesis, en todas sus publicaciones, se reserva el derecho de publicar manuscritos que reemplacen la "o" por la "e" (los estudiantes por "les" estudiantes, por ejemplo), que reemplacen la "o" por la "x" (los estudiantes por "lxs" estudiantes, por ejemplo), que reemplacen la "o" por un "\@" (los estudiantes por "l\@s estudiantes") y que reemplacen la "o" por un guion (los estudiantes por "l-s estudiantes, por ejemplo).
+
+Los autores que deseen usar lenguaje inclusivo deben abogar por el cuidado de este, evitando su abuso y prefiriendo el uso de términos neutros que incluyan a hombres, mujeres y otras identidades.
+
+# Proceso de selección de los artículos y ensayos
+
+Los trabajos recibidos serán evaluados por el comité editorial y por evaluadores externos. Todo el proceso se realiza mediante el sistema de referato doble ciego.
+
+Los trabajos son evaluados: en un primer momento, con respecto al cumplimiento de las normas editoriales; en un segundo momento, con respecto a su afinidad con la línea editorial de Némesis; y, en un tercer momento, en términos sustantivos sobre su relevancia, originalidad, argumentación, dominio del tema, bibliografía pertinente.
+
+Entre 15 y 30 días hábiles desde la recepción del manuscrito, los autores serán notificados con respecto a si su manuscrito fue considerado "no publicable", "publicable con modificaciones" o "publicable sin modificaciones".
+
+Para los trabajos catalogados como "publicable con modificaciones" los autores tendrán un plazo de hasta 15 días hábiles para enviar el texto con las modificaciones sugeridas.
+
+El comité editorial aceptará o rechazará definitivamente los trabajos reenviados a más tardar el 15 de julio de 2021.
+
+El comité editorial se reserva el derecho de hacer correcciones de estilo, ortografía y redacción de la versión final de los artículos a ser publicados, sin alterar el contenido de los manuscritos.
+
+# Proceso de selección de reseñas bibliográficas
+
+# Anexos
+
+![icon_word](/images/word_icon.svg) [Carta de exclusividad](Carta%20de%20Exclusividad%20Nemesis.docx)
