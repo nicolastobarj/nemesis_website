@@ -1,18 +1,7 @@
 ---
 title: "Inicio"
-about:
-  image: images/banner_white.png
-  template: marquee
-  links:
-    - text: Instagram
-      icon: instagram
-      href: https://www.instagram.com/revistanemesis/
-    - text: Email
-      icon: mail
-      href: mailto:nemesis@uchile.cl
+image: images/banner_black.png
 ---
-
-# Acerca de Némesis
 
 Némesis es una Revista de estudiantes de la Facultad de Ciencias Sociales de la Universidad de Chile. Esta se configura como espacio de discusión de problemáticas sociopolíticas contemporáneas, ligando la formación disciplinar con el ejercicio de reflexionar acerca de nuestra sociedad. En este sentido, si bien halla sus raíces en la Escuela de Sociología, extiende sus ramas hacía el amplio espectro del pensamiento social.
 
@@ -50,22 +39,22 @@ El modelo de trabajo que pienso desplegar implica generar una ramificación de p
 
 A continuación, se presentan los productos que a mi parecer mejor permitirían la realización de esta idea.
 
-## Artículos Académicos y Ensayos.
+### Artículos Académicos y Ensayos.
 
 En los artículos académicos y ensayos se encuentra la piedra angular del número. Corresponde a investigaciones conceptuales o empíricas sobre temas relevantes para el debate público y la disciplina sociológica, que colinden entre las 5.000 y 7.000 palabras. Se espera desarrollar dos secciones distintas. La primera estaría reservada para publicar "Dossier" del tema que se esté trabajando en el número, y la segunda para una convocatoria abierta a artículos con temáticas generales. Todos los semestres se hace un "call for papers" en Redes Sociales, y una vez recibidos los aportes, se someten a un proceso de revisión por pares que está sedimentado por las y los anteriores líderes de la Revista.
 
-## Coloquio de tesistas
+### Coloquio de tesistas
 
 En la FACSO, los tesistas de pregrado se suelen sentir bastante solos cuando desarrollan sus investigaciones. Como es un proceso individual, en el cual uno se va desmarcando, incluso físicamente, del departamento de sociología, los únicos comentarios y observaciones críticas que se reciben provienen de le profesor guía. Hay poco contacto entre compañeres tesistas, siendo que podría ser un aporte enorme (emocional y académicamente) expandir los flujos de comunicación entre elles. Este producto se define como una presentación pública en el que unos 4 o 5 tesistas presentan en algún escenario de la facultad una ponencia, de no más de 10 minutos, al resto de estudiantes que estén alrededor. La idea es que esto permite a esos estudiantes hacerles preguntas y críticas que sirvan para ir fortaleciendo aún más sus trabajos. En términos procedimentales, se haría una convocatoria general a los tesistas de 5to año o más para que escriban un guión de 10 minutos de su presentación, y el Comité Editorial elegiría las ponencias que tengan mejor considerados. Cuando se publique la revista, se exponen en esta sección las ponencias seleccionadas.
 
-## Entrevistas
+### Entrevistas
 
 La sección de entrevistas proporciona una perspectiva experta y única sobre temas relevantes en el campo de estudio de las Ciencias Sociales. Puede incluir preguntas sobre la experiencia personal del entrevistado en el campo científico, su investigación actual o más reciente, su perspectiva sobre temas disciplinares, entre otros. Las entrevistas se transmiten, y luego queden grabadas en las redes sociales de Némesis. En el número del producto principal se publican las transcripciones de las entrevistas. Su duración máxima debería ser de 45 minutos. A veces el tema de la entrevista es el mismo que el de la sección dossier, de manera de hacer dialogar ambas cosas.
 
-## Comentarios bibliográficos
+### Comentarios bibliográficos
 
 La presente sección estaría abierta a quienes quieran proporcionar reflexiones críticas de libros de Ciencias Sociales recientes al público. Se espera acumular unas 5 o 6 reseñas de textos actuales para invitar al resto de estudiantes de la facultad a sumergirse en las ideas y debates que vive el campo de la sociología. Tendría una extensión de no más de 3.500 palabras, y para apurar procesos, podría estar escrita por les mismes integrantes del Comité Editorial. Se priorizan las reseñas que estén relacionadas al tema del número del producto principal.
 
-## Presentación de organizaciones e iniciativas estudiantiles
+### Presentación de organizaciones e iniciativas estudiantiles
 
 Tiene como objetivo destacar y promover a los grupos coordinados de estudiantes de la facultad para desarrollar algún objetivo que entregue valor público a la universidad. Puede incluir descripciones sobre sus misiones y objetivos, reseñas de eventos y actividades pasadas, así como información sobre cómo los estudiantes pueden unirse a estas organizaciones. En la facultad suele haber cierta confusión sobre los trabajos que hacen las organizaciones, y esta sección puede ser una herramienta útil para las organizaciones, en tanto permite aumentar su alcance y visibilidad, y para los estudiantes que buscan formas de involucrarse en la comunidad universitaria, en tanto facilita su consciencia de las oportunidades disponibles para involucrarse en actividades extracurriculares y en la sociedad en general. Sería una sección corta de no más de 500 palabras por organización. Puede incluir logo y contactos.

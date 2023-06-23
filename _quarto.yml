@@ -1,16 +1,30 @@
 project:
   type: website
   output-dir: docs
+  preview:
+    browser: false
 
 website:
-  title: "Revista Némesis"
   navbar:
     right:
-      - href: about.qmd
+      - href: equipo.qmd
         text: Equipo
       - href: convocatorias.qmd
         text: Convocatorias 2023
-
+      - icon: instagram
+        href: https://www.instagram.com/revistanemesis/
+      - icon: twitter
+        href: https://twitter.com/RevistaNemesis
+      - icon: facebook
+        href: https://web.facebook.com/profile.php?id=100064994021305
+      - icon: mailbox
+        href: mailto:nemesis@uchile.cl
+    logo: images/circle_logo_black.png
+    search: true
+    background: "#330033"
+    foreground: "#FFFFBC"
+    border: true
+    pinned: true
 format:
   html:
     theme: flatly
