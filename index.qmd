@@ -1,6 +1,8 @@
 ---
 title: "Inicio"
-image: images/banner_black.png
+about: 
+  template: marquee
+  image: images/banner_black.png
 ---
 
 Némesis es una Revista de estudiantes de la Facultad de Ciencias Sociales de la Universidad de Chile. Esta se configura como espacio de discusión de problemáticas sociopolíticas contemporáneas, ligando la formación disciplinar con el ejercicio de reflexionar acerca de nuestra sociedad. En este sentido, si bien halla sus raíces en la Escuela de Sociología, extiende sus ramas hacía el amplio espectro del pensamiento social.

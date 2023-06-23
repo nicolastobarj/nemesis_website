@@ -4,17 +4,12 @@ project:
 
 website:
   navbar:
-    search: true
+    search: false
     left:
       - text: Equipo Némesis
         href: equipo.qmd
       - text: Convocatorias
         href: convocatorias.qmd
-      - text: Publicaciones
-        menu: 
-          - href: https://revistanemesis.uchile.cl/
-            text: Portal Revista principal
-          - href: reseñas.qmd
     right:
       - icon: instagram
         href: https://www.instagram.com/revistanemesis/
@@ -31,10 +26,9 @@ website:
     pinned: true
     back-to-top-navigation: true
   sidebar:
-  - id: "Publicaciones"
-    title: Publicaciones
+    title: "Publicaciones" #No funciona
     style: "docked"
-    search: false
+    search: true
     pinned: true
     contents:
       - text: Portal Revista princial
@@ -52,7 +46,7 @@ format:
   html:
     theme: flatly
     mainfont: arapey
-    fontsize: 1.0rem
+    fontsize: 1.1rem
     fontcolor: "#330033"
     linkcolor: "#009B86"
     monofont: lato
