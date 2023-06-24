@@ -10,7 +10,7 @@ toc-depth: 2
 
 ##### Nicolás Tobar
 
-![](images/nicolas_tobar.jpeg){width="100"}
+![](images/nicolas_tobar.jpeg){width=100 fig.align='center'}
 
 **Director**. Sociólogo de la Universidad de Chile. Intereses en las teorías de la democracia y la aceleración social.
 

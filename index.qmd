@@ -29,8 +29,23 @@ El segundo, encargado de orientar la revista en base a su proyecto y de su edici
 
 El tercero, encargado de difundir el contenido que los otros equipos han considerado que debe ser publicado, se ocupa de: 1) gestionar y publicar en el sitio web de la revisa; 2) compartir en redes sociales las columnas de opinión y notas de investigación que han sido aceptadas; 3) gestionar los aspectos técnicos de la publicación impresa de la publicación principal de Némesis; 4) preparar afiches e infografías para las columnas de opinión, notas de investigación y otros contenidos para los que se considere necesario.
 
-![](images/flujo_trabajo.png)
+```{mermaid}
+flowchart LR
+%%| fig-width: 6.5
+%%| fig-height: 15
 
+  A[Autores] -- Envío --> B[Comite editorial]
+  B --> C(Se acepta)
+  C --> D[Dirección]
+  D --> E(Se rechaza)
+  D --> I(Se aprueba)
+  I --> F[Equipo de comunicaciones]
+  F --> G{Publicación}
+  B --> H(Se rechaza)
+  H --> A
+  E --> A
+  
+```
 # Productos de trabajo
 
 La lógica de conformar un Comité Editorial para abrir una convocatoria general a artículos académicos, y luego llevar a cabo un complejo proceso burocrático de revisión de pares que ha tenido la Revista en los últimos años, sin dudas que ha permitido aumentar la rigurosidad de los textos que son publicados, pero por todo lo dicho anteriormente, el trabajo se queda corto cuando uno solo se conforma con eso.

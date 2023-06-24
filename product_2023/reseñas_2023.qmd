@@ -1,3 +1,6 @@
 ---
 title: "Reseñas bibliográficas"
+listing:
+  contents: reseñas_2023
+  type: default
 ---
