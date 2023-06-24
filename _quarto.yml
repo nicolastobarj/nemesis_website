@@ -6,10 +6,19 @@ website:
   navbar:
     search: false
     left:
-      - text: Equipo Némesis
+      - text: "Somos"
+        menu:
+          - vision.qmd
+          - organizacion.qmd
+          - productos.qmd
+      - text: Equipo
         href: equipo.qmd
-      - text: Convocatorias
+      - text: Convocatoria NºXIX
         href: convocatorias.qmd
+      - text: "Recientes"
+        menu:
+          - noticias.qmd
+          - actividades.qmd
     right:
       - icon: instagram
         href: https://www.instagram.com/revistanemesis/
@@ -26,22 +35,18 @@ website:
     pinned: true
     back-to-top-navigation: true
   sidebar:
-    title: "Publicaciones" #No funciona
+    title: "Publicaciones"
     style: "docked"
     search: true
     pinned: true
     contents:
       - text: Portal Revista princial
         href: https://revistanemesis.uchile.cl/
-      - section: "2023"
-        contents:
-          - product_2023/reseñas_2023.qmd
-          - product_2023/entrevistas_2023.qmd
-          - product_2023/columnas_2023.qmd
-          - product_2023/coloquios_2023.qmd
-          - product_2023/notas_investigativ_2023.qmd
-      - section: "2022"
-        contents:
+      - product_2023/reseñas_2023.qmd
+      - product_2023/entrevistas_2023.qmd
+      - product_2023/columnas_2023.qmd
+      - product_2023/coloquios_2023.qmd
+      - product_2023/notas_investigativ_2023.qmd
 format:
   html:
     theme: flatly

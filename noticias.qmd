@@ -1,0 +1,10 @@
+---
+title: "Noticias"
+listing:
+  contents: noticias
+  type: default
+  sort: 
+    - "date"
+  fields: [date, title, reading-time]
+  page-size: 10
+---

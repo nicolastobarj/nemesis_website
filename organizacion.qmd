@@ -1,0 +1,31 @@
+---
+title: Organización de trabajo
+---
+
+La Revista Némesis consta de tres áreas divulgativas: 1) publicación principal semestral; 2) sitio web y redes sociales; 3) actividades presenciales (relativa a la organización de seminarios, lanzamiento de números, entre otros).
+
+La Revista Némesis cuenta con tres equipos de trabajo: un comité editorial, la dirección y un equipo de comunicaciones.
+
+El primero, encargado de la recepción y revisión de las contribuciones enviadas a Némesis. En este sentido, este equipo: 1) tiene acceso al correo electrónico de la revista, mediante el cual se encarga de recibir y gestionar la publicación de los manuscritos; 2) juzga, según las normas editoriales, la publicación de los manuscritos recibidos; 3) se comunica con quienes envían colaboraciones a la revista, haciéndoles saber si su manuscrito es aceptado o rechazado.
+
+El segundo, encargado de orientar la revista en base a su proyecto y de su edición, se ocupa de: 1) supervisar el trabajo de los demás equipos; 2) juzgar, según la orientación de la revista, la publicación de los manuscritos aceptados para su publicación por el comité editorial; 3) ordenar el material para su publicación; 4) representar a la revista frente a otras organizaciones o personas ajenas; 5) proponer un proyecto anual de trabajo.
+
+El tercero, encargado de difundir el contenido que los otros equipos han considerado que debe ser publicado, se ocupa de: 1) gestionar y publicar en el sitio web de la revisa; 2) compartir en redes sociales las columnas de opinión y notas de investigación que han sido aceptadas; 3) gestionar los aspectos técnicos de la publicación impresa de la publicación principal de Némesis; 4) preparar afiches e infografías para las columnas de opinión, notas de investigación y otros contenidos para los que se considere necesario.
+
+```{mermaid}
+flowchart LR
+%%| fig-width: 6.5
+%%| fig-height: 15
+
+  A[Autores] -- Envío --> B[Comite editorial]
+  B --> C(Se acepta)
+  C --> D[Dirección]
+  D --> E(Se rechaza)
+  D --> I(Se aprueba)
+  I --> F[Equipo de comunicaciones]
+  F --> G{Publicación}
+  B --> H(Se rechaza)
+  H --> A
+  E --> A
+  
+```

@@ -3,4 +3,8 @@ title: "Reseñas bibliográficas"
 listing:
   contents: reseñas_2023
   type: default
+  sort: 
+    - "date"
+  fields: [date, title, author, reading-time, description]
+  page-size: 10
 ---
