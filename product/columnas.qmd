@@ -1,0 +1,10 @@
+---
+title: "Columnas de opinión"
+listing:
+  contents: columnas
+  type: default
+  sort: 
+    - "date desc"
+  fields: [title, author, date, reading-time, description]
+  page-size: 10
+---

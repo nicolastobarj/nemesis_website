@@ -8,11 +8,25 @@
     "items": []
   },
   {
-    "listing": "/product_2023/reseñas_2023.html",
+    "listing": "/product/coloquios.html",
+    "items": []
+  },
+  {
+    "listing": "/product/columnas.html",
+    "items": []
+  },
+  {
+    "listing": "/product/comentarios.html",
     "items": [
-      "/product_2023/reseñas_2023/era_de_la_farsa.html",
-      "/product_2023/reseñas_2023/desobedecer.html",
-      "/product_2023/reseñas_2023/ideologia_competencia.html"
+      "/product/comentarios/ideologia_competencia.html",
+      "/product/comentarios/kibutz.html",
+      "/product/comentarios/chavs.html",
+      "/product/comentarios/desobedecer.html",
+      "/product/comentarios/era_de_la_farsa.html"
     ]
+  },
+  {
+    "listing": "/product/notas_investigativ.html",
+    "items": []
   }
 ]

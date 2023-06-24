@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  favicon: images/circle_logo_black.png
   navbar:
     search: false
     left:
@@ -35,18 +36,18 @@ website:
     pinned: true
     back-to-top-navigation: true
   sidebar:
-    title: "Publicaciones"
+    title: Publicaciones
     style: "docked"
     search: true
     pinned: true
     contents:
       - text: Portal Revista princial
         href: https://revistanemesis.uchile.cl/
-      - product_2023/reseñas_2023.qmd
-      - product_2023/entrevistas_2023.qmd
-      - product_2023/columnas_2023.qmd
-      - product_2023/coloquios_2023.qmd
-      - product_2023/notas_investigativ_2023.qmd
+      - product/comentarios.qmd
+      - product/entrevistas.qmd
+      - product/columnas.qmd
+      - product/coloquios.qmd
+      - product/notas_investigativ.qmd
 format:
   html:
     theme: flatly

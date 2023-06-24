@@ -1,0 +1,10 @@
+---
+title: "Comentarios bibliográficos"
+listing:
+  contents: comentarios
+  type: default
+  sort: 
+    - "date desc"
+  fields: [date, title, author, reading-time, description]
+  page-size: 10
+---

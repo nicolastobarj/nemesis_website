@@ -1,0 +1,10 @@
+---
+title: "Coloquios"
+listing:
+  contents: coloquios
+  type: default
+  sort: 
+    - "date desc"
+  fields: [title, date, author]
+  page-size: 10
+---

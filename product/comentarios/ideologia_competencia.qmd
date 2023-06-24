@@ -1,0 +1,16 @@
+---
+title: "La ideología de la competencia - Marinela Chauí"
+author: Catalina Solar
+date: 06-15-2023
+about: 
+  template: trestles
+  image: ../../images/ideologia_competencia.webp
+---
+
+Las transformaciones de la ideología burguesa desde el siglo XIX, pasando por la regulación fordista que introduce una nueva práctica en las relaciones sociales conocida como la organización y la llegada de la fase neoliberal, es el escenario en el que se enmarca el libro La ideología de la Competencia escrito por la filosófica e intelectual brasileña Marilena Chauí.
+
+La Ideología de la Competencia surge inicialmente en el interior del fordismo, específicamente con la división entre gerencia científica y trabajo especializado, entre competencia de los administradores e incompetencia de los trabajadores contratados. Sin embargo, con la llegada del neoliberalismo, la ideología de la competencia se desarrolla de forma aún más violenta, centrada en dos instituciones: la universidad y la industria cultural.
+
+En base a lo anterior, el libro tiene como propósito contribuir en la comprensión de los procesos de privatización de la educación en Brasil, Latinoamérica y el mundo. La autora rechaza la universidad organizada por el modelo fordista, dirigidos por administradores supuestamente "competentes" que no son escogidos por la propia comunidad universitaria, sino que son designados por los grupos económicos y políticos en control del Estado. Universidades que no se encuentran formando sujetos/as reflexivos/as, sino por el contrario, dan a conocer para que no se pueda pensar, adquiriendo conocimiento para reproducir y no crear. Sujetos/as como mano de obra calificada, ya que cuentan con conocimientos técnicos que podrán ser ofrecidos en el mercado laboral, en palabras simples, sujetos/as de reserva.
+
+El texto es de real importancia para comprender cómo la educación superior se presenta como una empresa más, cómo los procesos de comunicación en el sistema neoliberal van generando cambios relevantes en las formas de vivir de las personas y la importancia de hacer frente ante esta situación. Al leer el libro, resultan aún más latentes las discusiones actuales en nuestro país, ante el aumento de egresados sin empleabilidad y la lucha de hace años por la imposibilidad del pago de la deuda universitaria, específicamente el Crédito con Garantía del Estado (CAE).

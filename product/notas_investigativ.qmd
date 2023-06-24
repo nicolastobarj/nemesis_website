@@ -1,10 +1,10 @@
 ---
-title: "Reseñas bibliográficas"
+title: "Notas investigativas"
 listing:
-  contents: reseñas_2023
+  contents: notas_investigativ
   type: default
   sort: 
-    - "date"
+    - "date desc"
   fields: [date, title, author, reading-time, description]
   page-size: 10
 ---
