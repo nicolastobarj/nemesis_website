@@ -1,5 +1,6 @@
 ---
 title: "Convocatoria 2023"
+lang: es
 ---
 
 Revista Némesis de Ciencias Sociales abre el llamado para la recepción de artículos, ensayos y reseñas bibliográficas, que serán publicados en el Número XX de la revista, buscando aportes en la temática de *Futuros posibles ante las crisis del Siglo XXI*, donde se valora especialmente las contribuciones originales realizadas desde perspectivas críticas. En esta línea, se reciben aportes en las siguientes áreas:
@@ -172,7 +173,7 @@ La selección de los ensayos será realizada por dicho Comité mediante el siste
 
 El estilo formal del texto final, una vez aceptado, queda subordinado a la diagramación y consideraciones del consejo de redacción de la revista. En el caso de que los autores deseasen publicar posteriormente su ensayo en otro medio, deberán explicitar en esa publicación que la versión original se encuentra en Revista Némesis.
 
-#Normas Editoriales \[Reseñas bibliográficas\]
+# Normas Editoriales \[Reseñas bibliográficas\]
 
 # Sobre el uso del lenguaje inclusivo
 

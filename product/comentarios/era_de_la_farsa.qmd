@@ -1,10 +1,14 @@
 ---
-title: "La era de la farsa - Rodrigo Baño"
+title: "La era de la farsa"
+subtitle: "Rodrigo Baño"
+description: "El profesor nos entrega un panorama general del traspaso de la economía doméstica a la economía política"
+categories: "Comentarios bibliográficos"
 author: Nicolás Tobar
 date: 04-03-2023
+image: ../../images/era_de_la_farsa.jpg
+lang: es
 about: 
   template: trestles
-  image: ../../images/era_de_la_farsa.jpg
 ---
 
 El profesor Baño nos entrega una lectura muy entretenida e interesante sobre cómo las transformaciones en las condiciones materiales de producción y reproducción de la vida inciden en los cambios culturales y las orientaciones de valor asociados a ella. Desde esta esquina revisará las contradicciones y dilemas que vivimos en la época actual. Durante todo el libro la tesis es bastante simple, y sin querer ser injusto, se resume en el siguiente párrafo.

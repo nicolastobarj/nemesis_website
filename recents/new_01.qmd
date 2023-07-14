@@ -1,0 +1,24 @@
+---
+title: "¡Némesis inaugura su nueva Página Web!"
+subtitle: "A través de un formato reproducible, abierto y colaborativo"
+categories: "Noticia"
+date: 07-17-2023
+image: ../images/new_01.jpeg
+lang: es
+about:
+  template: marquee
+---
+
+Hace un buen tiempo que nuestra organización no contaba con un sitio en internet que le permitiera centralizar sus publicaciones, avisos, convocatorias, e informaciones varias. A partir de hoy, gracias al esfuerzo de las y los integrantes del Comité editorial, esto vuelve a ser posible.
+
+Antes de volver a la presencialidad, Némesis contaba con una página en dominio pagado, donde se publicaban columnas, reflexiones, entre otras, y se hacían breves aproximaciones al equipo que sostenía la organización. Lamentablemente, por la inactividad intermitente de la revista, se fue apagando este sitio, hasta terminar siendo eliminado. En cambio, se obtuvo un espacio en el portal de revistas digitales de la Universidad de Chile.
+
+El problema es que este portal está dedicado únicamente al producto final de Némesis, que es el número de la revista. En este espacio no es posible publicar las actividades que llevamos a cabo en el año, y tampoco se puedemostrar en detalle los objetivos de nuestro equipo. Así fue como decidimos emprender rumbo para construir un nuevo lugar que se sintiera cálido y acogedor para nuestra organización y su público.
+
+Además, este nuevo dominio es gratuito y adscribe a los **principios de ciencia pública** a los que suscribe Némesis, pues fue desarrollada a través del software libre R (principalmente con Quarto Markdown), y su código se encuentra abierto en un repositorio GitHub al cual cualquiera puede acceder. Se espera que esto permita a las y los estudiantes interesados en la reproducibilidad de la investigación a acercarse a conocer la estructura que sostiene la página para que puedan colaborar en su desarrollo.
+
+Cabe destacar que gran parte de las imágenes que se muestran en la página fueron hechas con la herramienta de Inteligencia Artificial Dall-E 2.
+
+La página se compone por dos barras. En la barra horizontal que aparece en la parte superior de la pantalla el usuario puede navegar para conocer acerca del proyecto de Némesis, e informarse sobre convocatorias y actividades que estamos llevando a cabo. En la barra vertical se encuentran las publicaciones (divididas por producto) y se anidan otras organizaciones aliadas con Némesis.
+
+¡Esperamos que puedan disfrutar de la página tal como nosotros lo hicimos al crearla!

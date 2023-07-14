@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.3.361">
@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>¿Qué es Némesis?</title>
+<title>¡Bienvenido/a al portal de la Revista de Estudiantes de Sociología UChile!</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/circle_logo_black.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -46,24 +48,83 @@ ul.task-list li input[type="checkbox"] {
   "type": "overlay",
   "limit": 20,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-no-results-text": "Sin resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Buscar"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-product .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-categories','listing-title','listing-subtitle','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-product'] = new List('listing-product', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-recents .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-subtitle','listing-image','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-recents'] = new List('listing-recents', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed fullcontent">
+<body class="nav-sidebar docked nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -74,8 +135,8 @@ ul.task-list li input[type="checkbox"] {
     <img src="./images/circle_logo_black.png" alt="" class="navbar-logo">
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Buscar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -86,16 +147,12 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-somos">    
         <li>
-    <a class="dropdown-item" href="./vision.html" rel="" target="">
- <span class="dropdown-text">Visión</span></a>
+    <a class="dropdown-item" href="./proyecto.html" rel="" target="">
+ <span class="dropdown-text">Proyecto</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./organizacion.html" rel="" target="">
  <span class="dropdown-text">Organización de trabajo</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./productos.html" rel="" target="">
- <span class="dropdown-text">Productos de trabajo</span></a>
   </li>  
     </ul>
   </li>
@@ -107,21 +164,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./convocatorias.html" rel="" target="">
  <span class="menu-text">Convocatoria NºXIX</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-recientes" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
- <span class="menu-text">Recientes</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-recientes">    
-        <li>
-    <a class="dropdown-item" href="./noticias.html" rel="" target="">
- <span class="dropdown-text">Noticias</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./recents.html" rel="" target="">
+ <span class="menu-text">Recientes</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./actividades.html" rel="" target="">
- <span class="dropdown-text">Actividades</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -152,92 +198,275 @@ ul.task-list li input[type="checkbox"] {
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">¿Qué es Némesis?</li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">¡Bienvenido/a al portal de la Revista de Estudiantes de Sociología UChile!</li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
-        <i class="bi bi-search"></i>
-      </button>
     </div>
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">¡Bienvenido/a al portal de la Revista de Estudiantes de Sociología UChile!</h1>
+                      </div>
+  </div>
+  <div class="quarto-title-meta">
+    </div>
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
-        <div class="mt-2 flex-shrink-0 align-items-center">
-        <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
-        </div>
-        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+ <span class="menu-text">Publicaciones</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Alternar sección">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="https://revistanemesis.uchile.cl/" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Portal Revista princial</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./product/comentarios.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Comentarios bibliográficos</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./product/entrevistas.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Entrevistas</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./product/columnas.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Columnas de opinión</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./product/coloquios.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Coloquios</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./product/notas_investigativ.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Notas investigativas</span></a>
   </div>
 </li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+ <span class="menu-text">Alianzas Organizacionales</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Alternar sección">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="https://teoriasocialhoy.org/" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Núcleo Teoría Social Hoy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./404.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">REDES</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
     </ul>
     </div>
 </nav>
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">En esta página</h2>
+  <ul>
+  <li><a href="#noticias-y-actividades-recientes" id="toc-noticias-y-actividades-recientes" class="nav-link active" data-scroll-target="#noticias-y-actividades-recientes">Noticias y actividades recientes</a></li>
+  <li><a href="#últimos-productos" id="toc-últimos-productos" class="nav-link" data-scroll-target="#últimos-productos">Últimos productos</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<div class="quarto-about-marquee">
+<div class="quarto-about-marquee column-body">
   <div class="about-image-container">
-    <img src="images/banner_black.png" class="about-image " style="width: 100%;">
+    <img src="images/header.jpg" class="about-image " style="width: 100%;">
   </div>
   <div class="about-contents">
-    <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">¿Qué es Némesis?</h1>
+     <main class="content quarto-banner-title-block column-body" id="quarto-document-content">
+
+<section id="noticias-y-actividades-recientes" class="level2">
+<h2 data-anchor-id="noticias-y-actividades-recientes">Noticias y actividades recientes</h2>
+<div id="listing-recents" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Noticia" data-listing-date-sort="1689566400000" data-listing-file-modified-sort="1689348122164" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./recents/new_01.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/new_01.jpeg" class="thumbnail-image card-img" style="height: 15.0rem;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+¡Némesis inaugura su nueva Página Web!
+</h5>
+<div class="card-subtitle listing-subtitle">
+A través de un formato reproducible, abierto y colaborativo
 </div>
-<div class="quarto-title-meta">
-  </div>
-</header> <main class="content" id="quarto-document-content">
-<p>Némesis es una Revista de estudiantes de la Facultad de Ciencias Sociales de la Universidad de Chile. Esta se configura como espacio de discusión de problemáticas sociopolíticas contemporáneas, ligando la formación disciplinar con el ejercicio de reflexionar acerca de nuestra sociedad. En este sentido, si bien halla sus raíces en la Escuela de Sociología, extiende sus ramas hacía el amplio espectro del pensamiento social.</p>
-<p>La Revista Némesis nace en 1998 del esfuerzo de estudiantes de la Facultad de Ciencias Sociales de la Universidad de Chile. En el proceso de formación disciplinar, para aquellos estudiantes fueron visibles las miserias presentes en las ciencias sociales heredadas de la dictadura, y la necesidad y el deseo se conjugaron para repensar las condiciones de producción del pensamiento. Fue el pensamiento pensándose a sí y a sus condiciones.</p>
-<p>En la Revista Némesis comprendemos que, para interpelar, para polemizar, no basta con vociferar, sino que hay que ejercer una práctica crítica de las actuales formas de pensar lo social. Es una crítica que se realiza en la praxis. Así es como se nos describe a Némesis, la diosa griega de la venganza, quien, libre de los influjos del olimpo, actúa con justicia cuando esta no aparece. Némesis interviene sobre los asuntos humanos, recordándole a estos que son humanos y que sus desequilibrios son castigados. En este sentido, la preocupación por las problemáticas sociopolíticas contemporáneas de nuestras sociedades ha sido transversal en estas más de dos décadas de vida.</p>
-<p>Las miserias siguen presentes. La <em>justicia</em> y <em>libertad</em> son una necesidad. Némesis está presente.</p>
-<p>La <em>Revista Némesis</em> cuenta con una fuente estable de financiamiento, aportada por el Departamento de Sociología de la Facultad de Ciencias Sociales de la Universidad de Chile, lo cual permite dar continuidad a la publicación de los distintos números de la revista y a sus proyectos.</p>
-<p>Las publicaciones de Némesis se circunscriben a investigaciones empíricas, ensayos teóricos, reseñas bibliográficas, entrevistas, notas de investigación, columnas de opinión y coloquios que interpelen las circunstancias de lo social.</p>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Noticia'); return false;">
+Noticia
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No hay resultados
+</div>
+</div>
+</section>
+<section id="últimos-productos" class="level2">
+<h2 data-anchor-id="últimos-productos">Últimos productos</h2>
+<div id="listing-product" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Comentarios bibliográficos" data-listing-date-sort="1680494400000" data-listing-file-modified-sort="1689346396713" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="./product/comentarios/era_de_la_farsa.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/era_de_la_farsa.jpg" class="thumbnail-image card-img" style="height: 15.0rem;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+La era de la farsa
+</h5>
+<div class="card-subtitle listing-subtitle">
+Rodrigo Baño
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
+Comentarios bibliográficos
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Comentarios bibliográficos" data-listing-date-sort="1681876800000" data-listing-file-modified-sort="1689346390030" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="./product/comentarios/desobedecer.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/desobedecer.webp" class="thumbnail-image card-img" style="height: 15.0rem;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Desobedecer
+</h5>
+<div class="card-subtitle listing-subtitle">
+Fèderic Gros
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
+Comentarios bibliográficos
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Comentarios bibliográficos" data-listing-date-sort="1682913600000" data-listing-file-modified-sort="1689346380028" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
+<a href="./product/comentarios/chavs.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/chavs.jpg" class="thumbnail-image card-img" style="height: 15.0rem;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Chavs. La demonización de la clase obrera
+</h5>
+<div class="card-subtitle listing-subtitle">
+Owen Jones
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
+Comentarios bibliográficos
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Comentarios bibliográficos" data-listing-date-sort="1685505600000" data-listing-file-modified-sort="1689346411237" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13">
+<a href="./product/comentarios/kibutz.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/kibbutz.jpg" class="thumbnail-image card-img" style="height: 15.0rem;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+El misterio de los Kibbutz
+</h5>
+<div class="card-subtitle listing-subtitle">
+Ran Abramitzky
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
+Comentarios bibliográficos
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="Comentarios bibliográficos" data-listing-date-sort="1686801600000" data-listing-file-modified-sort="1689346403558" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./product/comentarios/ideologia_competencia.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/ideologia_competencia.webp" class="thumbnail-image card-img" style="height: 15.0rem;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+La ideología de la competencia
+</h5>
+<div class="card-subtitle listing-subtitle">
+Marinela Chauí
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
+Comentarios bibliográficos
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No hay resultados
+</div>
+</div>
 
 
+</section>
 </main> 
   </div>
 </div>
@@ -289,12 +518,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Copiado");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Copiado");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
@@ -469,6 +698,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">El contenido de este sitio web fue desarrollado por Nicolás Tobar <br> Licencias reservadas por Némesis UChile</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

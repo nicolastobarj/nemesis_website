@@ -1,21 +1,49 @@
 ---
-title: "Equipo"
-toc: true
+title: "Equipo Revista Némesis"
+toc: false
+sidebar: false
 toc-depth: 2
+lang: es
 ---
-
-# Equipo Revista Némesis
 
 ## Directorio
 
-![_](images/nicolas_tobar.png){img-align="center" width=200}
-<div align="center">
-#### Nicolás Tobar
+::: {layout="[40,60]" layout-valign="center"}
+![](images/nicolas_tobar.png)
 
-**Director**. Sociólogo de la Universidad de Chile. Intereses en las teorías de la democracia y la aceleración social.
+**Nicolás Tobar**. Sociólogo de la Universidad de Chile. Intereses en las teorías de la democracia y la aceleración social.
+:::
 
 ## Comité Editorial
 
+::: {layout-ncol="2" layout-halign="center"}
+![](images/anonymous_dalle.png)
+
+![](images/anonymous_dalle.png)
+
+**Cristóbal Albornoz**. Estudiante de cuarto año de sociología UChile.
+
+**Joaquín Capetillo**. Estudiante de tercer año de sociología UChile.
+
+![](images/anonymous_dalle.png)
+
+![](images/anonymous_dalle.png)
+
+**Mauricio Encina** Estudiante de cuarto año de sociología UChile.
+
+**Javiera Wömpner** Estudiante del Magíster en Ciencias Sociales UChile.
+:::
+
 ## Comunicaciones
+
+::: {layout-ncol="2"}
+![](images/anonymous_dalle.png)
+
+![](images/anonymous_dalle.png)
+
+**Catalina Solar**
+
+**Jeremmías**
+:::
 
 ## Colaboradores

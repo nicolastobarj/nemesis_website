@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Productos de trabajo</title>
+<title>Noticias y actividades</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/circle_logo_black.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -59,7 +61,38 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Buscar"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-subtitle','listing-reading-time','listing-image','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -105,7 +138,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Convocatoria NºXIX</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./recents.html" rel="" target="">
+    <a class="nav-link active" href="./recents.html" rel="" target="" aria-current="page">
  <span class="menu-text">Recientes</span></a>
   </li>  
 </ul>
@@ -141,14 +174,14 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Productos de trabajo</li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Noticias y actividades</li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
     <div class="sidebar-menu-container"> 
@@ -229,26 +262,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">En esta página</h2>
-   
-  <ul>
-  <li><a href="#artículos-académicos-y-ensayos." id="toc-artículos-académicos-y-ensayos." class="nav-link active" data-scroll-target="#artículos-académicos-y-ensayos.">Artículos Académicos y Ensayos.</a></li>
-  <li><a href="#comentarios-bibliográficos" id="toc-comentarios-bibliográficos" class="nav-link" data-scroll-target="#comentarios-bibliográficos">Comentarios bibliográficos</a></li>
-  <li><a href="#entrevistas" id="toc-entrevistas" class="nav-link" data-scroll-target="#entrevistas">Entrevistas</a></li>
-  <li><a href="#columnas-de-opinión" id="toc-columnas-de-opinión" class="nav-link" data-scroll-target="#columnas-de-opinión">Columnas de opinión</a></li>
-  <li><a href="#coloquio-de-tesistas" id="toc-coloquio-de-tesistas" class="nav-link" data-scroll-target="#coloquio-de-tesistas">Coloquio de tesistas</a></li>
-  <li><a href="#notas-investigativas" id="toc-notas-investigativas" class="nav-link" data-scroll-target="#notas-investigativas">Notas investigativas</a></li>
-  <li><a href="#presentación-de-organizaciones-e-iniciativas-estudiantiles" id="toc-presentación-de-organizaciones-e-iniciativas-estudiantiles" class="nav-link" data-scroll-target="#presentación-de-organizaciones-e-iniciativas-estudiantiles">Presentación de organizaciones e iniciativas estudiantiles</a></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Noticia">Noticia <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-body" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Productos de trabajo</h1>
+<h1 class="title">Noticias y actividades</h1>
 </div>
 
 
@@ -263,42 +284,55 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>La lógica de conformar un Comité Editorial para abrir una convocatoria general a artículos académicos, y luego llevar a cabo un complejo proceso burocrático de revisión de pares que ha tenido la Revista en los últimos años, sin dudas que ha permitido aumentar la rigurosidad de los textos que son publicados, pero por todo lo dicho anteriormente, el trabajo se queda corto cuando uno solo se conforma con eso.</p>
-<p>Antes que una agrupación de “expertos”, el Comité Editorial debe actuar como un agente que intervenga en la facultad, atreviéndose a desarrollar actividades públicas en ella, que creen valor como comunidad de cientistas sociales que somos. Quienes levantan Némesis tienen que comprender que el número es solo la condensación final de todo el trabajo que se viene gestando durante el año, y en ese sentido, lo pulcro que termine dependerá del proceso, no de las condiciones finales del resultado.</p>
-<p>El modelo de trabajo que pienso desplegar implica generar una ramificación de productos diferenciados que durante el año se irán publicando, ya sea en redes sociales, ya sea a través de una intervención física en la FACSO, para luego acumular escritos e instancias, que terminen siendo incluidas en el número final. En complemento, estarían las convocatorias generales de artículos académicos y otros varios.</p>
-<p>A continuación, se presentan los productos que a mi parecer mejor permitirían la realización de esta idea.</p>
-<section id="artículos-académicos-y-ensayos." class="level3">
-<h3 class="anchored" data-anchor-id="artículos-académicos-y-ensayos.">Artículos Académicos y Ensayos.</h3>
-<p>En los artículos académicos y ensayos se encuentra la piedra angular del número. Corresponde a investigaciones conceptuales o empíricas sobre temas relevantes para el debate público y la disciplina sociológica, que colinden entre las 5.000 y 7.000 palabras. Se espera desarrollar dos secciones distintas. La primera estaría reservada para publicar “Dossier” del tema que se esté trabajando en el número, y la segunda para una convocatoria abierta a artículos con temáticas generales. Todos los semestres se hace un “call for papers” en Redes Sociales, y una vez recibidos los aportes, se someten a un proceso de revisión por pares que está sedimentado por las y los anteriores líderes de la Revista.</p>
-</section>
-<section id="comentarios-bibliográficos" class="level3">
-<h3 class="anchored" data-anchor-id="comentarios-bibliográficos">Comentarios bibliográficos</h3>
-<p>La presente sección estaría abierta a quienes quieran proporcionar reflexiones críticas de libros de Ciencias Sociales recientes al público. Se espera acumular unas 5 o 6 reseñas de textos actuales para invitar al resto de estudiantes de la facultad a sumergirse en las ideas y debates que vive el campo de la sociología. Tendría una extensión de no más de 3.500 palabras, y para apurar procesos, podría estar escrita por les mismes integrantes del Comité Editorial. Se priorizan las reseñas que estén relacionadas al tema del número del producto principal.</p>
-</section>
-<section id="entrevistas" class="level3">
-<h3 class="anchored" data-anchor-id="entrevistas">Entrevistas</h3>
-<p>La sección de entrevistas proporciona una perspectiva experta y única sobre temas relevantes en el campo de estudio de las Ciencias Sociales. Puede incluir preguntas sobre la experiencia personal del entrevistado en el campo científico, su investigación actual o más reciente, su perspectiva sobre temas disciplinares, entre otros. Las entrevistas se transmiten, y luego queden grabadas en las redes sociales de Némesis. En el número del producto principal se publican las transcripciones de las entrevistas. Su duración máxima debería ser de 45 minutos. A veces el tema de la entrevista es el mismo que el de la sección dossier, de manera de hacer dialogar ambas cosas.</p>
-</section>
-<section id="columnas-de-opinión" class="level3">
-<h3 class="anchored" data-anchor-id="columnas-de-opinión">Columnas de opinión</h3>
-<p>Existe un montón de estudiantes de la FACSO interesados en la contingencia sociopolítica. Es recurrente que entre este estamento se compartan puntos de vista y discusiones sobre lo que está ocurriendo en el momento de la facultad, el país o el mundo. Pero por mucho que se escribe, estos valiosos escritos de opinión quedan sin espacio de difusión formal. Por eso, Némesis entrega la posibilidad de recibir columnas de opinión respecto a los debates públicos y acontecimientos sociopolíticos relevantes para el estudiantado.</p>
-</section>
-<section id="coloquio-de-tesistas" class="level3">
-<h3 class="anchored" data-anchor-id="coloquio-de-tesistas">Coloquio de tesistas</h3>
-<p>En la FACSO, los tesistas de pregrado se suelen sentir bastante solos cuando desarrollan sus investigaciones. Como es un proceso individual, en el cual uno se va desmarcando, incluso físicamente, del departamento de sociología, los únicos comentarios y observaciones críticas que se reciben provienen de le profesor guía. Hay poco contacto entre compañeres tesistas, siendo que podría ser un aporte enorme (emocional y académicamente) expandir los flujos de comunicación entre elles. Este producto se define como una presentación pública en el que unos 4 o 5 tesistas presentan en algún escenario de la facultad una ponencia, de no más de 10 minutos, al resto de estudiantes que estén alrededor. La idea es que esto permite a esos estudiantes hacerles preguntas y críticas que sirvan para ir fortaleciendo aún más sus trabajos. En términos procedimentales, se haría una convocatoria general a los tesistas de 5to año o más para que escriban un guión de 10 minutos de su presentación, y el Comité Editorial elegiría las ponencias que tengan mejor considerados. Cuando se publique la revista, se exponen en esta sección las ponencias seleccionadas.</p>
-</section>
-<section id="notas-investigativas" class="level3">
-<h3 class="anchored" data-anchor-id="notas-investigativas">Notas investigativas</h3>
-<p>La investigación en Ciencias Sociales es un proceso dinámico, flexible e inacabado. En muchas ocasiones las horas de trabajo y reflexión nos llevan a almacenar ideas y resultados preliminares que una vez finalizada la investigación nunca ven la luz. Para promover la comprensión del cientista social en toda su complejidad, Némesis abre el espacio para recibir “notas investigativas”, en la que las y los estudiantes nos pueden compartir sus primeros acercamientos al fenómeno de estudio con el que se involucran. Se trata de escritos breves que den una idea de lo que han ido construyendo en sus estudios.</p>
-</section>
-<section id="presentación-de-organizaciones-e-iniciativas-estudiantiles" class="level3">
-<h3 class="anchored" data-anchor-id="presentación-de-organizaciones-e-iniciativas-estudiantiles">Presentación de organizaciones e iniciativas estudiantiles</h3>
-<p>Tiene como objetivo destacar y promover a los grupos coordinados de estudiantes de la facultad para desarrollar algún objetivo que entregue valor público a la universidad. Puede incluir descripciones sobre sus misiones y objetivos, reseñas de eventos y actividades pasadas, así como información sobre cómo los estudiantes pueden unirse a estas organizaciones. En la facultad suele haber cierta confusión sobre los trabajos que hacen las organizaciones, y esta sección puede ser una herramienta útil para las organizaciones, en tanto permite aumentar su alcance y visibilidad, y para los estudiantes que buscan formas de involucrarse en la comunidad universitaria, en tanto facilita su consciencia de las oportunidades disponibles para involucrarse en actividades extracurriculares y en la sociedad en general. Sería una sección corta de no más de 500 palabras por organización. Puede incluir logo y contactos.</p>
+<p>Esperamos mantener informados e informadas a nuestro público. Por eso, hemos creado esta sección, en la cual estaremos subiendo activamente <em>noticias (que van desde hitos organizacionales hasta logros de nuestros integrantes)</em>, <em>actividades (eventos que iremos levantando durante el año)</em> e <em>invitaciones</em> de interés para las y los estudiantes de la Facultad de Ciencias Sociales UChile.</p>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Noticia" data-listing-date-sort="1689566400000" data-listing-file-modified-sort="1689348122164" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="thumbnail">
+<p><a href="./recents/new_01.html"> <img src="./images/new_01.jpeg" class="thumbnail-image" style="height: 10.0rem;"> </a></p>
+</div>
+<div class="body">
+<a href="./recents/new_01.html">
+<h3 class="no-anchor listing-title">
+¡Némesis inaugura su nueva Página Web!
+</h3>
+<div class="listing-subtitle">
+A través de un formato reproducible, abierto y colaborativo
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Noticia'); return false;">
+Noticia
+</div>
+</div>
+<a href="./recents/new_01.html"> </a>
+</div>
+<div class="metadata">
+<a href="./recents/new_01.html">
+<div class="listing-date">
+17 jul 2023
+</div>
+<div class="listing-reading-time">
+2 minutos
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No hay resultados
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

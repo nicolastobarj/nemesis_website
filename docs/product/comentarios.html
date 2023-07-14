@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.3.361">
@@ -49,16 +49,16 @@ ul.task-list li input[type="checkbox"] {
   "type": "overlay",
   "limit": 20,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-no-results-text": "Sin resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Buscar"
   }
 }</script>
 <script>
@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-reading-time','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-reading-time','listing-description','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -108,8 +108,8 @@ ul.task-list li input[type="checkbox"] {
     <img src="../images/circle_logo_black.png" alt="" class="navbar-logo">
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Buscar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -120,16 +120,12 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-somos">    
         <li>
-    <a class="dropdown-item" href="../vision.html" rel="" target="">
- <span class="dropdown-text">Visión</span></a>
+    <a class="dropdown-item" href="../proyecto.html" rel="" target="">
+ <span class="dropdown-text">Proyecto</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../organizacion.html" rel="" target="">
  <span class="dropdown-text">Organización de trabajo</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../productos.html" rel="" target="">
- <span class="dropdown-text">Productos de trabajo</span></a>
   </li>  
     </ul>
   </li>
@@ -141,21 +137,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../convocatorias.html" rel="" target="">
  <span class="menu-text">Convocatoria NºXIX</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-recientes" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
- <span class="menu-text">Recientes</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-recientes">    
-        <li>
-    <a class="dropdown-item" href="../noticias.html" rel="" target="">
- <span class="dropdown-text">Noticias</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../recents.html" rel="" target="">
+ <span class="menu-text">Recientes</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../actividades.html" rel="" target="">
- <span class="dropdown-text">Actividades</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -186,75 +171,101 @@ ul.task-list li input[type="checkbox"] {
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../product/comentarios.html">Comentarios bibliográficos</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="https://revistanemesis.uchile.cl/">Publicaciones</a></li><li class="breadcrumb-item"><a href="../product/comentarios.html">Comentarios bibliográficos</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
-        <i class="bi bi-search"></i>
-      </button>
     </div>
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
-        <div class="mt-2 flex-shrink-0 align-items-center">
-        <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
-        </div>
-        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+ <span class="menu-text">Publicaciones</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Alternar sección">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="https://revistanemesis.uchile.cl/" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Portal Revista princial</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../product/comentarios.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Comentarios bibliográficos</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../product/entrevistas.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Entrevistas</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../product/columnas.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Columnas de opinión</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../product/coloquios.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Coloquios</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../product/notas_investigativ.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Notas investigativas</span></a>
   </div>
 </li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+ <span class="menu-text">Alianzas Organizacionales</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Alternar sección">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="https://teoriasocialhoy.org/" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Núcleo Teoría Social Hoy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../404.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">REDES</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
     </ul>
     </div>
 </nav>
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-right" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -273,155 +284,178 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>La presente sección está abierta para quienes quieran proporcionar reflexiones críticas de libros de Ciencias Sociales recientes al público. Se espera acumular reseñas de textos actuales (con menos de 10 años de antigüedad) para invitar al resto de estudiantes de la facultad a sumergirse en las ideas y debates que vive el campo de las ciencias sociales.</p>
+<p>A finales de año, el Comité editorial de Némesis se reune para seleccionar los mejores comentarios bibliográficos para publicarlos en el próximo número de la revista.</p>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1686801600000" data-listing-file-modified-sort="1687648450284" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-left" data-index="0" data-categories="Comentarios bibliográficos" data-listing-date-sort="1686801600000" data-listing-file-modified-sort="1689346403558" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="thumbnail">
+<p><a href="../product/comentarios/ideologia_competencia.html"> <img src="../images/ideologia_competencia.webp" class="thumbnail-image" style="height: 15.0rem;"> </a></p>
+</div>
 <div class="body">
 <a href="../product/comentarios/ideologia_competencia.html">
 <h3 class="no-anchor listing-title">
-La ideología de la competencia - Marinela Chauí
+La ideología de la competencia
 </h3>
 <div class="listing-subtitle">
-
+Marinela Chauí
 </div>
 <div class="listing-description">
-Las transformaciones de la ideología burguesa desde el siglo XIX, pasando por la regulación fordista que introduce una nueva práctica en las relaciones sociales conocida…
+<p>Sobre la invasión de la ideología fordista del rendimiento a las aulas universitarias</p>
 </div>
 </a>
 </div>
 <div class="metadata">
 <a href="../product/comentarios/ideologia_competencia.html">
 <div class="listing-date">
-Jun 15, 2023
+15 jun 2023
 </div>
 <div class="listing-author">
 Catalina Solar
 </div>
 <div class="listing-reading-time">
-2 min
+2 minutos
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1685505600000" data-listing-file-modified-sort="1687648448689" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13">
+<div class="quarto-post image-left" data-index="1" data-categories="Comentarios bibliográficos" data-listing-date-sort="1685505600000" data-listing-file-modified-sort="1689346411237" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13">
+<div class="thumbnail">
+<p><a href="../product/comentarios/kibutz.html"> <img src="../images/kibbutz.jpg" class="thumbnail-image" style="height: 15.0rem;"> </a></p>
+</div>
 <div class="body">
 <a href="../product/comentarios/kibutz.html">
 <h3 class="no-anchor listing-title">
-El misterio de los Kibbutz - Ran Abramitzky
+El misterio de los Kibbutz
 </h3>
 <div class="listing-subtitle">
-
+Ran Abramitzky
 </div>
 <div class="listing-description">
-The mystery of the Kibbutz (en español, el misterio de los Kibutz), libro publicado el año 2018 por el economista y brillante Profesor de Princeton Ran Abramitzky es uno de…
+<p>Un análisis de las alternativas de gobierno socialista en la cultura judeo-cristiana</p>
 </div>
 </a>
 </div>
 <div class="metadata">
 <a href="../product/comentarios/kibutz.html">
 <div class="listing-date">
-May 31, 2023
+31 may 2023
 </div>
 <div class="listing-author">
 Carlos Budnevich
 </div>
 <div class="listing-reading-time">
-13 min
+13 minutos
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1682913600000" data-listing-file-modified-sort="1687649645281" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
+<div class="quarto-post image-left" data-index="2" data-categories="Comentarios bibliográficos" data-listing-date-sort="1682913600000" data-listing-file-modified-sort="1689346380028" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
+<div class="thumbnail">
+<p><a href="../product/comentarios/chavs.html"> <img src="../images/chavs.jpg" class="thumbnail-image" style="height: 15.0rem;"> </a></p>
+</div>
 <div class="body">
 <a href="../product/comentarios/chavs.html">
 <h3 class="no-anchor listing-title">
-Chavs. La demonización de la clase obrera - Owen Jones
+Chavs. La demonización de la clase obrera
 </h3>
 <div class="listing-subtitle">
-
+Owen Jones
 </div>
 <div class="listing-description">
-A propósito de la conmemoración del Día Internacional de los Trabajadores, conviene abordar la relación actual entre política y mundo laboral. Para estos efectos, la…
+<p>Un libro sobre las transformaciones culturales de los sectores populares en inglaterra</p>
 </div>
 </a>
 </div>
 <div class="metadata">
 <a href="../product/comentarios/chavs.html">
 <div class="listing-date">
-May 1, 2023
+1 may 2023
 </div>
 <div class="listing-author">
 Mauricio Encina
 </div>
 <div class="listing-reading-time">
-6 min
+6 minutos
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1681876800000" data-listing-file-modified-sort="1687649646662" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="quarto-post image-left" data-index="3" data-categories="Comentarios bibliográficos" data-listing-date-sort="1681876800000" data-listing-file-modified-sort="1689346390030" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="thumbnail">
+<p><a href="../product/comentarios/desobedecer.html"> <img src="../images/desobedecer.webp" class="thumbnail-image" style="height: 15.0rem;"> </a></p>
+</div>
 <div class="body">
 <a href="../product/comentarios/desobedecer.html">
 <h3 class="no-anchor listing-title">
-Desobedecer - Fèderic Gros
+Desobedecer
 </h3>
 <div class="listing-subtitle">
-
+Fèderic Gros
 </div>
 <div class="listing-description">
-Frèderic Gros es un filósofo francés, profesor de la Universidad París XII y en el Institut d’Ètudes Politiques, pero más conocido por haber editado las últimas lecciones de…
+<p>Interesantes reflexiones sobre el significado de la desobediencia</p>
 </div>
 </a>
 </div>
 <div class="metadata">
 <a href="../product/comentarios/desobedecer.html">
 <div class="listing-date">
-Apr 19, 2023
+19 abr 2023
 </div>
 <div class="listing-author">
 Cristóbal Albornoz
 </div>
 <div class="listing-reading-time">
-3 min
+3 minutos
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1680494400000" data-listing-file-modified-sort="1687645849176" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="quarto-post image-left" data-index="4" data-categories="Comentarios bibliográficos" data-listing-date-sort="1680494400000" data-listing-file-modified-sort="1689346396713" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="thumbnail">
+<p><a href="../product/comentarios/era_de_la_farsa.html"> <img src="../images/era_de_la_farsa.jpg" class="thumbnail-image" style="height: 15.0rem;"> </a></p>
+</div>
 <div class="body">
 <a href="../product/comentarios/era_de_la_farsa.html">
 <h3 class="no-anchor listing-title">
-La era de la farsa - Rodrigo Baño
+La era de la farsa
 </h3>
 <div class="listing-subtitle">
-
+Rodrigo Baño
 </div>
 <div class="listing-description">
-El profesor Baño nos entrega una lectura muy entretenida e interesante sobre cómo las transformaciones en las condiciones materiales de producción y reproducción de la vida…
+<p>El profesor nos entrega un panorama general del traspaso de la economía doméstica a la economía política</p>
 </div>
 </a>
 </div>
 <div class="metadata">
 <a href="../product/comentarios/era_de_la_farsa.html">
 <div class="listing-date">
-Apr 3, 2023
+3 abr 2023
 </div>
 <div class="listing-author">
 Nicolás Tobar
 </div>
 <div class="listing-reading-time">
-3 min
+3 minutos
 </div>
 </a>
 </div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
-No matching items
+No hay resultados
 </div>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -478,12 +512,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Copiado");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Copiado");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
@@ -658,6 +692,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">El contenido de este sitio web fue desarrollado por Nicolás Tobar <br> Licencias reservadas por Némesis UChile</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

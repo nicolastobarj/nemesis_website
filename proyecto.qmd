@@ -1,6 +1,25 @@
 ---
-title: "Visión"
+title: "Proyecto"
+lang: es
 ---
+
+## ¿Qué es Némesis?
+
+Némesis es una Revista de estudiantes de la Facultad de Ciencias Sociales de la Universidad de Chile. Esta se configura como espacio de discusión de problemáticas sociopolíticas contemporáneas, ligando la formación disciplinar con el ejercicio de reflexionar acerca de nuestra sociedad. En este sentido, si bien halla sus raíces en la Escuela de Sociología, extiende sus ramas hacía el amplio espectro del pensamiento social.
+
+La Revista Némesis nace en 1998 del esfuerzo de estudiantes de la Facultad de Ciencias Sociales de la Universidad de Chile. En el proceso de formación disciplinar, para aquellos estudiantes fueron visibles las miserias presentes en las ciencias sociales heredadas de la dictadura, y la necesidad y el deseo se conjugaron para repensar las condiciones de producción del pensamiento. Fue el pensamiento pensándose a sí y a sus condiciones.
+
+<img src="images/dalle_index_1.png" align="right" width="300"/></img>
+
+En la Revista Némesis comprendemos que, para interpelar, para polemizar, no basta con vociferar, sino que hay que ejercer una práctica crítica de las actuales formas de pensar lo social. Es una crítica que se realiza en la praxis. Así es como se nos describe a Némesis, la diosa griega de la venganza, quien, libre de los influjos del olimpo, actúa con justicia cuando esta no aparece. Némesis interviene sobre los asuntos humanos, recordándole a estos que son humanos y que sus desequilibrios son castigados. En este sentido, la preocupación por las problemáticas sociopolíticas contemporáneas de nuestras sociedades ha sido transversal en estas más de dos décadas de vida.
+
+Las miserias siguen presentes. La *justicia* y *libertad* son una necesidad. Némesis está presente.
+
+La *Revista Némesis* cuenta con una fuente estable de financiamiento, aportada por el Departamento de Sociología de la Facultad de Ciencias Sociales de la Universidad de Chile, lo cual permite dar continuidad a la publicación de los distintos números de la revista y a sus proyectos.
+
+Las publicaciones de Némesis se circunscriben a investigaciones empíricas, ensayos teóricos, reseñas bibliográficas, entrevistas, notas de investigación, columnas de opinión y coloquios que interpelen las circunstancias de lo social.
+
+## Visión 2023
 
 Todo estudiante que haya entrado a sociología UCh hace unos 6 o 7 años conoce la Revista Némesis. Se trata de un artefacto que tienen los jóvenes de la facultad para emprender sus primeros pasos en la escritura y publicación de reflexiones, investigaciones y aportes al debate público en Chile. Sin dudas, es un espacio que entrega la oportunidad de desplegar sus ideas a quienes recién están germinando los primeros frutos de su paso por las Ciencias Sociales.
 
@@ -12,7 +31,11 @@ En el último tiempo (digamos, en los últimos dos años), Revista Némesis se e
 
 Y digo "despertar" (y no "reactivar") por una razón en particular. Pese a que Nemesis ha publicado cinco números en los últimos seis años, mi impresión es que la revista ha perdido su sentido original. En su primera edición, la revista partía su presentación con la siguiente cita:
 
-  *“Némesis busca ser una revista académica de carácter controversial (...) La pregunta aquí no     sólo es qué hace la sociología, sino por qué y cómo lo hace (...) Némesis, pensamos, debe         aportar al rebase de una compartimentalización ortodoxa entre disciplinas que tienen su origen    en una currícula institucional planteada para la sociedad del siglo pasado”*
+::: {layout="[40,60]" layout-valign="center"}
+![](images/dalle_index_2.png)
+
+> *"Némesis busca ser una revista académica de carácter controversial (...) La pregunta aquí no sólo es qué hace la sociología, sino por qué y cómo lo hace (...) Némesis, pensamos, debe aportar al rebase de una compartimentalización ortodoxa entre disciplinas que tienen su origen en una currícula institucional planteada para la sociedad del siglo pasado"*
+:::
 
 La intención era clara: Desprenderse de los dogmas institucionales de la academia convencional, para entregar a la facultad, y a Chile en general, un espacio libre de ataduras formales que restringen el desarrollo del conocimiento de las Ciencias Sociales. Pero si se hace un breve examen a los últimos años de trabajo de la revista, uno se encuentra con una réplica al modo en que operan las revistas académicas tradicionales de alto renombre. Los últimos números han estado orientados a solo publicar artículos, llevando a cabo un escaso número de actividades públicas que sean de interés en la facultad, y no dejan de replicar el formato estandarizado de "revisión por pares" que restringe la creatividad. De hecho, incluso se llegó a manejar el proyecto de "indexar" la revista para que "estuviera a la par" de las clásicas ediciones de alto impacto que abundan en la academia.
 
@@ -23,3 +46,7 @@ Por eso, no hacemos un llamado a "reactivar" Némesis, como una práctica irrefl
 -   Servir como un espacio de divulgación y formación crítica de les estudiantes e investigadores que se encuentran iniciando su carrera en el mundo de las Ciencias Sociales.
 -   Aportar a los debates teóricos, metodológicos, empíricos y contingentes que se desarrollan al interior de la universidad, así como en Chile en general.
 -   Acumular archivos históricos de conocimiento intelectual para que puedan ser revisitados como ideas y pensamientos de la época en el futuro.
+
+::: column-body
+![](images/banner_white.png){width="60%" fig-align="center"}
+:::

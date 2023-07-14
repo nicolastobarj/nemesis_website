@@ -1,5 +1,6 @@
 ---
 title: Organización de trabajo
+lang: es
 ---
 
 La Revista Némesis consta de tres áreas divulgativas: 1) publicación principal semestral; 2) sitio web y redes sociales; 3) actividades presenciales (relativa a la organización de seminarios, lanzamiento de números, entre otros).

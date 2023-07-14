@@ -1,11 +1,14 @@
 [
   {
-    "listing": "/actividades.html",
-    "items": []
-  },
-  {
-    "listing": "/noticias.html",
-    "items": []
+    "listing": "/index.html",
+    "items": [
+      "/product/comentarios/era_de_la_farsa.html",
+      "/product/comentarios/desobedecer.html",
+      "/product/comentarios/chavs.html",
+      "/product/comentarios/kibutz.html",
+      "/product/comentarios/ideologia_competencia.html",
+      "/recents/new_01.html"
+    ]
   },
   {
     "listing": "/product/coloquios.html",
@@ -28,5 +31,11 @@
   {
     "listing": "/product/notas_investigativ.html",
     "items": []
+  },
+  {
+    "listing": "/recents.html",
+    "items": [
+      "/recents/new_01.html"
+    ]
   }
 ]

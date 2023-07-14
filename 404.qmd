@@ -1,0 +1,8 @@
+---
+title: "Oops! Parece que este sitio no existe"
+subtitle: "Probablemente se trata de un espacio de la página que aún está en desarrollo, o que fue removido"
+sidebar: false
+---
+:::{.column-body-outset}
+![](images/404.png)
+:::

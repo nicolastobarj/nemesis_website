@@ -1,18 +1,57 @@
 ---
-title: "¿Qué es Némesis?"
+title: "¡Bienvenido/a al portal de la Revista de Estudiantes de Sociología UChile!"
+
+lang: es
+
+toc: true
+
 about: 
   template: marquee
-  image: images/banner_black.png
+  image: images/header.jpg
+
+listing:
+  - id: product
+    contents: product
+    type: grid
+    sort: 
+      - date asc
+      - title
+    grid-columns: 3
+    grid-item-border: true
+    fields: [categories, title, subtitle, image]
+    categories: false
+    max-items: 6
+    image-align: left
+    image-height: 15.0rem
+    image-placeholder: images/comentarios_dalle.png
+    exclude: 
+      category: "no_visualize"
+
+  - id: recents
+    contents: recents
+    type: grid
+    sort: 
+      - date asc
+      - title
+    grid-columns: 3
+    grid-item-border: true
+    fields: [title, subtitle, image, categories]
+    categories: false
+    max-items: 6
+    image-align: left
+    image-height: 15.0rem
+    image-placeholder: images/comentarios_dalle.png
+
+page-layout: full
+title-block-banner: true
 ---
 
-Némesis es una Revista de estudiantes de la Facultad de Ciencias Sociales de la Universidad de Chile. Esta se configura como espacio de discusión de problemáticas sociopolíticas contemporáneas, ligando la formación disciplinar con el ejercicio de reflexionar acerca de nuestra sociedad. En este sentido, si bien halla sus raíces en la Escuela de Sociología, extiende sus ramas hacía el amplio espectro del pensamiento social.
+## Noticias y actividades recientes
 
-La Revista Némesis nace en 1998 del esfuerzo de estudiantes de la Facultad de Ciencias Sociales de la Universidad de Chile. En el proceso de formación disciplinar, para aquellos estudiantes fueron visibles las miserias presentes en las ciencias sociales heredadas de la dictadura, y la necesidad y el deseo se conjugaron para repensar las condiciones de producción del pensamiento. Fue el pensamiento pensándose a sí y a sus condiciones.
+::: {#recents}
+:::
 
-En la Revista Némesis comprendemos que, para interpelar, para polemizar, no basta con vociferar, sino que hay que ejercer una práctica crítica de las actuales formas de pensar lo social. Es una crítica que se realiza en la praxis. Así es como se nos describe a Némesis, la diosa griega de la venganza, quien, libre de los influjos del olimpo, actúa con justicia cuando esta no aparece. Némesis interviene sobre los asuntos humanos, recordándole a estos que son humanos y que sus desequilibrios son castigados. En este sentido, la preocupación por las problemáticas sociopolíticas contemporáneas de nuestras sociedades ha sido transversal en estas más de dos décadas de vida.
+## Últimos productos
 
-Las miserias siguen presentes. La *justicia* y *libertad* son una necesidad. Némesis está presente.
-
-La *Revista Némesis* cuenta con una fuente estable de financiamiento, aportada por el Departamento de Sociología de la Facultad de Ciencias Sociales de la Universidad de Chile, lo cual permite dar continuidad a la publicación de los distintos números de la revista y a sus proyectos.
-
-Las publicaciones de Némesis se circunscriben a investigaciones empíricas, ensayos teóricos, reseñas bibliográficas, entrevistas, notas de investigación, columnas de opinión y coloquios que interpelen las circunstancias de lo social.
+::: {#product}
+:::

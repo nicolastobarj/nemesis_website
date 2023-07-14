@@ -1,5 +1,6 @@
 ---
 title: Productos de trabajo
+lang: es
 ---
 
 La lógica de conformar un Comité Editorial para abrir una convocatoria general a artículos académicos, y luego llevar a cabo un complejo proceso burocrático de revisión de pares que ha tenido la Revista en los últimos años, sin dudas que ha permitido aumentar la rigurosidad de los textos que son publicados, pero por todo lo dicho anteriormente, el trabajo se queda corto cuando uno solo se conforma con eso.

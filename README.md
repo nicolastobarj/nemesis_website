@@ -12,4 +12,10 @@ Las carpetas son las siguientes:
 -   **product**: Subsección que contiene las plantillas .qmd que despliegan las listas de las distintas publicaciones que se alojan en la barra lateral de la página. Dentro de la carpeta, cada tipo de producto tiene su propia carpeta en la que se distribuyen los escritos publicados.
 -   **noticias** y **actividades**: Contiene las plantillas .qmd de cada noticia u actividad de la Revista.
 
+### Códigos de .qmd
 
+##### Noticias
+
+-   new_01: ¡Némesis inaugura su nueva página web!
+
+##### Actividades

@@ -1,5 +1,7 @@
 ---
 title: "Coloquios"
+lang: es
+category: "no_visualize"
 listing:
   contents: coloquios
   type: default
@@ -8,3 +10,7 @@ listing:
   fields: [title, date, author]
   page-size: 10
 ---
+
+En la FACSO, los tesistas de pregrado se suelen sentir bastante solos cuando desarrollan sus investigaciones. Como es un proceso individual, en el cual uno se va desmarcando, incluso físicamente, del departamento de sociología, los únicos comentarios y observaciones críticas que se reciben provienen de el/la profesor guía. Hay poco contacto entre compañeros y compañeras tesistas, siendo que podría ser un aporte enorme (emocional y académicamente) expandir los flujos de comunicación entre elles.
+
+El coloquio de tesistas se define como una presentación pública en el que dos o más estudiantes exponen en algún escenario de los hallazgos y reflexiones de su investigación. La idea es que esto permite a otros estudiantes hacerles preguntas y observaciones críticas que sirvan para ir fortaleciendo aún más los trabajos de los ponentes. En esta sección se pueden encontrar los videos de las presentaciones.

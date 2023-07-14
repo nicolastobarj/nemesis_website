@@ -1,10 +1,22 @@
 ---
 title: "Comentarios bibliográficos"
+lang: es
+category: "no_visualize"
 listing:
   contents: comentarios
   type: default
-  sort: 
-    - "date desc"
-  fields: [date, title, author, reading-time, description]
+  sort: date desc
+  feed: true
+  fields: [date, title, author, reading-time, description, image]
+  filter-ui: true
   page-size: 10
+  image-align: left
+  image-height: 15.0rem
+  image-placeholder: ../../images/comentarios_dalle.png
+
+page-layout: full
 ---
+
+La presente sección está abierta para quienes quieran proporcionar reflexiones críticas de libros de Ciencias Sociales recientes al público. Se espera acumular reseñas de textos actuales (con menos de 10 años de antigüedad) para invitar al resto de estudiantes de la facultad a sumergirse en las ideas y debates que vive el campo de las ciencias sociales.
+
+A finales de año, el Comité editorial de Némesis se reune para seleccionar los mejores comentarios bibliográficos para publicarlos en el próximo número de la revista.

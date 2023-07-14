@@ -1,5 +1,7 @@
 ---
 title: "Columnas de opinión"
+category: "no_visualize"
+lang: es
 listing:
   contents: columnas
   type: default
@@ -8,3 +10,5 @@ listing:
   fields: [title, author, date, reading-time, description]
   page-size: 10
 ---
+
+Existe un montón de estudiantes de la FACSO interesados en la contingencia sociopolítica. Es recurrente que entre los integrantes de este estamento se compartan puntos de vista y discusiones sobre lo que está ocurriendo en el momento de la facultad, el país o el mundo. Pero por mucho que se escribe, estas valiosos reflexiones quedan sin espacio de difusión formal. Por eso, Némesis entrega la posibilidad de recibir columnas de opinión respecto a los debates públicos y acontecimientos sociopolíticos relevantes para el estudiantado.

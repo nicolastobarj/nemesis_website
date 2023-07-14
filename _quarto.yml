@@ -3,23 +3,24 @@ project:
   output-dir: docs
 
 website:
+
+  site-url: "https://nemesis.netlify.app"
   favicon: images/circle_logo_black.png
+  
   navbar:
     search: false
     left:
       - text: "Somos"
         menu:
-          - vision.qmd
+          - proyecto.qmd
           - organizacion.qmd
-          - productos.qmd
       - text: Equipo
         href: equipo.qmd
       - text: Convocatoria NºXIX
         href: convocatorias.qmd
       - text: "Recientes"
-        menu:
-          - noticias.qmd
-          - actividades.qmd
+        href: recents.qmd
+        
     right:
       - icon: instagram
         href: https://www.instagram.com/revistanemesis/
@@ -34,23 +35,38 @@ website:
     foreground: "#FFFFBC"
     border: true
     pinned: true
-    back-to-top-navigation: true
+    back-to-top-navigation: false
+    
   sidebar:
-    title: Publicaciones
-    style: "docked"
-    search: true
-    pinned: true
-    contents:
-      - text: Portal Revista princial
-        href: https://revistanemesis.uchile.cl/
-      - product/comentarios.qmd
-      - product/entrevistas.qmd
-      - product/columnas.qmd
-      - product/coloquios.qmd
-      - product/notas_investigativ.qmd
+    - title: "Otros"
+      search: false
+      pinned: true
+      style: "docked"
+      contents:
+        - section: "Publicaciones"
+          contents: 
+            - text: Portal Revista princial
+              href: https://revistanemesis.uchile.cl/
+            - product/comentarios.qmd
+            - product/entrevistas.qmd
+            - product/columnas.qmd
+            - product/coloquios.qmd
+            - product/notas_investigativ.qmd
+        - section: "Alianzas Organizacionales"
+          contents:
+            - text: Núcleo Teoría Social Hoy
+              href: https://teoriasocialhoy.org/
+            - text: REDES
+              href: 404.qmd
+
+              
+                
+  page-footer:
+    center: "El contenido de este sitio web fue desarrollado por Nicolás Tobar <br> Licencias reservadas por Némesis UChile"
+      
 format:
   html:
-    theme: flatly
+    theme: litera
     mainfont: arapey
     fontsize: 1.1rem
     fontcolor: "#330033"
@@ -58,6 +74,7 @@ format:
     monofont: lato
     css: styles.css
     toc: true
+    highlight-style: monokai
 
 editor: visual
 
