@@ -54,7 +54,7 @@ website:
             - product/notas_investigativ.qmd
         - section: "Alianzas Organizacionales"
           contents:
-            - text: Núcleo Teoría Social Hoy
+            - text: Teoría Social Hoy
               href: https://teoriasocialhoy.org/
             - text: REDES
               href: 404.qmd

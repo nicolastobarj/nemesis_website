@@ -2,11 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/product/comentarios/era_de_la_farsa.html",
-      "/product/comentarios/desobedecer.html",
-      "/product/comentarios/chavs.html",
-      "/product/comentarios/kibutz.html",
-      "/product/comentarios/ideologia_competencia.html",
+      "/product/comentarios/com_bib_01.html",
+      "/product/comentarios/com_bib_02.html",
+      "/product/comentarios/com_bib_03.html",
+      "/product/comentarios/com_bib_04.html",
+      "/product/comentarios/com_bib_05.html",
       "/recents/new_01.html"
     ]
   },
@@ -21,11 +21,11 @@
   {
     "listing": "/product/comentarios.html",
     "items": [
-      "/product/comentarios/ideologia_competencia.html",
-      "/product/comentarios/kibutz.html",
-      "/product/comentarios/chavs.html",
-      "/product/comentarios/desobedecer.html",
-      "/product/comentarios/era_de_la_farsa.html"
+      "/product/comentarios/com_bib_05.html",
+      "/product/comentarios/com_bib_04.html",
+      "/product/comentarios/com_bib_03.html",
+      "/product/comentarios/com_bib_02.html",
+      "/product/comentarios/com_bib_01.html"
     ]
   },
   {
