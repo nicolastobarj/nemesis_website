@@ -16,10 +16,11 @@ Asimismo, en la capa inicial se alojan archivos de soporte de la página como `4
 
 ### Códigos de .qmd
 
-Los archivos _.qmd_ que están en las carpetas `product` y `recents` están codificados de tal manera de favorecer el orden y la posibilidad de encontrar estos archivos. A continuación se presenta el diccionario de cada una de esas plantillas.
+Los archivos *.qmd* que están en las carpetas `product` y `recents` están codificados de tal manera de favorecer el orden y la posibilidad de encontrar estos archivos. A continuación se presenta el diccionario de cada una de esas plantillas.
 
 ##### recents
 
+-   `new_02`: Némesis te invita al nuevo seminario internacional de OLES
 -   `new_01`: ¡Némesis inaugura su nueva página web!
 
 ##### comentarios
@@ -29,3 +30,5 @@ Los archivos _.qmd_ que están en las carpetas `product` y `recents` están codi
 -   `com_bib_03`: Chavs. La demonización de la clase obrera de Jon Owen.
 -   `com_bib_04`: El misterio de los kibbutz de Ran Abramitzky.
 -   `com_bib_05`: La ideología de la competencia de Marinela Chaui.
+-   `com_bib_06`: Contra el fasciscmo de Humberto Eco.
+-   `com_bib_07`: De la "regeneración del pueblo" a la huelga general de Sergio Grez.

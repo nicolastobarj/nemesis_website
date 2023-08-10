@@ -17,7 +17,7 @@ lang: es
 ## Comité Editorial
 
 ::: {layout-ncol="2" layout-halign="center"}
-![](images/anonymous_dalle.png)
+![](images/cristobal_albornoz.png)
 
 ![](images/anonymous_dalle.png)
 
@@ -25,7 +25,7 @@ lang: es
 
 **Joaquín Capetillo**. Estudiante de tercer año de sociología UChile.
 
-![](images/anonymous_dalle.png)
+![](images/mauricio_enc.png)
 
 ![](images/anonymous_dalle.png)
 
@@ -37,13 +37,13 @@ lang: es
 ## Comunicaciones
 
 ::: {layout-ncol="2"}
-![](images/anonymous_dalle.png)
+![](images/cata_solar.png)
 
-![](images/anonymous_dalle.png)
+![](images/jeremmias.png)
 
 **Catalina Solar**. Estudiante de cuarto año de sociología UChile
 
-**Jeremmías**. Estudiante de cuarto año de Derecho UChile
+**Jeremmías Contreras**. Estudiante de cuarto año de Derecho UChile
 :::
 
 ## Colaboradores

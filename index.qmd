@@ -12,26 +12,23 @@ about:
 listing:
   - id: product
     contents: product
-    type: grid
+    type: table
     sort: 
-      - date asc
+      - date desc
       - title
-    grid-columns: 3
-    grid-item-border: true
     fields: [categories, title, subtitle, image]
     categories: false
-    max-items: 6
+    max-items: 5
     image-align: left
-    image-height: 15.0rem
+    image-height: 10.0rem
     image-placeholder: images/comentarios_dalle.png
-    exclude: 
+    exclude:
       category: "no_visualize"
-
   - id: recents
     contents: recents
     type: grid
     sort: 
-      - date asc
+      - date desc
       - title
     grid-columns: 3
     grid-item-border: true
@@ -51,7 +48,7 @@ title-block-banner: true
 ::: {#recents}
 :::
 
-## Últimos productos
+## Últimas producciones
 
 ::: {#product}
 :::

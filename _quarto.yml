@@ -23,11 +23,14 @@ website:
         
     right:
       - icon: instagram
-        href: https://www.instagram.com/revistanemesis/
+        href: https://www.instagram.com/revistanemesis
+        target: _blank
       - icon: twitter
         href: https://twitter.com/RevistaNemesis
+        target: _blank
       - icon: facebook
         href: https://web.facebook.com/profile.php?id=100064994021305
+        target: _blank
       - icon: mailbox
         href: mailto:nemesis@uchile.cl
     logo: images/circle_logo_black.png
@@ -46,7 +49,8 @@ website:
         - section: "Publicaciones"
           contents: 
             - text: Portal Revista princial
-              href: https://revistanemesis.uchile.cl/
+              href: https://revistanemesis.uchile.cl
+              target: _blank
             - product/comentarios.qmd
             - product/entrevistas.qmd
             - product/columnas.qmd
@@ -55,9 +59,14 @@ website:
         - section: "Alianzas Organizacionales"
           contents:
             - text: Teoría Social Hoy
-              href: https://teoriasocialhoy.org/
+              href: https://teoriasocialhoy.org
+              target: _blank
             - text: REDES
-              href: 404.qmd
+              href: https://www.instagram.com/redes.ch
+              target: _blank
+            - text: OLES
+              href: https://olescl.netlify.app/
+              target: _blank
 
               
                 

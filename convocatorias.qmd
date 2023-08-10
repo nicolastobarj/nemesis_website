@@ -3,7 +3,7 @@ title: "Convocatoria 2023"
 lang: es
 ---
 
-Revista Némesis de Ciencias Sociales abre el llamado para la recepción de artículos, ensayos y reseñas bibliográficas, que serán publicados en el Número XX de la revista, buscando aportes en la temática de *Futuros posibles ante las crisis del Siglo XXI*, donde se valora especialmente las contribuciones originales realizadas desde perspectivas críticas. En esta línea, se reciben aportes en las siguientes áreas:
+Revista Némesis de Ciencias Sociales abre el llamado para la recepción de artículos, ensayos y comentarios bibliográficas, que serán publicados en el Número XX de la revista, buscando aportes en la temática de *Futuros posibles ante las crisis del Siglo XXI*, donde se valora especialmente las contribuciones originales realizadas desde perspectivas críticas. En esta línea, se reciben aportes en las siguientes áreas:
 
 **Política:** Procesos políticos, cercano a temas relativos al sistema político, como la representatividad, confianza en instituciones, partidos políticos, nuevas formas de participación política, entre otros.
 
@@ -17,9 +17,11 @@ Revista Némesis de Ciencias Sociales abre el llamado para la recepción de art�
 
 En esta ocasión no habrá un plazo establecido de recepción de los manuscritos, pues se requiere flexibilidad ante las condiciones de trabajo en las que se encuentra la revista. Pero el Comité editorial se compromete a informar, durante los primeros 10 días de recepción del artículo, si es que el texto será revisado para su publicación en el número XIX, o en los próximos números de la revista.
 
-**Comunicación del fallo editorial a los autores:** (Para los que sean declarados publicables para el número XIX) entre 15 y 30 días hábiles desde el momento de recepción del manuscrito. Fecha de publicación del número: *martes 15 de agosto de 2023*
+**Comunicación del fallo editorial a los autores:** (Para los que sean declarados publicables para el número XIX) entre 15 y 30 días hábiles desde el momento de recepción del manuscrito. Fecha de publicación del número: *Primera semana de noviembre de 2023*
 
-# Normas Editoriales \[Artículos\]
+# Normas Editoriales
+
+## Artículos
 
 Para que su postulación sea válida debe enviar tres documentos a [nemesis\@uchile.cl](mailto:nemesis@uchile.cl). Primero, una carta firmada en formato Word o PDF donde se indique si el artículo se enmarca en un estudio más extenso o una investigación (véanse los anexos). En la misma debe declararse la conformidad con el punto 2 (originalidad y exclusividad) y la cesión de los derechos para que Revista Némesis publique el artículo en caso de ser aceptado. Segundo, un archivo con los siguientes datos: título del artículo, en español e inglés; nombre, correo electrónico, afiliación institucional y teléfono de contacto del(los) autor(es) del artículo. Tercero, el manuscrito en formato .doc o .docx. El archivo, en sus propiedades, no debe poseer ningún elemento que permita la identificación del articulista ("autores", "equipo", "guardado por").
 
@@ -101,11 +103,11 @@ La selección de los artículos será realizada por dicho Comité mediante el si
 
 El estilo formal del texto final, una vez aceptado, queda subordinado a la diagramación y consideraciones del consejo de redacción de la revista. En el caso de que los autores deseasen publicar posteriormente su artículo en otro medio, deberán explicitar en esa publicación que la versión original se encuentra en Revista Némesis.
 
-# Normas Editoriales \[Ensayos\]
+## Ensayos
 
 Para que su postulación sea válida debe enviar tres documentos a [nemesis\@uchile.cl](mailto:nemesis@uchile.cl). Primero, una carta firmada en formato Word o PDF donde se indique si el ensayo se enmarca en un estudio más extenso o una investigación (véanse los anexos). En la misma debe declararse la conformidad con el punto 2 (originalidad y exclusividad) y la cesión de los derechos para que Revista Némesis publique el ensayo en caso de ser aceptado. Segundo, un archivo con los siguientes datos: título del ensayo, en español e inglés; nombre, correo electrónico, afiliación institucional y teléfono de contacto del(los) autor(es) del ensayo. Tercero, el manuscrito en formato .doc o .docx. El archivo, en sus propiedades, no debe poseer ningún elemento que permita la identificación del articulista ("autores", "equipo", "guardado por"). Es importante que el documento no permita identificar al autor para asegurar el proceso de referato ciego.
 
-Los documentos deben ser enviados al correo nemesis\@uchile.cl, indicado por asunto: \[NXIX\] Apellido del autor - Título corto del manuscrito. Por ejemplo: \[NXIX\] Harvey -- Ciudades Rebeldes. Los ensayos enviados deben ser inéditos, esto es, no haber sido publicados en ningún otro medio de difusión con anterioridad y no estar en proceso de evaluación en otra revista.
+Los documentos deben ser enviados al correo [nemesis@uchile.cl](mailto:nemesis@uchile.cl), indicado por asunto: \[NXIX\] Apellido del autor - Título corto del manuscrito. Por ejemplo: \[NXIX\] Harvey -- Ciudades Rebeldes. Los ensayos enviados deben ser inéditos, esto es, no haber sido publicados en ningún otro medio de difusión con anterioridad y no estar en proceso de evaluación en otra revista.
 
 Los ensayos deben considerar los siguientes aspectos formales:
 
@@ -173,7 +175,11 @@ La selección de los ensayos será realizada por dicho Comité mediante el siste
 
 El estilo formal del texto final, una vez aceptado, queda subordinado a la diagramación y consideraciones del consejo de redacción de la revista. En el caso de que los autores deseasen publicar posteriormente su ensayo en otro medio, deberán explicitar en esa publicación que la versión original se encuentra en Revista Némesis.
 
-# Normas Editoriales \[Reseñas bibliográficas\]
+## Comentarios bibliográficos
+
+Los comentarios bibliográficos tiene un formato menos pauteado que los artículos y ensayos. Para postular, debe enviar dos documentos a [nemesis\@uchile.cl](mailto:nemesis@uchile.cl). Primero, una carta declarando la conformidad con la originalidad y exclusividad del comentario y la cesión de los derechos para que Revista Némesis publique el comentario en caso de ser aceptado. Segundo, un archivo del manuscrito con los siguientes datos: título del texto reseñado, en español e inglés; nombre, correo electrónico, afiliación institucional y teléfono de contacto del(los) autor(es) del ensayo. El manuscrito debe ser entregado en formato doc o docx.
+
+En términos de extensión, pueden variar entre las 500 y 3000 palabras. Se priorizarán textos actuales, ósea, con menos de 10 años de longevidad. 
 
 # Sobre el uso del lenguaje inclusivo
 
@@ -181,7 +187,9 @@ El uso de lenguaje inclusivo es decisión del autor, es decir, no es de uso obli
 
 Los autores que deseen usar lenguaje inclusivo deben abogar por el cuidado de este, evitando su abuso y prefiriendo el uso de términos neutros que incluyan a hombres, mujeres y otras identidades.
 
-# Proceso de selección de los artículos y ensayos
+# Procesos de selección 
+
+## Artículos y ensayos
 
 Los trabajos recibidos serán evaluados por el comité editorial y por evaluadores externos. Todo el proceso se realiza mediante el sistema de referato doble ciego.
 
@@ -195,7 +203,11 @@ El comité editorial aceptará o rechazará definitivamente los trabajos reenvia
 
 El comité editorial se reserva el derecho de hacer correcciones de estilo, ortografía y redacción de la versión final de los artículos a ser publicados, sin alterar el contenido de los manuscritos.
 
-# Proceso de selección de reseñas bibliográficas
+## Comentarios bibliográficos
+
+Todos los comentarios bibliográficos recibidos son publicados en las redes sociales y la página web de la revista si cumplen con la línea editorial de la misma. Sin embargo, un mes antes de la publicación del próximo número, el comité editorial se reune para deliberar los mejores 2 o 3 comentarios, que luego son publicados en el número de la revista.
+
+El comité editorial se contactará con el autor del comentario para enviarle una versión revisada del manuscrito, esperando que sea aprobada por el autor para ser publicado.
 
 # Anexos
 

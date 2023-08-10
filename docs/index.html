@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories','listing-title','listing-subtitle','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-categories','listing-title','listing-subtitle','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -171,17 +171,17 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.instagram.com/revistanemesis/" rel="" target=""><i class="bi bi-instagram" role="img">
+    <a class="nav-link" href="https://www.instagram.com/revistanemesis" rel="" target="_blank"><i class="bi bi-instagram" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/RevistaNemesis" rel="" target=""><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/RevistaNemesis" rel="" target="_blank"><i class="bi bi-twitter" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://web.facebook.com/profile.php?id=100064994021305" rel="" target=""><i class="bi bi-facebook" role="img">
+    <a class="nav-link" href="https://web.facebook.com/profile.php?id=100064994021305" rel="" target="_blank"><i class="bi bi-facebook" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
@@ -232,7 +232,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="https://revistanemesis.uchile.cl/" class="sidebar-item-text sidebar-link">
+  <a href="https://revistanemesis.uchile.cl" class="sidebar-item-text sidebar-link" target="&quot;_blank&quot;">
  <span class="menu-text">Portal Revista princial</span></a>
   </div>
 </li>
@@ -279,14 +279,20 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="https://teoriasocialhoy.org/" class="sidebar-item-text sidebar-link">
+  <a href="https://teoriasocialhoy.org" class="sidebar-item-text sidebar-link" target="&quot;_blank&quot;">
  <span class="menu-text">Teoría Social Hoy</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./404.html" class="sidebar-item-text sidebar-link">
+  <a href="https://www.instagram.com/redes.ch" class="sidebar-item-text sidebar-link" target="&quot;_blank&quot;">
  <span class="menu-text">REDES</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="https://olescl.netlify.app/" class="sidebar-item-text sidebar-link" target="&quot;_blank&quot;">
+ <span class="menu-text">OLES</span></a>
   </div>
 </li>
       </ul>
@@ -301,7 +307,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">En esta página</h2>
   <ul>
   <li><a href="#noticias-y-actividades-recientes" id="toc-noticias-y-actividades-recientes" class="nav-link active" data-scroll-target="#noticias-y-actividades-recientes">Noticias y actividades recientes</a></li>
-  <li><a href="#últimos-productos" id="toc-últimos-productos" class="nav-link" data-scroll-target="#últimos-productos">Últimos productos</a></li>
+  <li><a href="#últimas-producciones" id="toc-últimas-producciones" class="nav-link" data-scroll-target="#últimas-producciones">Últimas producciones</a></li>
   </ul>
 </nav>
     </div>
@@ -317,7 +323,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-anchor-id="noticias-y-actividades-recientes">Noticias y actividades recientes</h2>
 <div id="listing-recents" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Noticia" data-listing-date-sort="1689566400000" data-listing-file-modified-sort="1689348122164" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="0" data-categories="Evento" data-listing-date-sort="1689566400000" data-listing-file-modified-sort="1691688828979" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./recents/new_02.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/new_02.jpg" class="thumbnail-image card-img" style="height: 15.0rem;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Némesis te invita al nuevo seminario internacional de OLES
+</h5>
+<div class="card-subtitle listing-subtitle">
+Estrategias frente a la inseguridad en América Latina: Entre la gestión pública y privada de la violencia
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Evento'); return false;">
+Evento
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Noticia" data-listing-date-sort="1689566400000" data-listing-file-modified-sort="1689348122164" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./recents/new_01.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -345,121 +373,114 @@ No hay resultados
 </div>
 </div>
 </section>
-<section id="últimos-productos" class="level2">
-<h2 data-anchor-id="últimos-productos">Últimos productos</h2>
-<div id="listing-product" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Comentarios bibliográficos" data-listing-date-sort="1680494400000" data-listing-file-modified-sort="1689346396713" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
-<a href="./product/comentarios/com_bib_01.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./images/era_de_la_farsa.jpg" class="thumbnail-image card-img" style="height: 15.0rem;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-La era de la farsa
-</h5>
-<div class="card-subtitle listing-subtitle">
-Rodrigo Baño
+<section id="últimas-producciones" class="level2">
+<h2 data-anchor-id="últimas-producciones">Últimas producciones</h2>
+<div id="listing-product" class="quarto-listing quarto-listing-container-table">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-product-sort" class="form-select" aria-label="Ordenar por" onchange="window['quarto-listings']['listing-product'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Ordenar por</option>
+       <option value="index" data-direction="asc">Por defecto</option>
+         <option value="listing-title-sort" data-direction="asc">
+          Título
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
-Comentarios bibliográficos
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="Comentarios bibliográficos" data-listing-date-sort="1681876800000" data-listing-file-modified-sort="1689346390030" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
-<a href="./product/comentarios/com_bib_02.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./images/desobedecer.webp" class="thumbnail-image card-img" style="height: 15.0rem;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Desobedecer
-</h5>
-<div class="card-subtitle listing-subtitle">
-Fèderic Gros
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
-Comentarios bibliográficos
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Comentarios bibliográficos" data-listing-date-sort="1682913600000" data-listing-file-modified-sort="1689346380028" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
-<a href="./product/comentarios/com_bib_03.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./images/chavs.jpg" class="thumbnail-image card-img" style="height: 15.0rem;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Chavs. La demonización de la clase obrera
-</h5>
-<div class="card-subtitle listing-subtitle">
-Owen Jones
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
-Comentarios bibliográficos
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="Comentarios bibliográficos" data-listing-date-sort="1685505600000" data-listing-file-modified-sort="1689346411237" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13">
-<a href="./product/comentarios/com_bib_04.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./images/kibbutz.jpg" class="thumbnail-image card-img" style="height: 15.0rem;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-El misterio de los Kibbutz
-</h5>
-<div class="card-subtitle listing-subtitle">
-Ran Abramitzky
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
-Comentarios bibliográficos
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="Comentarios bibliográficos" data-listing-date-sort="1686801600000" data-listing-file-modified-sort="1689346403558" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
-<a href="./product/comentarios/com_bib_05.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./images/ideologia_competencia.webp" class="thumbnail-image card-img" style="height: 15.0rem;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-La ideología de la competencia
-</h5>
-<div class="card-subtitle listing-subtitle">
-Marinela Chauí
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
-Comentarios bibliográficos
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Categorías
+</th>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Título</a>
+</th>
+<th>
+Subtítulo
+</th>
+<th>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-categories="Comentarios bibliográficos" data-listing-date-sort="1691121600000" data-listing-file-modified-sort="1691689124784" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-title-sort="De la “regeneración del pueblo” a la huelga general. Génesis y evolución del movimiento popular en Chile (1810-1890)" data-listing-filename-sort="com_bib_07.qmd">
+<td>
+<span class="listing-categories">Comentarios bibliográficos</span>
+</td>
+<td>
+<a href="./product/comentarios/com_bib_07.html" class="title listing-title">De la “regeneración del pueblo” a la huelga general. Génesis y evolución del movimiento popular en Chile (1810-1890)</a>
+</td>
+<td>
+<span class="listing-subtitle">Sergio Grez</span>
+</td>
+<td>
+<span class="listing-image"><img src="./images/com_bib_07.jpg" style="height: 10.0rem;"></span>
+</td>
+</tr>
+<tr data-index="1" data-categories="Comentarios bibliográficos" data-listing-date-sort="1689998400000" data-listing-file-modified-sort="1691687648985" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Contra el fascismo" data-listing-filename-sort="com_bib_06.qmd">
+<td>
+<span class="listing-categories">Comentarios bibliográficos</span>
+</td>
+<td>
+<a href="./product/comentarios/com_bib_06.html" class="title listing-title">Contra el fascismo</a>
+</td>
+<td>
+<span class="listing-subtitle">Humberto Eco</span>
+</td>
+<td>
+<span class="listing-image"><img src="./images/com_bib_06.webp" style="height: 10.0rem;"></span>
+</td>
+</tr>
+<tr data-index="2" data-categories="Comentarios bibliográficos" data-listing-date-sort="1686801600000" data-listing-file-modified-sort="1689346403558" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="La ideología de la competencia" data-listing-filename-sort="com_bib_05.qmd">
+<td>
+<span class="listing-categories">Comentarios bibliográficos</span>
+</td>
+<td>
+<a href="./product/comentarios/com_bib_05.html" class="title listing-title">La ideología de la competencia</a>
+</td>
+<td>
+<span class="listing-subtitle">Marinela Chauí</span>
+</td>
+<td>
+<span class="listing-image"><img src="./images/ideologia_competencia.webp" style="height: 10.0rem;"></span>
+</td>
+</tr>
+<tr data-index="3" data-categories="Comentarios bibliográficos" data-listing-date-sort="1685505600000" data-listing-file-modified-sort="1689346411237" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13" data-listing-title-sort="El misterio de los Kibbutz" data-listing-filename-sort="com_bib_04.qmd">
+<td>
+<span class="listing-categories">Comentarios bibliográficos</span>
+</td>
+<td>
+<a href="./product/comentarios/com_bib_04.html" class="title listing-title">El misterio de los Kibbutz</a>
+</td>
+<td>
+<span class="listing-subtitle">Ran Abramitzky</span>
+</td>
+<td>
+<span class="listing-image"><img src="./images/kibbutz.jpg" style="height: 10.0rem;"></span>
+</td>
+</tr>
+<tr data-index="4" data-categories="Comentarios bibliográficos" data-listing-date-sort="1682913600000" data-listing-file-modified-sort="1689346380028" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-title-sort="Chavs. La demonización de la clase obrera" data-listing-filename-sort="com_bib_03.qmd">
+<td>
+<span class="listing-categories">Comentarios bibliográficos</span>
+</td>
+<td>
+<a href="./product/comentarios/com_bib_03.html" class="title listing-title">Chavs. La demonización de la clase obrera</a>
+</td>
+<td>
+<span class="listing-subtitle">Owen Jones</span>
+</td>
+<td>
+<span class="listing-image"><img src="./images/chavs.jpg" style="height: 10.0rem;"></span>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="listing-no-matching d-none">
 No hay resultados
 </div>
