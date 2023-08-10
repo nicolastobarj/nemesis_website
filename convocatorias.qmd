@@ -1,6 +1,8 @@
 ---
 title: "Convocatoria 2023"
 lang: es
+toc: true
+toc-depth: 3
 ---
 
 Revista Némesis de Ciencias Sociales abre el llamado para la recepción de artículos, ensayos y comentarios bibliográficas, que serán publicados en el Número XX de la revista, buscando aportes en la temática de *Futuros posibles ante las crisis del Siglo XXI*, donde se valora especialmente las contribuciones originales realizadas desde perspectivas críticas. En esta línea, se reciben aportes en las siguientes áreas:
@@ -107,7 +109,7 @@ El estilo formal del texto final, una vez aceptado, queda subordinado a la diagr
 
 Para que su postulación sea válida debe enviar tres documentos a [nemesis\@uchile.cl](mailto:nemesis@uchile.cl). Primero, una carta firmada en formato Word o PDF donde se indique si el ensayo se enmarca en un estudio más extenso o una investigación (véanse los anexos). En la misma debe declararse la conformidad con el punto 2 (originalidad y exclusividad) y la cesión de los derechos para que Revista Némesis publique el ensayo en caso de ser aceptado. Segundo, un archivo con los siguientes datos: título del ensayo, en español e inglés; nombre, correo electrónico, afiliación institucional y teléfono de contacto del(los) autor(es) del ensayo. Tercero, el manuscrito en formato .doc o .docx. El archivo, en sus propiedades, no debe poseer ningún elemento que permita la identificación del articulista ("autores", "equipo", "guardado por"). Es importante que el documento no permita identificar al autor para asegurar el proceso de referato ciego.
 
-Los documentos deben ser enviados al correo [nemesis@uchile.cl](mailto:nemesis@uchile.cl), indicado por asunto: \[NXIX\] Apellido del autor - Título corto del manuscrito. Por ejemplo: \[NXIX\] Harvey -- Ciudades Rebeldes. Los ensayos enviados deben ser inéditos, esto es, no haber sido publicados en ningún otro medio de difusión con anterioridad y no estar en proceso de evaluación en otra revista.
+Los documentos deben ser enviados al correo [nemesis\@uchile.cl](mailto:nemesis@uchile.cl), indicado por asunto: \[NXIX\] Apellido del autor - Título corto del manuscrito. Por ejemplo: \[NXIX\] Harvey -- Ciudades Rebeldes. Los ensayos enviados deben ser inéditos, esto es, no haber sido publicados en ningún otro medio de difusión con anterioridad y no estar en proceso de evaluación en otra revista.
 
 Los ensayos deben considerar los siguientes aspectos formales:
 
@@ -179,15 +181,9 @@ El estilo formal del texto final, una vez aceptado, queda subordinado a la diagr
 
 Los comentarios bibliográficos tiene un formato menos pauteado que los artículos y ensayos. Para postular, debe enviar dos documentos a [nemesis\@uchile.cl](mailto:nemesis@uchile.cl). Primero, una carta declarando la conformidad con la originalidad y exclusividad del comentario y la cesión de los derechos para que Revista Némesis publique el comentario en caso de ser aceptado. Segundo, un archivo del manuscrito con los siguientes datos: título del texto reseñado, en español e inglés; nombre, correo electrónico, afiliación institucional y teléfono de contacto del(los) autor(es) del ensayo. El manuscrito debe ser entregado en formato doc o docx.
 
-En términos de extensión, pueden variar entre las 500 y 3000 palabras. Se priorizarán textos actuales, ósea, con menos de 10 años de longevidad. 
+En términos de extensión, pueden variar entre las 500 y 3000 palabras. Se priorizarán textos actuales, ósea, con menos de 10 años de longevidad.
 
-# Sobre el uso del lenguaje inclusivo
-
-El uso de lenguaje inclusivo es decisión del autor, es decir, no es de uso obligado ni prohibido para los manuscritos que se publiquen en la Revista Némesis. La Revista Némesis sólo publicará manuscritos en su web (columnas de opinión y notas de investigación) que, en caso de usar lenguaje inclusivo, utilicen una barra diagonal ("/"; los/as estudiantes, por ejemplo), que expliciten ambos sexos (los y las estudiantes, por ejemplo) o que usen términos neutros (en vez de los y las estudiantes "el estudiantado", por ejemplo). En su publicación principal (ensayos, artículos, reseñas y entrevistas), Némesis sólo permitirá el uso de estos dos últimos. La Revista Némesis, en todas sus publicaciones, se reserva el derecho de publicar manuscritos que reemplacen la "o" por la "e" (los estudiantes por "les" estudiantes, por ejemplo), que reemplacen la "o" por la "x" (los estudiantes por "lxs" estudiantes, por ejemplo), que reemplacen la "o" por un "\@" (los estudiantes por "l\@s estudiantes") y que reemplacen la "o" por un guion (los estudiantes por "l-s estudiantes, por ejemplo).
-
-Los autores que deseen usar lenguaje inclusivo deben abogar por el cuidado de este, evitando su abuso y prefiriendo el uso de términos neutros que incluyan a hombres, mujeres y otras identidades.
-
-# Procesos de selección 
+# Procesos de selección
 
 ## Artículos y ensayos
 
@@ -208,6 +204,12 @@ El comité editorial se reserva el derecho de hacer correcciones de estilo, orto
 Todos los comentarios bibliográficos recibidos son publicados en las redes sociales y la página web de la revista si cumplen con la línea editorial de la misma. Sin embargo, un mes antes de la publicación del próximo número, el comité editorial se reune para deliberar los mejores 2 o 3 comentarios, que luego son publicados en el número de la revista.
 
 El comité editorial se contactará con el autor del comentario para enviarle una versión revisada del manuscrito, esperando que sea aprobada por el autor para ser publicado.
+
+# Sobre el uso del lenguaje inclusivo
+
+El uso de lenguaje inclusivo es decisión del autor, es decir, no es de uso obligado ni prohibido para los manuscritos que se publiquen en la Revista Némesis. La Revista Némesis sólo publicará manuscritos en su web (columnas de opinión y notas de investigación) que, en caso de usar lenguaje inclusivo, utilicen una barra diagonal ("/"; los/as estudiantes, por ejemplo), que expliciten ambos sexos (los y las estudiantes, por ejemplo) o que usen términos neutros (en vez de los y las estudiantes "el estudiantado", por ejemplo). En su publicación principal (ensayos, artículos, reseñas y entrevistas), Némesis sólo permitirá el uso de estos dos últimos. La Revista Némesis, en todas sus publicaciones, se reserva el derecho de publicar manuscritos que reemplacen la "o" por la "e" (los estudiantes por "les" estudiantes, por ejemplo), que reemplacen la "o" por la "x" (los estudiantes por "lxs" estudiantes, por ejemplo), que reemplacen la "o" por un "\@" (los estudiantes por "l\@s estudiantes") y que reemplacen la "o" por un guion (los estudiantes por "l-s estudiantes, por ejemplo).
+
+Los autores que deseen usar lenguaje inclusivo deben abogar por el cuidado de este, evitando su abuso y prefiriendo el uso de términos neutros que incluyan a hombres, mujeres y otras identidades.
 
 # Anexos
 
