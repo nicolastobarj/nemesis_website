@@ -4,7 +4,6 @@ project:
 
 website:
 
-  site-url: "https://nemesis.netlify.app"
   favicon: images/circle_logo_black.png
   
   navbar:
@@ -85,4 +84,7 @@ format:
     highlight-style: monokai
 
 editor: visual
+
+execute:
+  freeze: auto
 

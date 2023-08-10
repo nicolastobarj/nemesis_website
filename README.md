@@ -2,7 +2,7 @@
 
 El presente repositorio contiene los archivos necesarios para modificar y actualizar la página web de la Revista Némesis. La estructura es la siguiente:
 
-En la capa inicial se encuentran los documentos asociados al inicio de la página, es decir, las plantillas .qmd de cada sección dispuesta en la barra de navegación superior. Además, se encuentra el yml que renderiza el archivo html que luego se publica en la página, el archivo css que le da forma a la página y carpetas de trabajo.
+En la capa inicial se encuentran los documentos asociados al inicio de la página, es decir, las plantillas .qmd de cada sección dispuesta en la barra de navegación superior. Además, se encuentra el yml que renderiza el archivo html que luego se publica en la página, el archivo css que le da forma a la página y carpetas de trabajo. Cabe mencionar que el archivo \_publish.yml está hecho para subir la página a la app netlify, donde se encuentra alojado el link del sitio web.
 
 Las carpetas son las siguientes:
 
@@ -11,6 +11,7 @@ Las carpetas son las siguientes:
 -   `docx_pdf`: Contiene los documentos en formato word o pdf que se publican en la página, como anexos de convocatorias, escritos, entre otras.
 -   `product`: Subsección que contiene las plantillas .qmd que despliegan las listas de las distintas publicaciones que se alojan en la barra lateral de la página. Dentro de la carpeta, cada tipo de producto tiene su propia carpeta en la que se distribuyen los escritos publicados.
 -   `recents`: Contiene las plantillas .qmd de cada noticia u actividad de la Revista que se publica en la web.
+-   `workflows`: Archivos para la publicación automática de la página web vía git-hub actions to netlify.
 
 Asimismo, en la capa inicial se alojan archivos de soporte de la página como `404.qmd` que muestra la plantilla de error de navegación y `styles.css` que contiene la configuración estética de la web.
 
