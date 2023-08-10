@@ -55,7 +55,6 @@ website:
             - product/entrevistas.qmd
             - product/columnas.qmd
             - product/coloquios.qmd
-            - product/notas_investigativ.qmd
         - section: "Alianzas Organizacionales"
           contents:
             - text: Teoría Social Hoy

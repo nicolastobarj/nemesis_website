@@ -29,9 +29,15 @@ lang: es
 
 ![](images/anonymous_dalle.png)
 
-**Mauricio Encina** Estudiante de cuarto año de sociología UChile.
+**Mauricio Encina**. Estudiante de cuarto año de sociología UChile.
 
-**Javiera Wömpner** Estudiante del Magíster en Ciencias Sociales UChile.
+**Javiera Wömpner**. Estudiante del Magíster en Ciencias Sociales UChile.
+
+![](images/anonymous_dalle.png)
+
+**Octavio Villarroel**. Estudiante de cuartio año de sociología UChile.
+
+
 :::
 
 ## Comunicaciones

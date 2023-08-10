@@ -2,7 +2,7 @@
 title: "¡Némesis inaugura su nueva Página Web!"
 subtitle: "A través de un formato reproducible, abierto y colaborativo"
 categories: "Noticia"
-date: 07-17-2023
+date: 08-16-2023
 image: ../images/new_01.jpeg
 lang: es
 about:

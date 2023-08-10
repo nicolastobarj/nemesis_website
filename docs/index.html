@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories','listing-title','listing-subtitle','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-categories','listing-title','listing-subtitle','listing-image','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -98,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-image','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-image','listing-categories','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
@@ -260,12 +260,6 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Coloquios</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./product/notas_investigativ.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Notas investigativas</span></a>
-  </div>
-</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -323,7 +317,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-anchor-id="noticias-y-actividades-recientes">Noticias y actividades recientes</h2>
 <div id="listing-recents" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Evento" data-listing-date-sort="1689566400000" data-listing-file-modified-sort="1691688828979" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="0" data-categories="Evento" data-listing-date-sort="1692244800000" data-listing-file-modified-sort="1691701677654" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./recents/new_02.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -341,11 +335,16 @@ Estrategias frente a la inseguridad en América Latina: Entre la gestión públi
 Evento
 </div>
 </div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+17 ago 2023
+</div>
+</div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Noticia" data-listing-date-sort="1689566400000" data-listing-file-modified-sort="1689348122164" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="1" data-categories="Noticia" data-listing-date-sort="1692158400000" data-listing-file-modified-sort="1691701664371" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./recents/new_01.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -363,6 +362,11 @@ A través de un formato reproducible, abierto y colaborativo
 Noticia
 </div>
 </div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+16 ago 2023
+</div>
+</div>
 </div>
 </div>
 </a>
@@ -375,112 +379,149 @@ No hay resultados
 </section>
 <section id="últimas-producciones" class="level2">
 <h2 data-anchor-id="últimas-producciones">Últimas producciones</h2>
-<div id="listing-product" class="quarto-listing quarto-listing-container-table">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-product-sort" class="form-select" aria-label="Ordenar por" onchange="window['quarto-listings']['listing-product'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Ordenar por</option>
-       <option value="index" data-direction="asc">Por defecto</option>
-         <option value="listing-title-sort" data-direction="asc">
-          Título
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<div id="listing-product" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Comentarios bibliográficos" data-listing-date-sort="1691121600000" data-listing-file-modified-sort="1691689124784" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<div class="thumbnail">
+<p><a href="./product/comentarios/com_bib_07.html"> <img src="./images/com_bib_07.jpg" class="thumbnail-image" style="height: 10.0rem;"> </a></p>
 </div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Categorías
-</th>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Título</a>
-</th>
-<th>
-Subtítulo
-</th>
-<th>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="Comentarios bibliográficos" data-listing-date-sort="1691121600000" data-listing-file-modified-sort="1691689124784" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-title-sort="De la “regeneración del pueblo” a la huelga general. Génesis y evolución del movimiento popular en Chile (1810-1890)" data-listing-filename-sort="com_bib_07.qmd">
-<td>
-<span class="listing-categories">Comentarios bibliográficos</span>
-</td>
-<td>
-<a href="./product/comentarios/com_bib_07.html" class="title listing-title">De la “regeneración del pueblo” a la huelga general. Génesis y evolución del movimiento popular en Chile (1810-1890)</a>
-</td>
-<td>
-<span class="listing-subtitle">Sergio Grez</span>
-</td>
-<td>
-<span class="listing-image"><img src="./images/com_bib_07.jpg" style="height: 10.0rem;"></span>
-</td>
-</tr>
-<tr data-index="1" data-categories="Comentarios bibliográficos" data-listing-date-sort="1689998400000" data-listing-file-modified-sort="1691687648985" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Contra el fascismo" data-listing-filename-sort="com_bib_06.qmd">
-<td>
-<span class="listing-categories">Comentarios bibliográficos</span>
-</td>
-<td>
-<a href="./product/comentarios/com_bib_06.html" class="title listing-title">Contra el fascismo</a>
-</td>
-<td>
-<span class="listing-subtitle">Humberto Eco</span>
-</td>
-<td>
-<span class="listing-image"><img src="./images/com_bib_06.webp" style="height: 10.0rem;"></span>
-</td>
-</tr>
-<tr data-index="2" data-categories="Comentarios bibliográficos" data-listing-date-sort="1686801600000" data-listing-file-modified-sort="1689346403558" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="La ideología de la competencia" data-listing-filename-sort="com_bib_05.qmd">
-<td>
-<span class="listing-categories">Comentarios bibliográficos</span>
-</td>
-<td>
-<a href="./product/comentarios/com_bib_05.html" class="title listing-title">La ideología de la competencia</a>
-</td>
-<td>
-<span class="listing-subtitle">Marinela Chauí</span>
-</td>
-<td>
-<span class="listing-image"><img src="./images/ideologia_competencia.webp" style="height: 10.0rem;"></span>
-</td>
-</tr>
-<tr data-index="3" data-categories="Comentarios bibliográficos" data-listing-date-sort="1685505600000" data-listing-file-modified-sort="1689346411237" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13" data-listing-title-sort="El misterio de los Kibbutz" data-listing-filename-sort="com_bib_04.qmd">
-<td>
-<span class="listing-categories">Comentarios bibliográficos</span>
-</td>
-<td>
-<a href="./product/comentarios/com_bib_04.html" class="title listing-title">El misterio de los Kibbutz</a>
-</td>
-<td>
-<span class="listing-subtitle">Ran Abramitzky</span>
-</td>
-<td>
-<span class="listing-image"><img src="./images/kibbutz.jpg" style="height: 10.0rem;"></span>
-</td>
-</tr>
-<tr data-index="4" data-categories="Comentarios bibliográficos" data-listing-date-sort="1682913600000" data-listing-file-modified-sort="1689346380028" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-title-sort="Chavs. La demonización de la clase obrera" data-listing-filename-sort="com_bib_03.qmd">
-<td>
-<span class="listing-categories">Comentarios bibliográficos</span>
-</td>
-<td>
-<a href="./product/comentarios/com_bib_03.html" class="title listing-title">Chavs. La demonización de la clase obrera</a>
-</td>
-<td>
-<span class="listing-subtitle">Owen Jones</span>
-</td>
-<td>
-<span class="listing-image"><img src="./images/chavs.jpg" style="height: 10.0rem;"></span>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="body">
+<a href="./product/comentarios/com_bib_07.html">
+<h3 class="no-anchor listing-title">
+De la “regeneración del pueblo” a la huelga general. Génesis y evolución del movimiento popular en Chile (1810-1890)
+</h3>
+<div class="listing-subtitle">
+Sergio Grez
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
+Comentarios bibliográficos
+</div>
+</div>
+<a href="./product/comentarios/com_bib_07.html"> </a>
+</div>
+<div class="metadata">
+<a href="./product/comentarios/com_bib_07.html">
+<div class="listing-date">
+4 ago 2023
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Comentarios bibliográficos" data-listing-date-sort="1689998400000" data-listing-file-modified-sort="1691687648985" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="thumbnail">
+<p><a href="./product/comentarios/com_bib_06.html"> <img src="./images/com_bib_06.webp" class="thumbnail-image" style="height: 10.0rem;"> </a></p>
+</div>
+<div class="body">
+<a href="./product/comentarios/com_bib_06.html">
+<h3 class="no-anchor listing-title">
+Contra el fascismo
+</h3>
+<div class="listing-subtitle">
+Humberto Eco
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
+Comentarios bibliográficos
+</div>
+</div>
+<a href="./product/comentarios/com_bib_06.html"> </a>
+</div>
+<div class="metadata">
+<a href="./product/comentarios/com_bib_06.html">
+<div class="listing-date">
+22 jul 2023
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="Comentarios bibliográficos" data-listing-date-sort="1686801600000" data-listing-file-modified-sort="1689346403558" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="thumbnail">
+<p><a href="./product/comentarios/com_bib_05.html"> <img src="./images/ideologia_competencia.webp" class="thumbnail-image" style="height: 10.0rem;"> </a></p>
+</div>
+<div class="body">
+<a href="./product/comentarios/com_bib_05.html">
+<h3 class="no-anchor listing-title">
+La ideología de la competencia
+</h3>
+<div class="listing-subtitle">
+Marinela Chauí
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
+Comentarios bibliográficos
+</div>
+</div>
+<a href="./product/comentarios/com_bib_05.html"> </a>
+</div>
+<div class="metadata">
+<a href="./product/comentarios/com_bib_05.html">
+<div class="listing-date">
+15 jun 2023
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="Comentarios bibliográficos" data-listing-date-sort="1685505600000" data-listing-file-modified-sort="1689346411237" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13">
+<div class="thumbnail">
+<p><a href="./product/comentarios/com_bib_04.html"> <img src="./images/kibbutz.jpg" class="thumbnail-image" style="height: 10.0rem;"> </a></p>
+</div>
+<div class="body">
+<a href="./product/comentarios/com_bib_04.html">
+<h3 class="no-anchor listing-title">
+El misterio de los Kibbutz
+</h3>
+<div class="listing-subtitle">
+Ran Abramitzky
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
+Comentarios bibliográficos
+</div>
+</div>
+<a href="./product/comentarios/com_bib_04.html"> </a>
+</div>
+<div class="metadata">
+<a href="./product/comentarios/com_bib_04.html">
+<div class="listing-date">
+31 may 2023
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="Comentarios bibliográficos" data-listing-date-sort="1682913600000" data-listing-file-modified-sort="1689346380028" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
+<div class="thumbnail">
+<p><a href="./product/comentarios/com_bib_03.html"> <img src="./images/chavs.jpg" class="thumbnail-image" style="height: 10.0rem;"> </a></p>
+</div>
+<div class="body">
+<a href="./product/comentarios/com_bib_03.html">
+<h3 class="no-anchor listing-title">
+Chavs. La demonización de la clase obrera
+</h3>
+<div class="listing-subtitle">
+Owen Jones
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Comentarios bibliográficos'); return false;">
+Comentarios bibliográficos
+</div>
+</div>
+<a href="./product/comentarios/com_bib_03.html"> </a>
+</div>
+<div class="metadata">
+<a href="./product/comentarios/com_bib_03.html">
+<div class="listing-date">
+1 may 2023
+</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No hay resultados
 </div>

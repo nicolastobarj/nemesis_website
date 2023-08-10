@@ -2,7 +2,7 @@
 title: "Némesis te invita al nuevo seminario internacional de OLES"
 subtitle: "Estrategias frente a la inseguridad en América Latina: Entre la gestión pública y privada de la violencia"
 categories: "Evento"
-date: 07-17-2023
+date: 08-17-2023
 image: ../images/new_02.jpg
 lang: es
 about:

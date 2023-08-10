@@ -12,14 +12,14 @@ about:
 listing:
   - id: product
     contents: product
-    type: table
+    type: default
     sort: 
       - date desc
       - title
-    fields: [categories, title, subtitle, image]
+    fields: [categories, title, subtitle, image, date]
     categories: false
     max-items: 5
-    image-align: left
+    image-align: right
     image-height: 10.0rem
     image-placeholder: images/comentarios_dalle.png
     exclude:
@@ -32,7 +32,7 @@ listing:
       - title
     grid-columns: 3
     grid-item-border: true
-    fields: [title, subtitle, image, categories]
+    fields: [title, subtitle, image, categories, date]
     categories: false
     max-items: 6
     image-align: left
