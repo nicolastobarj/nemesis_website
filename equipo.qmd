@@ -19,7 +19,7 @@ lang: es
 ::: {layout-ncol="2" layout-halign="center"}
 ![](images/cristobal_albornoz.png)
 
-![](images/anonymous_dalle.png)
+![](images/joaquin_capetillo.png)
 
 **Cristóbal Albornoz**. Estudiante de cuarto año de sociología UChile.
 
@@ -27,17 +27,17 @@ lang: es
 
 ![](images/mauricio_enc.png)
 
-![](images/anonymous_dalle.png)
+![](images/javi_womp.png)
 
-**Mauricio Encina**. Estudiante de cuarto año de sociología UChile.
+**Mauricio Encina**. Estudiante de cuarto año de sociología UChile. Interesado en las teorías de la justicia y en la sociología filosófica del derecho.
 
 **Javiera Wömpner**. Estudiante del Magíster en Ciencias Sociales UChile.
+:::
 
+::: {layout="[40,60]" layout-valign="center"}
 ![](images/anonymous_dalle.png)
 
-**Octavio Villarroel**. Estudiante de cuartio año de sociología UChile.
-
-
+**Octavio Villarroel**. Estudiante de cuarto año de sociología UChile.
 :::
 
 ## Comunicaciones
@@ -51,5 +51,3 @@ lang: es
 
 **Jeremmías Contreras**. Estudiante de cuarto año de Derecho UChile
 :::
-
-## Colaboradores
