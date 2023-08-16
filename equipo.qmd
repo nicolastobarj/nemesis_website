@@ -35,7 +35,7 @@ lang: es
 :::
 
 ::: {layout="[40,60]" layout-valign="center"}
-![](images/anonymous_dalle.png)
+![](images/octavio_villarroel.png)
 
 **Octavio Villarroel**. Estudiante de cuarto año de sociología UChile.
 :::
