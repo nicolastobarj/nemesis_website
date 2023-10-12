@@ -7,7 +7,7 @@ listing:
   type: default
   sort: 
     - "date desc"
-  fields: [title, author, date, reading-time, description]
+  fields: [title, author, date, reading-time, image]
   page-size: 10
 ---
 

@@ -1,0 +1,34 @@
+---
+title: "Aceleracionismo: Estrategias para una transición hacia el poscapitalismo"
+subtitle: "Armen Avanessian y Mauro Reis (Comp.)"
+description: "Reflexiones respecto a las contradicciones del futuro"
+categories: "Comentarios bibliográficos"
+author: Oscar de la Jara
+date: 08-22-2023
+image: ../../images/com_bib_08.jpeg
+lang: es
+about: 
+  template: trestles
+---
+
+En los últimos años han suscitado interés un conjunto de autores que navegan alrededor de la polémica propuesta política del aceleracionismo. Esta corriente de pensamiento surge en Inglaterra en los años noventa. Sin embargo, no es como tal una escuela de pensamiento, sino un conjunto de autores que comparten un sustrato común: la intención intelectual de pensar nuevas formas políticas, pero que a su vez poseen varias divergencias entre sí. 
+
+En este texto editado por Caja Negra se reúnen diversos autores que escriben un ensamble de crítica cultural, teoría social, filosofía política y ciencia ficción. Los compiladores de los escritos del libro: Armen Avanessian y Mauro Reis, señalan que son los momentos en que los poderes del capitalismo están en crisis y las perspectivas de superación escasean, en que el aceleracionismo emerge como posibilidad. Por lo tanto, y en consideración de las múltiples crisis que se atraviesan en la actualidad, se torna necesaria una actualización del arsenal teórico para una crítica adecuada a las transformaciones sociotécnicas de los últimos años. Es desde aquí que el aceleracionismo podría ofrecer nuevas herramientas para pensar otros mundos posibles.
+
+Como principales referentes del aceleracionismo están Deleuze y Guattari, sobre todo producto de la siguiente frase que aparece en El Antiedipo:	
+
+>Pero ¿qué vía revolucionaria, hay alguna? ¿Retirarse del mercado mundial como aconseja Samir Amin a los países del tercer mundo, en una curiosa renovación de la ‘solución fascista’? ¿O bien ir en sentido contrario? Es decir, ir aún más lejos en el movimiento del mercado, de la descodificación y de la desterritorialización […] No retirarse del proceso, sino ir más lejos, ‘acelerar el proceso’, como decía Nietzsche: en verdad, en esta materia todavía no hemos visto nada.
+
+Como leemos, una propuesta política no puede basarse en querer volver al pasado o aislarse del mundo. Si ya estamos inmersos en estos procesos, a lo mejor lo que deberíamos hacer es acelerar estos procesos. ¿Pero qué es acelerar? ¿Qué consecuencias tiene? Las respuestas a estas preguntas serán bastante diferentes y contrapuestas entre los autores presentes en esta antología. Por ejemplo, Nick Land --considerado el padre fundador del aceleracionismo y posteriormente catalogado como “neorreacionario”-- plantea que es necesaria una intensificación de los procesos de desterritorialización que lleva a cabo la maquinaria del capital. Es una apuesta por la singularidad tecnológica, es decir, el quiebre con la tradición del humanismo ilustrado para desembocar en un transhumanismo oscuro y futurista donde lo humano se desvanece y se funde con lo digital.
+
+Por otro lado, Marx en su discurso sobre el libre cambio (publicado en Bruselas en febrero de 1848 e incorporado posteriormente por Engels en Miseria de la Filosofía) señala:
+
+Pero, en general, el sistema proteccionista es en nuestros días conservador, mientras que el sistema del libre cambio es destructor. Corroe las viejas nacionalidades y lleva al extremo el antagonismo entre la burguesía y el proletariado. En una palabra, el sistema de la libertad de comercio acelera la revolución social. Y sólo en este sentido revolucionario, yo voto, señores, a favor del libre cambio.
+
+Llegar a la revolución por la toma de conciencia del proletariado parece imposible. El capitalismo sigue venciendo. Quizás no haya que regular ni imponer un límite, sino como señalan estos autores, acelerar sus procesos de expansión y desterritorialización. Sin embargo, a lo largo del libro surgen diversas críticas a lo que plantea el aceleracionismo. Por ejemplo, Franco “Bifo” Berardi se pregunta si es que acaso es deseable una aceleración, en tanto el cerebro y cuerpo humano tiene un límite físico y mental que la velocidad ininterrumpida provocaría en nosotros parálisis, pánico, depresión, caos. Su crítica al aceleracionismo se trata entonces de una consideración sobre los límites de lo humano y el peligro que acarrea la intensificación de los estímulos nerviosos.
+
+A lo largo del libro los autores comparten una constatación: reina un largo desencanto en la izquierda, donde ya la dirección en que avanza la historia es completamente indeterminable y solamente especulativa. Oponiéndose a la idea en que avanzaba la historia, y donde existían referentes concretos (“realmente existentes”), actualmente pareciera que cualquier movimiento social se encuentra con el problema en que no importan qué prácticas realice, cuántas intervenciones se hagan, ni cuántas protestas mediáticas se difundan. Todo parece indicar que nos encontramos en un plano de pensamiento y de acción caracterizados por el estado de parálisis. Desde esta hipótesis, los aceleracionistas de izquierda plantean que es necesario constatar pragmáticamente todo aquello que en el presente sistema posibilite una futura emancipación. Es decir, lo que se busca desde el aceleracionismo de izquierda es reapropiarse de las fuerzas técnicas latentes y desplegarlas en su máxima intensidad para alcanzar así un futuro más “moderno” de lo que el capitalismo podría ofrecer. 
+
+El aceleracionismo y sus defensores plantean que la estrategia política del futuro es el caos. Esto puede ser bastante atractivo si compartimos la constatación de la impotencia de las perspectivas políticas dominantes. Sin embargo, su gran punto débil es la extrema confianza que se tiene en que el capitalismo caerá por sus propias contradicciones. Esta, además de peligrosa puede parecer ingenua, en tanto el capitalismo --como señalan Deleuze y Guattari-- se funda esencialmente en ser inestable y dinámico, capaz de adaptarse sin problema a los cambios en su entorno. Por lo que apostar a acelerar sus procesos de desterritorialización puede no inflingirle ningún tipo de daño a su funcionamiento y más bien fortalecerlo.
+
+Considero que más allá de los acuerdos y desacuerdos que se pueda tener con el aceleracionismo como perspectiva política, este nos ofrece una interesante visión de los futuros posibles. Su vocación especulativa y su cercanía con la ciencia ficción es probablemente lo más atractivo que tiene, pero difícilmente puede ser una estrategia política que se cristalice en una praxis social. Por eso, quizás sea mejor ver al aceleracionismo como lo que Nick Land mejor hace: ciencia ficción.

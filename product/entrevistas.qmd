@@ -2,6 +2,13 @@
 title: "Entrevistas"
 category: "no_visualize"
 lang: es
+listing:
+  contents: entrevistas
+  type: default
+  sort: 
+    - "date desc"
+  fields: [title, subtitle, date, reading-time, image]
+  page-size: 5
 ---
 
 La sección de entrevistas proporciona una perspectiva experta y única sobre temas relevantes en el campo de estudio de las Ciencias Sociales. Puede incluir preguntas sobre la experiencia personal del entrevistado en el campo científico, su investigación actual o más reciente, su perspectiva sobre temas disciplinares y públicos, entre otras. Las entrevistas se graban, y luego quedan subidas a las redes sociales y la página de Némesis.

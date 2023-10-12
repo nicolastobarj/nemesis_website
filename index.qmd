@@ -43,7 +43,7 @@ page-layout: full
 title-block-banner: true
 ---
 
-## Noticias y actividades recientes
+## Información reciente
 
 ::: {#recents}
 :::

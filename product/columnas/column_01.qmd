@@ -1,0 +1,109 @@
+---
+title: "Migración en Chile"
+subtitle: "Un aporte al debate actual"
+categories: "Columnas de opinión"
+author: Ignacio López
+date: 10-22-2020
+image: ../../images/column_01.jpg
+lang: es
+about: 
+  template: marquee
+---
+
+Los procesos migratorios han estado presentes en las distintas regiones del mundo a lo largo de la
+historia, no obstante, durante los últimos años se ha producido un aumento significativo de
+desplazamientos humanos a nivel mundial. En Latinoamérica, desde el año 2003 al 2017 se vivió
+un proceso denominado la “humanización de la migración”. En este periodo los Estados de la
+región reformularon sus leyes desde una mirada cercana a los derechos humanos y generaron
+instrumentos regionales que les permitieron establecer estándares y avanzar así en una
+modernización de políticas y leyes migratorias. Además, debido a la articulación generada por los
+múltiples acuerdos que se llevaron a cabo durante este proceso, como el acuerdo de residencia de
+Mercosur del año 2009, se facilitaron las posibilidades de regularización y residencia para los
+nacionales de los Estados que integraron estos pactos. Fuera de esta tendencia reformista y
+comprometida con los derechos humanos, quedaron los Estados de Chile y Colombia.
+
+Pese a los avances vividos entre el año 2003 y el 2017, durante los últimos años con el triunfo
+electoral de sectores de derecha conservadora en la región se han producido procesos de
+contrarreforma donde principalmente a través de la utilización de decretos, varios países han ido
+limitando y restringiendo lo que se había logrado en materia de derechos reconocidos a personas
+migrantes.
+
+Chile es uno de los países con políticas migratorias más restrictivas, junto con esto uno de los que
+consagra un número menor de derechos a personas migrantes extranjeras a nivel constitucional.
+Esto en parte se explica porque la legislación actual sobre migración data del año 1975, con un
+país viviendo los primeros años de dictadura, por lo que existe consenso en que es una ley
+obsoleta y que no permite hacerse cargo de buena forma del fenómeno de la migración.
+
+Actualmente, en el congreso se encuentra en discusión la reforma a la ley de migración y
+extranjería, por esto resulta necesario aportar al debate público con información veraz que aporte
+a derribar ciertos mitos y promueva una integración armónica de las personas migrantes en el país
+receptor.
+
+## 1) Magnitud de la migración extranjera en Chile
+
+En los últimos años Chile ha recibido un número importante de inmigrantes lo que ha significado
+un aumento de menos de un 3% para el año 2015, a un 8% en 2020, según datos del Instituto
+Nacional de Estadísticas. Sin embargo, pese a los discursos que algunos sectores políticos y medios
+de comunicación han querido instalar sobre un posible ‘desborde de inmigrantes’, esto posiciona
+al país en una posición bastante inferior en el ranking de porcentaje de inmigrantes a nivel
+mundial, cercano al puesto número 100 según datos de las Naciones Unidas. Si comparamos
+dentro de la OCDE, Chile se encuentra debajo del promedio, ubicándose en el lugar número 26
+según porcentaje de inmigrantes. A nivel Sudamericano, Chile ocupa el tercer puesto en cantidad
+de inmigrantes, atrás de Argentina y Colombia, datos que nos mostrarían de la instalación de un
+discurso poco coherente de los números reales, elemento que a nivel social solo aporta a un
+aumento del racismo, xenofobia y por consiguiente dificultades para una integración armónica.
+
+## 2) Ineficacia de las políticas restrictivas
+
+Los procesos migratorios actuales se han caracterizado por no ser voluntarios, sino que marcados
+por las dificultades sociales, políticas o económicas por las que atraviesan un gran número de
+países, por lo que resulta pertinente entender que el camino de las políticas restrictivas que ha
+tomado Chile no contribuye a disminuir la cantidad de migrantes y la evidencia empírica lo
+respalda. Apostar por controles fronterizos estrictos entendiendo la imposibilidad de llevar a cabo
+esto debido a la geografía del país, y apostar por políticas centradas en aumentar barreras
+burocráticas migratorias, solo contribuye a que quienes entren al territorio residan bajo la
+irregularidad, lo que los lleva a trabajar sin derechos formales, poniéndolos en una posición frágil,
+marginalizada y desamparada. Cabe recordar la reciente experiencia del año 2012 cuando se
+aumentaron las barreras migratorias a dominicanos que residían en el país. En este caso, en vez de
+reducir la inmigración, el visado que se impuso desreguló el proceso migratorio, lo que terminó
+generando entrada irregular, trata de personas y exclusión del mercado laboral formal. Sin
+embargo, pese a lo que demuestra la evidencia al respecto, pareciera ser que las políticas
+restrictivas siguen siendo el camino para el gobierno. Para el año 2018, el presidente Sebastián
+Piñera implementó dos decretos ejecutivos relacionados con la inmigración, los cuales apuntaban
+en discriminar la entrada al país a personas de las nacionalidades haitiana y venezolana, además
+de cerrar la puerta a personas de menores ingresos, y en el último año esta dinámica se ha
+mantenido al enfrentar la migración haitiana desde un carácter restrictivo y expulsor. Frente a
+esto resulta necesario ampliar la discusión migratoria e incorporar los argumentos que señala tanto la literatura al respecto como las experiencias en Chile y otros países para avanzar en un
+marco jurídico que se pueda hacer cargo de la realidad sin dejar de lado los derechos de los
+inmigrantes que llegan al país buscando un mejor devenir.
+
+## 3) Costos de programas de expulsión de inmigrantes
+
+El control migratorio a nivel nacional ha planteado dos mal llamadas soluciones; la primera, la
+expulsión y la segunda la regularización. Frente a la expulsión discursos de sectores conservadores
+han buscado instalar en la opinión pública la urgencia de avanzar en programas dedicados a llevar
+a cabo estos procesos de expulsión, ya en el año 2018, José Antonio Kast exigía la expulsión de
+inmigrantes clandestinos, sin hacer explícito lo que implica a nivel de costo para el Estado llevar
+adelante este tipo de políticas que no solo son ineficaces, sino también ajenas a cualquier
+consideración de humanidad. Si revisamos el caso de EE. UU., entre el año 1986 y el año 2013,
+según datos del Migration Policy Institute, gastó 187 billones de dólares en el programa
+Inmigration Enforcement dedicado a la expulsión de inmigrantes. Pese a esta cantidad exorbitante
+de dinero, nunca ningún gobierno de Estados Unidos desde 1990 hasta la fecha ha expulsado a
+más del 4% de inmigrantes. Siguiendo esta línea, en España, según datos de la Asociación Pro
+Derechos Humanos de Andalucía, el Estado español gastó 45,1 millones de euros entre mayo de
+2004 y octubre de 2006 en expulsiones y devoluciones. En el caso italiano, se calcula que en el año
+2005 cada expulsión costó 3607 euros, sin contar el coste previo de internamiento. En Francia, se
+estima que el costo de las expulsiones entre 2002 y 2007 fue de 3.000 millones de euros.
+Finalmente, podemos considerar el gasto que la propia Unión Europea ha hecho, entre 2008 y
+2013 el fondo europeo de retorno fue dotado con 676 millones de euros y según datos del
+Eurostat de 2018, al igual que Estados Unidos, pese al gasto excesivo que significan estos
+programas para el Estado, nunca se han expulsado a más del 4% de inmigrantes. Es por esto que
+resulta necesario evidenciar que expulsar, además de ser una medida que atenta contra los
+derechos básicos de una persona, es costosa, lleva mucho tiempo y en algunos casos puede llevar
+a conflictos con otros Estados.
+
+Urge entonces establecer en Chile una política migratoria acorde a las necesidades y realidades
+sociales actuales, teniendo siempre por delante datos objetivos que permitan tomar decisiones a
+nivel de Estado y no a los vaivenes de las políticas de gobiernos de turno, asegurando siempre un
+profundo respeto a los Derechos Humanos y promoviendo el desarrollo de una sociedad que
+garantice procesos reales de integración principalmente desde la garantía de derechos sociales.
