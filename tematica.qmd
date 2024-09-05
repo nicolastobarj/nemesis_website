@@ -1,0 +1,30 @@
+---
+title: "Temática anual"
+lang: es
+toc: true
+toc-depth: 3
+---
+
+El número recién publicado de Némesis se articula en torno a una problemática central referente a los futuros posibles antes las crisis del siglo XXI. Al respecto, sus cinco secciones (Dossier Teoría Crítica; Artículos/Ensayos; Entrevista; Coloquio; Reseñas bibliográficas) presentan problemáticas actuales en materia artística, racial, sexual, educacional, económica e ideológica aproximando alternativas de salida a estas. 
+
+Se sugiere como departamento de dirección de la revista mantener la orientación temática previa relativa a las crisis considerando ahora una nueva aproximación basada, a grandes rasgos, en el **debilitamiento de las ideas o el proyecto democrático-liberal clásico**, esto es, en su forma de integración vía promoción estatal de derechos sociales para los grupos subalternos con motivo de aminorar los efectos del capitalismo, y su paulatino reemplazo por las renovadas tendencias de carácter autoritario-mercantiles en Europa y América. De esta forma es posible articular un número complementado con sentido histórico, preocupación no abordada en el número anterior, a propósito de los paralelos con el comienzo de la **tradición crítica de Frankfurt (1924)** en que los estudios se enfocan en los efectos del liberalismo económico sobre la estabilidad política de los Estados y las consecuentes limitaciones del diálogo democrático debido a los caudillos que capturan los intereses ciudadano-populares. A su vez, la dimensión histórica también es apreciable en el **caso chileno**, aunque con matices, debido a que las tendencias ideológico-políticas de la segunda década del siglo XX apuntan más al cuestionamiento del orden liberal imperante y su reemplazo por alternativas asociativas e integradoras. 
+
+En contraposición al aparente debilitamiento de las ideas o el proyecto democrático-liberal, **pugnan intereses de reconocimiento de grupos marginados por el modelo clásico del siglo XX** (mujeres, diversidades sexo-genéricas, pueblos originarios, población adulto-mayor, etc) debido a que sus **principales beneficiarios remiten a la población en edad de trabajar, masculina y nacional** (Fraser, 2016). Estos grupos con varias décadas de ascenso ideológico y movimientista, apoyados en el **principio de ciudadanía**, estiman que todos los grupos deben poseer las mismas garantías o, incluso, debido a las **lógicas restitutivas**, aquellos infrarepresentados deben poseer mayores posibilidades de participación en las dinámicas colectivas. A este respecto, se distingue la apariencia de una fuerza social y política antagónica de las tendencias autoritario-conservadoras en occidente, -una nueva izquierda- aunque a diferencia de estas tendencias, con una **inclinación separatista y elitista** que le impide tanto elaborar posibilidades de transformación social general como acceder a un electorado amplio para constituirse en gobierno. 
+
+Los distintos departamentos institucionales de Revista Némesis consideran que es pertinente evaluar para el actual número 2024 como orientación temática anual la **crisis del proyecto democrático-liberal del siglo XX** figurando un panorama sociopolítico dividido en dos alternativas: esquemas a-sociales y remercantilizadores (reacción autoritario-conservadora) mientras se alteran las opciones contestatarias clásicas pero sin consolidar aún un concepto límite y una base de representación como lo hiciera el movimiento obrero-popular. 
+
+Junto a la aproximación teórico-ideológica anual entre las dos alternativas mencionadas, complementada históricamente para evaluar los paralelos con las experiencias sociopolíticas del siglo XX, se considera la **recepción de artículos y ensayos de investigación social que problematicen también a un nivel empírico** el debilitamiento del proyecto democrático clásico tanto en su vertiente conservadora como progresista. En este sentido, pueden, por ejemplo, referirse a **investigaciones acerca del cambio en las estructuras institucionales** (Estados) con relación a sus atribuciones educacionales, sanitarias, medioambientales, sexo-genéricas y de seguridad, entre otras, en el primer caso abandonante y gendarme, y en el segundo más inclusivo. De esta manera, Revista Némesis estima posible **incorporar a las discusiones conceptuales las experiencias vividas por las poblaciones** y que reflejan en la práctica coyuntural la **tensión de época no resuelta** entre las opciones políticas y sociales contemporáneas. 
+
+Referencias bibliográficas
+
+Fraser, N. (2016). El capital y los cuidados. *New left review.* 
+
+::: {style="text-align: right;"}
+Mauricio Encina
+
+Licenciado en Sociología
+
+Director
+
+Revista Némesis.
+:::
