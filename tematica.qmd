@@ -1,5 +1,5 @@
 ---
-title: "Temática anual"
+title: "Temática anual."
 lang: es
 toc: true
 toc-depth: 3
