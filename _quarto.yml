@@ -15,8 +15,8 @@ website:
           - organizacion.qmd
       - text: Equipo
         href: equipo.qmd
-      - text: Convocatoria NºXIX
-        href: convocatorias.qmd
+      - text: Convocatoria NºXX
+        href: tematica.qmd
       - text: "Recientes"
         href: recents.qmd
         

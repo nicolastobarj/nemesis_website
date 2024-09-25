@@ -2,7 +2,7 @@
 title: "Recepción de ponencias para Coloquio de Tesistas 2023"
 subtitle: "Con temática sobre el rol público de la ciencia y la universidad en la sociedad"
 categories: "Convocatoria"
-date: 22-08-2023
+date: 08-22-2023
 image: ../images/new_03.png
 lang: es
 about:
@@ -11,7 +11,7 @@ about:
 
 La Revista Némesis de Ciencias Sociales, en conjunto con la Red de Estudiantes de Sociología de Chile (REDES), abre el llamado para la recepción de ponencias en el marco del 1° Coloquio de Tesistas, el cual busca ser una instancia que se realice periódicamente y que actúe en apoyo de los trabajos de las, los y les tesistas. Para ello, se espera que les estudiantes realicen una presentación de entre 15-20 minutos aproximadamente, donde se den a conocer los principales hallazgos y reflexiones en torno a la investigación presentada. La temática de esta primera versión del coloquio de tesistas es:
 
- *“El rol público de la ciencia y la universidad en la sociedad”*
+*"El rol público de la ciencia y la universidad en la sociedad"*
 
 Para poder ser parte de este evento, se debe hacer entrega de un breve escrito de 2000-4000 palabras (sin considerar título, resumen, palabras claves y bibliografía) que contenga lo que se dirá en la presentación. En específico, el documento debe indicar lo siguiente:
 
@@ -21,7 +21,7 @@ Para poder ser parte de este evento, se debe hacer entrega de un breve escrito d
 
 -   5 palabras clave en castellano e inglés.
 
--   Antecedentes 
+-   Antecedentes
 
 -   Marco teórico
 
@@ -29,9 +29,9 @@ Para poder ser parte de este evento, se debe hacer entrega de un breve escrito d
 
 -   Primeros hallazgos (En caso de aplicar)
 
--   Reflexiones 
+-   Reflexiones
 
--   Referencias bibliográficas 
+-   Referencias bibliográficas
 
 El documento de la presentación debe considerar los siguientes aspectos formales:
 
@@ -57,6 +57,6 @@ El documento debe ser adjuntado [en el siguiente formulario (hacer click).](http
 
 La selección de las ponencias será realizada mediante el sistema de referato ciego. A los autores se les notificará, en su debido momento, los resultados de su postulación. Cabe destacar que la convocatoria está abierta para estudiantes de pregrado y posgrado de Ciencias Sociales.
 
-Las ponencias que sean aceptadas para esta actividad serán publicadas en el Número XX de la revista, sirviendo así como una plataforma para los trabajos de memoria del estudiantado y así poder dar a conocer estos al resto de la comunidad. El objetivo es fortalecer e incentivar el debate y la retroalimentación en torno a las investigaciones presentadas. Cabe mencionar que la versión publicada no será la enviada en una primera instancia, sino que, una vez hecha la presentación, se solicitará realizar una nueva entrega del escrito (bajo los mismos términos y aspectos formales que la anterior), en donde se incorporen los comentarios hechos por quienes asistieron y participaron del coloquio en cuestión. Esta segunda entrega deberá ser enviada a [nemesis@uchile.cl](mailto:nemesis@uchile.cl), con el siguiente asunto: “Entrega final coloquio tesistas 2023 – *nombre del autor”.
+Las ponencias que sean aceptadas para esta actividad serán publicadas en el Número XX de la revista, sirviendo así como una plataforma para los trabajos de memoria del estudiantado y así poder dar a conocer estos al resto de la comunidad. El objetivo es fortalecer e incentivar el debate y la retroalimentación en torno a las investigaciones presentadas. Cabe mencionar que la versión publicada no será la enviada en una primera instancia, sino que, una vez hecha la presentación, se solicitará realizar una nueva entrega del escrito (bajo los mismos términos y aspectos formales que la anterior), en donde se incorporen los comentarios hechos por quienes asistieron y participaron del coloquio en cuestión. Esta segunda entrega deberá ser enviada a [nemesis\@uchile.cl](mailto:nemesis@uchile.cl), con el siguiente asunto: "Entrega final coloquio tesistas 2023 -- \*nombre del autor".
 
-La fecha y locación de este tercer encuentro será el **viernes 22 de septiembre de 12:00 a 13:30 pm**, en el campus **Juan Gómez Millas de la Universidad de Chile**, en el **Auditorio Julieta Kirkwood** localizado en la **Facultad de Ciencias Sociales**. 
+La fecha y locación de este tercer encuentro será el **viernes 22 de septiembre de 12:00 a 13:30 pm**, en el campus **Juan Gómez Millas de la Universidad de Chile**, en el **Auditorio Julieta Kirkwood** localizado en la **Facultad de Ciencias Sociales**.

@@ -1,0 +1,17 @@
+---
+title: "¡Nuevo Número XIX de Némesis!"
+subtitle: "Futuros Posibles ante las Crisis del Siglo XXI"
+author: "Octavio Villarroel"
+categories: "Noticia"
+date: 03-25-2024
+image: ../images/new_05.png
+lang: es
+about:
+  template: marquee
+---
+
+Como equipo de Revista Némesis nos complace anunciar el lanzamiento virtual del N°XIX de nuestra revista. Fueron casi 3 años de ausencia, por lo que el lanzamiento de este número es un hito no menor. La contingencia de los últimos años llevó a que Revista Némesis viera puesta en pausa su trabajo y, en consecuencia, la elaboración de un nuevo número. Sin embargo, el año 2023 un grupo de estudiantes decidió revertir esta situación, reactivando el trabajo en la revista, y así, después de un arduo trabajo durante el año, dieron origen al N° XIX de esta.
+
+Este número de la revista lleva como consigna la temática de "Futuros posibles ante las crisis del Siglo XXI". Además, a diferencia de los últimos números que fueron emitidos, y en un acto de recuperar el sentido y propósito inicial de la revista, el N°XIX se encuentra compuesto no solo por artículos seleccionados mediante un riguroso proceso, sino también por las distintas actividades desarrolladas por Némesis durante el 2023. En concreto, este número cuenta con: una Sección Dossier de Teoría Crítica Actual; artículos escritos por estudiantes tanto de nuestra facultad como fuera de ella; un apartado sobre el coloquio realizado en noviembre de 2023 en conjunto a REDES; una entrevista realizada al profesor Sergio Grez en conmemoración a los 50 años del Golpe de Estado en Chile; y reseñas bibliográficas.
+
+Este hito no solo significa el regreso de un instrumento fundamental para el debate académico y la reflexión tanto dentro como fuera de nuestra facultad, sino también contribuye a la formación de sujetos críticos, motivados por el conocimiento, y ávidos por comunicar y defender sus ideas y puntos de vista. Por esto y todo lo anterior, les invitamos a leer el nuevo número de la revista que ya lo pueden encontrar en el siguiente link <https://revistanemesis.uchile.cl/>

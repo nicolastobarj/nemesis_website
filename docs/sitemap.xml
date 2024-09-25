@@ -2,110 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://revistanemesis.netlify.app/convocatorias.html</loc>
-    <lastmod>2023-09-30T19:27:37.876Z</lastmod>
+    <lastmod>2024-09-06T17:05:10.274Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/equipo.html</loc>
-    <lastmod>2023-09-30T19:27:38.339Z</lastmod>
+    <lastmod>2024-09-06T17:05:11.037Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/index.html</loc>
-    <lastmod>2023-09-30T19:27:39.533Z</lastmod>
+    <lastmod>2024-09-06T17:05:13.350Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/organizacion.html</loc>
-    <lastmod>2023-09-30T19:27:40.229Z</lastmod>
+    <lastmod>2024-09-06T17:05:14.265Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/coloquios.html</loc>
-    <lastmod>2023-09-30T19:27:40.776Z</lastmod>
+    <lastmod>2024-09-06T17:05:15.085Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/columnas/column_01.html</loc>
-    <lastmod>2023-09-30T19:27:41.425Z</lastmod>
+    <lastmod>2024-09-06T17:05:16.016Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.netlify.app/product/columnas/column_02.html</loc>
+    <lastmod>2024-09-06T17:05:16.929Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/columnas.html</loc>
-    <lastmod>2023-09-30T19:27:41.943Z</lastmod>
+    <lastmod>2024-09-06T17:05:17.884Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/comentarios/com_bib_01.html</loc>
-    <lastmod>2023-09-30T19:27:42.491Z</lastmod>
+    <lastmod>2024-09-06T17:05:18.563Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/comentarios/com_bib_02.html</loc>
-    <lastmod>2023-09-30T19:27:42.976Z</lastmod>
+    <lastmod>2024-09-06T17:05:19.269Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/comentarios/com_bib_03.html</loc>
-    <lastmod>2023-09-30T19:27:43.553Z</lastmod>
+    <lastmod>2024-09-06T17:05:19.983Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/comentarios/com_bib_04.html</loc>
-    <lastmod>2023-09-30T19:27:44.460Z</lastmod>
+    <lastmod>2024-09-06T17:05:21.015Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/comentarios/com_bib_05.html</loc>
-    <lastmod>2023-09-30T19:27:45.006Z</lastmod>
+    <lastmod>2024-09-06T17:05:21.547Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/comentarios/com_bib_06.html</loc>
-    <lastmod>2023-09-30T19:27:45.561Z</lastmod>
+    <lastmod>2024-09-06T17:05:22.127Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/comentarios/com_bib_07.html</loc>
-    <lastmod>2023-09-30T19:27:46.300Z</lastmod>
+    <lastmod>2024-09-06T17:05:22.775Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/comentarios/com_bib_08.html</loc>
-    <lastmod>2023-09-30T19:27:46.908Z</lastmod>
+    <lastmod>2024-09-06T17:05:23.560Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/comentarios/com_bib_09.html</loc>
-    <lastmod>2023-09-30T19:27:48.045Z</lastmod>
+    <lastmod>2024-09-06T17:05:24.794Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/comentarios/com_bib_10.html</loc>
-    <lastmod>2023-09-30T19:27:48.793Z</lastmod>
+    <lastmod>2024-09-06T17:05:25.586Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.netlify.app/product/comentarios/com_bib_11.html</loc>
+    <lastmod>2024-09-06T17:05:26.380Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/comentarios.html</loc>
-    <lastmod>2023-09-30T19:27:49.810Z</lastmod>
+    <lastmod>2024-09-06T17:05:27.821Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/entrevistas/entrevista_01.html</loc>
-    <lastmod>2023-09-30T19:27:51.895Z</lastmod>
+    <lastmod>2024-09-06T17:05:30.622Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/product/entrevistas.html</loc>
-    <lastmod>2023-09-30T19:27:52.340Z</lastmod>
+    <lastmod>2024-09-06T17:05:31.207Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/productos.html</loc>
-    <lastmod>2023-09-30T19:27:52.904Z</lastmod>
+    <lastmod>2024-09-06T17:05:31.902Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/proyecto.html</loc>
-    <lastmod>2023-09-30T19:27:53.563Z</lastmod>
+    <lastmod>2024-09-06T17:05:32.657Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/recents/new_01.html</loc>
-    <lastmod>2023-09-30T19:27:54.079Z</lastmod>
+    <lastmod>2024-09-06T17:05:33.423Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/recents/new_02.html</loc>
-    <lastmod>2023-09-30T19:27:54.624Z</lastmod>
+    <lastmod>2024-09-06T17:05:34.038Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/recents/new_03.html</loc>
-    <lastmod>2023-09-30T19:27:55.323Z</lastmod>
+    <lastmod>2024-09-06T17:05:34.726Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/recents/new_04.html</loc>
-    <lastmod>2023-09-30T19:27:55.968Z</lastmod>
+    <lastmod>2024-09-06T17:05:35.351Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.netlify.app/recents/new_05.html</loc>
+    <lastmod>2024-09-06T17:05:35.884Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/recents.html</loc>
-    <lastmod>2023-09-30T19:27:56.797Z</lastmod>
+    <lastmod>2024-09-06T17:05:36.982Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.netlify.app/tematica.html</loc>
+    <lastmod>2024-09-06T17:05:37.596Z</lastmod>
   </url>
 </urlset>

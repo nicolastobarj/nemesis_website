@@ -2,3 +2,6 @@
   netlify:
     - id: 601c0e3f-2a1b-465c-993b-ff6bde3f0a96
       url: 'https://revistanemesis.netlify.app'
+  quarto-pub:
+    - id: 4b90b96c-d3bc-46e6-a9b5-e72da8e3b1a5
+      url: 'https://nicolastobarj.quarto.pub/nemesis_website'

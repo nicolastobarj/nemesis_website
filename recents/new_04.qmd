@@ -2,7 +2,7 @@
 title: "Exitoso ciclo de sociocharlas organizado por Némesis y REDES"
 subtitle: "Se realizó un coloquio con alta convocatoria y discusiones estimulantes"
 categories: "Convocatoria"
-date: 29-09-2023
+date: 2023-09-05
 image: ../images/new_04.jpeg
 lang: es
 about:
