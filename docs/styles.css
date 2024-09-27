@@ -2,3 +2,9 @@
 body {
   background-color: #FCFBF4;
 }
+#quarto-sidebar-glass {
+  display: none;
+}
+#quarto-sidebar-glass {
+  pointer-events: none;  /* Desactiva la interacción de clic */
+}

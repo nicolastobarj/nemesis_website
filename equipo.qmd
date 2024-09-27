@@ -8,46 +8,60 @@ lang: es
 
 ## Directorio
 
-::: {layout="[40,60]" layout-valign="center"}
-![](images/nicolas_tobar.png)
+::: {layout-ncol="2" layout-valign="center"}
+![](images/mauri.png-01.png){width="500"}
 
-**Nicolás Tobar**. Sociólogo de la Universidad de Chile. Intereses en las teorías de la democracia y la aceleración social.
+![](images/charly.png-01.png){width="500"}
+
+**Mauricio Encina**. Licenciado en Sociología UChile. Temáticas ligadas a Filosofía Política, Sociología Histórica y Sociología de las Élites.
+
+**Cristóbal Albornoz.** Licenciado en Sociología UChile. Intereses en la teoría social, la Sociología Política. En el ámbito teórico, interesado en la Teoría Crítica, Teoría Marxista y Teoría de Sistemas.
 :::
 
 ## Comité Editorial
 
 ::: {layout-ncol="2" layout-halign="center"}
-![](images/cristobal_albornoz.png)
+![](images/paula.png-01.png)
 
-![](images/joaquin_capetillo.png)
+![](images/cape.png-01.png)
 
-**Cristóbal Albornoz**. Estudiante de cuarto año de sociología UChile.
+**Paula Calfil.** Estudiante de tercer año de sociologúa UChile. Intereses en Teoría Crítica, Teorías Feministas, Sociología Criminalística y Estudios Urbanos.
 
-**Joaquín Capetillo**. Estudiante de tercer año de sociología UChile.
+**Joaquín Capetillo**. Estudiante de cuarto año de sociología UChile. Intereses en Teoría Crítica, Teoría del Habitus y Postestructuralismo.
 
-![](images/mauricio_enc.png)
+![](images/iker.png-01.png)
 
-![](images/javi_womp.png)
+![](images/ovi.png-01.png)
 
-**Mauricio Encina**. Estudiante de cuarto año de sociología UChile. Interesado en las teorías de la justicia y en la sociología filosófica del derecho.
+**Iker Brauchi.** Estudiante de tercer año de sociología UChile. Intereses en Teoría Anarquista, Teoría Crítica y Sociología de las Comunidades.
 
-**Javiera Wömpner**. Estudiante del Magíster en Ciencias Sociales UChile.
+**Octavio Villaroel.** Licenciado en sociología UChile. Intereses en el vínculo de lo social con las tecnologías digitales y la meritocracia.
 :::
 
-::: {layout="[40,60]" layout-valign="center"}
-![](images/octavio_villarroel.png)
-
-**Octavio Villarroel**. Estudiante de cuarto año de sociología UChile.
-:::
-
-## Comunicaciones
+## Comunicaciones y Extensión
 
 ::: {layout-ncol="2"}
-![](images/cata_solar.png)
+![](images/javi.png-01.png)
 
-![](images/jeremmias.png)
+![](images/isma.png.png)
 
-**Catalina Solar**. Estudiante de cuarto año de sociología UChile
+**Javiera Ruiz.** Coordinadora del equipo de Comunicaciones y Extensión. Intereses en Teoría Crítica, Sociología Política, Teoría Latinoamericana y Sociología de la Educación.
 
-**Jeremmías Contreras**. Estudiante de cuarto año de Derecho UChile
+**Ismael Aguayo.** Estudiante de tercer año de sociología UChile. Intereses en Sociología Digital, Inteligencia Artificial y Ciencias Sociales Computacionales.
+
+![](images/cris.png-02.png)
+
+![](images/chuma.png-01.png)
+
+**Felipe Carvajal.** Estudiante de tercer año de sociología UChile. Intereses en Estudios Urbanos y Sociología Digital.
+
+**Domingo Monasterio.** Estudiante de tercer año de sociología UChile. Intereses en Teoría Social y Sociología Histórica.
+:::
+
+::: {layout-ncol="2"}
+![](images/cris.png-01.png)
+
+![](images/b.png)
+
+**Cristobal Unda.** Estudiante de tercer año de sociología UChile. Intereses en Sociología de la Cultura, Sociología Musical y Política Juvenil.
 :::

@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/product/coloquios.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/product/columnas/column_02.html",
@@ -22,10 +26,6 @@
       "/recents/new_02.html",
       "/recents/new_01.html"
     ]
-  },
-  {
-    "listing": "/product/coloquios.html",
-    "items": []
   },
   {
     "listing": "/product/columnas.html",

@@ -73,7 +73,7 @@ website:
       
 format:
   html:
-    theme: litera
+    theme: journal
     mainfont: arapey
     fontsize: 1.1rem
     fontcolor: "#330033"
