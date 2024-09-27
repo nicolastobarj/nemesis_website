@@ -62,14 +62,9 @@ website:
             - text: REDES
               href: https://www.instagram.com/redes.ch
               target: _blank
-            - text: OLES
-              href: https://olescl.netlify.app/
-              target: _blank
-
-              
-                
+          
   page-footer:
-    center: "El contenido de este sitio web fue desarrollado por Nicolás Tobar <br> Licencias reservadas por Némesis UChile"
+    center: "El contenido de este sitio web fue desarrollado por Ismael Aguayo <br> Licencias reservadas por Némesis UChile"
       
 format:
   html:

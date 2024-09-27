@@ -142,23 +142,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "¡Bienvenido/a al portal de la Revista de Estudiantes de Sociología UChile!",
+    "title": "",
     "section": "",
-    "text": "Futuros Posibles ante las Crisis del Siglo XXI\n\n\n\nNoticia\n\n\n\n\n25 mar 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSe realizó un coloquio con alta convocatoria y discusiones estimulantes\n\n\n\nConvocatoria\n\n\n\n\n5 sept 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCon temática sobre el rol público de la ciencia y la universidad en la sociedad\n\n\n\nConvocatoria\n\n\n\n\n22 ago 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEstrategias frente a la inseguridad en América Latina: Entre la gestión pública y privada de la violencia\n\n\n\nEvento\n\n\n\n\n17 ago 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA través de un formato reproducible, abierto y colaborativo\n\n\n\nNoticia\n\n\n\n\n16 ago 2023\n\n\n\n\n\n\n\n\nNo hay resultados"
+    "text": "title: “¡Bienvenido/a al portal de la Revista de Estudiantes de Sociología UChile!”\nlang: es\ntoc: true\nabout: template: marquee image: images/header.jpg\nlisting: - id: product contents: product type: default sort: - date desc - title fields: [categories, title, subtitle, image, date] categories: false max-items: 5 image-align: right image-height: 10.0rem image-placeholder: images/comentarios_dalle.png exclude: category: “no_visualize” - id: recents contents: recents type: grid sort: - date desc - title grid-columns: 3 grid-item-border: true fields: [title, subtitle, image, categories, date] categories: false max-items: 6 image-align: left image-height: 15.0rem image-placeholder: images/comentarios_dalle.png\npage-layout: full title-block-banner: false —"
   },
   {
     "objectID": "index.html#información-reciente",
     "href": "index.html#información-reciente",
-    "title": "¡Bienvenido/a al portal de la Revista de Estudiantes de Sociología UChile!",
-    "section": "",
-    "text": "Futuros Posibles ante las Crisis del Siglo XXI\n\n\n\nNoticia\n\n\n\n\n25 mar 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSe realizó un coloquio con alta convocatoria y discusiones estimulantes\n\n\n\nConvocatoria\n\n\n\n\n5 sept 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCon temática sobre el rol público de la ciencia y la universidad en la sociedad\n\n\n\nConvocatoria\n\n\n\n\n22 ago 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEstrategias frente a la inseguridad en América Latina: Entre la gestión pública y privada de la violencia\n\n\n\nEvento\n\n\n\n\n17 ago 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA través de un formato reproducible, abierto y colaborativo\n\n\n\nNoticia\n\n\n\n\n16 ago 2023\n\n\n\n\n\n\n\n\nNo hay resultados"
+    "title": "",
+    "section": "Información reciente",
+    "text": "Información reciente"
   },
   {
     "objectID": "index.html#últimas-producciones",
     "href": "index.html#últimas-producciones",
-    "title": "¡Bienvenido/a al portal de la Revista de Estudiantes de Sociología UChile!",
+    "title": "",
     "section": "Últimas producciones",
-    "text": "Últimas producciones\n\n\n\n\n  \n\n\n\n\nOasis\n\n\nArte, simplicidad y política\n\n\n\n\nColumnas de opinión\n\n\n \n\n\n\n\n6 sept 2024\n\n\n\n\n\n\n  \n\n\n\n\nTardomodernidad en crisis. Hacia horizontes sociales alternativos\n\n\nAndreas Reckwitz y Hartmut Rosa\n\n\n\n\nComentarios bibliográficos\n\n\n \n\n\n\n\n30 sept 2023\n\n\n\n\n\n\n  \n\n\n\n\nManifiesto Ecológico Político\n\n\nBruno Latour y Nikolaj Schultz\n\n\n\n\nComentarios bibliográficos\n\n\n \n\n\n\n\n26 sept 2023\n\n\n\n\n\n\n  \n\n\n\n\nReflexiones sociopolíticas a 50 años del golpe de Estado en Chile\n\n\nUna conversación con Sergio Grez\n\n\n\n\nEntrevista\n\n\n \n\n\n\n\n11 sept 2023\n\n\n\n\n\n\n  \n\n\n\n\nEl crepúsculo del deber: la ética indolora de los nuevos tiempos democráticos\n\n\nGilles Lipovetsky\n\n\n\n\nComentarios bibliográficos\n\n\n \n\n\n\n\n5 sept 2023\n\n\n\n\n\n\nNo hay resultados"
+    "text": "Últimas producciones"
   },
   {
     "objectID": "convocatorias.html",

@@ -4,30 +4,6 @@
     "items": []
   },
   {
-    "listing": "/index.html",
-    "items": [
-      "/product/columnas/column_02.html",
-      "/product/comentarios/com_bib_11.html",
-      "/product/comentarios/com_bib_10.html",
-      "/product/entrevistas/entrevista_01.html",
-      "/product/comentarios/com_bib_09.html",
-      "/product/comentarios/com_bib_08.html",
-      "/product/comentarios/com_bib_07.html",
-      "/product/comentarios/com_bib_06.html",
-      "/product/comentarios/com_bib_05.html",
-      "/product/comentarios/com_bib_04.html",
-      "/product/comentarios/com_bib_03.html",
-      "/product/comentarios/com_bib_02.html",
-      "/product/comentarios/com_bib_01.html",
-      "/product/columnas/column_01.html",
-      "/recents/new_05.html",
-      "/recents/new_04.html",
-      "/recents/new_03.html",
-      "/recents/new_02.html",
-      "/recents/new_01.html"
-    ]
-  },
-  {
     "listing": "/product/columnas.html",
     "items": [
       "/product/columnas/column_02.html",
