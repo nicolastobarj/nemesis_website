@@ -5,6 +5,13 @@ body {
 #quarto-sidebar-glass {
   display: none;
 }
+
 #quarto-sidebar-glass {
   pointer-events: none;  /* Desactiva la interacción de clic */
+}
+body {
+    /*font-family: 'Arial', sans-serif; /* Cambia la fuente a Arial */
+    text-align: justify;              /* Justifica todo el texto */
+    /*font-size: 16px;                  /* Tamaño de la fuente */
+    /*line-height: 1.6;                 /* Altura de línea para mejorar legibilidad */
 }

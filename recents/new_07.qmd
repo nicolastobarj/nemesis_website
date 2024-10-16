@@ -1,0 +1,56 @@
+---
+title: "Walter Benjamin y la cotidianidad de la modernidad"
+categories: "Columnas de opinión"
+author: Cristóbal Albornoz Vargas
+date: 10-15-2024
+image: ../../images/column_03.jpg
+lang: es
+about: 
+  template: marquee
+---
+
+Walter Benjamin (nacido en Berlín en 1892, y fallecido en trágicas circunstancias en Portbou en 1940) fue un filósofo y ensayista alemán de la primera mitad del siglo XX y considerado como integrante de la primera generación de la denominada Escuela de Frankfurt.
+
+Como suerte de introducción a su obra se podría mencionar que en su trabajo confluyen un interés *arqueológico* en diferentes aspectos, ya que busca sumergirse en diferentes ámbitos (la historia, la sociedad, la literatura, el arte o la infancia) buscando destrabar o extraer los elementos que no se observan a simple vista. Asimismo, por la gran cantidad de temáticas abordada en su obra se pueden realizar diferentes lecturas, desde una arista estética, política o teológica. Todas estas temáticas se despliegan a través de un método de trabajo y escritura a veces confuso y fragmentado, en algunos casos críptico pero con conceptos o frases cargados de sentido, a través del uso de alegorías poéticas para ilustrar su pensamiento. Si se pudiera sintetizar en pocas palabras gran parte de su pensamiento me limitaría a decir lo que Michael Löwy ha descrito como sus tres elementos centrales: *romanticismo alemán - marxismo - mesianismo judío.* Sin embargo, en este breve texto pretendo realizar una lectura diferente de su obra, como un autor que se adentra en aquellos elementos cotidianos de la vida moderna a partir de la vida urbana.
+
+Para quienes no conozcan a este autor entregaré unos breves fragmentos de su vida. Este pensador nació en una acomodada familia berlinesa, hijo de un matrimonio liderado por un banquero judío. La familia Benjamin al igual que otras estuvo marcada por los conflictos de la primera mitad del siglo XX, ya que todos los hijos del patriarca Emil Benjamin terminaron perseguidos o fallecidos antes de llegar a la vejez. Georg Benjamin, médico pediatra integrante del Partido Comunista Alemán falleció en el campo de concentración de Mauthausen, mientras que Dora Benjamin, socióloga, vivió escapando durante toda la segunda guerra mundial, falleciendo en Suiza en 1946. En el caso de Walter, escapará a Francia y posteriormente a España para tomar un barco a EEUU a partir de un visado gestionado por Horkheimer, esto último finalmente no ocurrió por lo que tomó la decisión de terminar con su vida en el puerto de Portbou en Cataluña.
+
+En cuanto a sus estudios, Benjamin comienza a estudiar filosofía en 1912, y continuará su formación en Múnich, para posteriormente doctorarse en la Universidad de Bern (Suiza) a través de su obra *El concepto de crítica de arte en el romanticismo alemán (1919).* Y es en este periodo de formación donde vagará por diversas corrientes teóricas y políticas hasta 1923, momento en que cambiará su pensamiento a partir de la lectura del libro *Historia y Conciencia de Clase (1923)* de Gyorg Lukács, después de leer una reseña escrita por su amigo Ernst Bloch. La influencia de este texto es tal que provoca que Benjamin se termine por declarar un pensador marxista.
+
+La influencia del pensamiento de Luckács será fundamental para la tesis que defenderé, ya que el propio Benjamin identificó que estas reflexiones eran cercanas a las ideas que estaba desarrollando, siendo principal el ensayo *La cosificación de la conciencia del proletariado.* Estas ideas influyeron tanto en Benjamin como en otro pensador menos conocido: Siegfried Kracauer. Ambos se concentraron en estudiar aquellos aspectos que son considerados banales o irrelevantes para hacer un análisis de la sociedad. En el caso de Kracauer esto se expresa, por ejemplo, en su ensayo *El ornamento de la masa (1927)* en que señala que la cultura de masas se puede entender como expresión de la modernidad capitalista, ya que elementos que pueden ser considerados superficiales, como son las formas de entretenimiento de inicios del siglo XX, expresan el funcionamiento del propio capitalismo. Por esta razón el autor señala que “el ornamento de masas es el reflejo estético de la racionalidad a la que aspira el sistema económico dominante”.
+
+Mientras que Benjamin observará la cotidianidad de la modernidad capitalista, principalmente en la figura del *flaneur.* Esta es una figura propiamente moderna surgida a partir de una serie de transformaciones que desencadenan en el surgimiento de la ciudad en ese periodo.  
+
+La transformación principal son los *pasajes*, entendidos como una suerte de galerías techadas en que se desarrolla el comercio en la urbe. Para Benjamin, una de las razones históricas que llevaron a su creación fue el desarrollo de la industria textil que necesitó de la creación de grandes almacenes, que inicialmente fueron los *magasins de nouveatés*. Los pasajes, surgidos a partir de 1822  funcionan como el nuevo invento de la industria del lujo industrializado, y aparecen en un contexto de renovación en la arquitectura, caracterizada por el uso del hierro y el vidrio en la construcción, como también innovaciones técnicas como el uso de farolas a gas. Estos elementos permiten una emancipación de la arquitectura sobre el arte.
+
+Para explicar a este tipo de espacios, Walter Benjamin toma una cita de una guía ilustrada de París de 1852 que describe estos espacios como:
+
+::: {style="margin-left: 46px;"}
+Esos pasajes, una nueva invención del lujo industrial, son pasos techados de vidrio y enlosados de mármol a través de bloques de casas cuyos propietarios se han puesto de acuerdo para semejantes especulaciones. A ambos lados de esos pasos, que reciben su luz de arriba, discurren las tiendas más elegantes, de tal modo que un pasaje es una ciudad, o incluso un mundo en miniatura
+:::
+
+En este contexto surge la figura del *flaneur,* como un concepto operacionalizado a partir de la obra del poeta Charles Baudelaire, y descrito como un personaje urbano que a diferencia del burgués que se refugia en el interior del hogar, este personaje encuentra refugio en la multitud y se adentra en las calles y caminos de la ciudad a través del *callejeo* como actividad, recorriendo los centros comerciales (pasajes) y en las calles caminando sin rumbo fijo. Así, en su actuar termina por caracterizar lo que el sociólogo Georg Simmel describe sobre los habitantes de las grandes ciudades: se distinguen por desarrollar más el ojo que el oído.
+
+Para clarificar más quién es este personaje, Benjamin lo describe como:
+
+::: {style="margin-left: 46px;"}
+El bulevar es la vivienda del “flaneur” que está como en su casa entre fachadas, al igual que burgués en sus cuatro paredes. Las placas deslumbrantes y esmaltadas de los comercios son para él un adorno de pared tan bueno y mejor que para el burgués una pintura al óleo en el salón. Los muros son el pupitre en el que apoya su cuadernillo de notas. Sus bibliotecas son los kioscos de los periódicos, y las terrazas de los cafés balcones desde los que, hecho su trabajo, contempla su negocio
+:::
+
+A juicio de Bolivar Echeverria, Benjamin parece encontrar en este personaje una posición favorable para representar el enigma de la vida moderna, al ser un observador que vive un día a día marcado por la visita de estos espacios sin interactuar como comprador. Benjamin explica que el mundo moderno es el mundo de las mercancías, en que ellas se exponen en los *pasajes* y quienes se adentran en su espacio caen hechizados frente al *fetichismo de la mercancía.*  
+
+Puede resultar de interés el vínculo entre aquellos pasajes con la figura del *mall* en pleno siglo XXI. Este tipo de espacios son descritos de forma maravillosa por Tomás Moulian al señalar que:
+
+::: {style="margin-left: 46px;"}
+Dentro del mall los objetos se muestran, se exhiben, realizando la simulación de su disponibilidad para quien quiera tomarlos. Los objetos que ponen en escena en medio del cuidado diseño de las vitrinas, en un ambiente climatizado, con sanitarios en los lugares estratégicos.
+:::
+
+A pesar de las tenebrosas similitudes entre lo escrito por Benjamin escrito en la década de 1930 y por Moulian en 1998 surge la pregunta ¿Dónde se encuentra la figura del flaneur en la actualidad? Resulta difícil encontrar la respuesta, tal como señala Benjamin este personaje pertenecerá al ejército, a la pequeña burguesía y ocasionalmente al proletariado. Frente a esta afirmación resulta difícil encontrar una respuesta, a lo mejor uno de ustedes la podrá encontrar.
+
+::: {style="text-align: right;"}
+Cristóbal Albornoz Vargas.
+
+Director
+
+Revista Nemesis
+:::

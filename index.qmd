@@ -5,6 +5,8 @@ lang: es
 
 toc: true
 
+sidebar: true
+
 about: 
   template: marquee
   image: images/header.jpg

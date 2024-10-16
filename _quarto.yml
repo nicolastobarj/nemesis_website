@@ -40,10 +40,12 @@ website:
     back-to-top-navigation: false
     
   sidebar:
-    - title: "Otros"
       search: false
       pinned: true
       style: "docked"
+      background: "light"
+      foreground: "dark"
+      border: true
       contents:
         - section: "Publicaciones"
           contents: 
@@ -62,7 +64,8 @@ website:
             - text: REDES
               href: https://www.instagram.com/redes.ch
               target: _blank
-          
+      
+
   page-footer:
     center: "El contenido de este sitio web fue desarrollado por Ismael Aguayo <br> Licencias reservadas por Némesis UChile"
       
