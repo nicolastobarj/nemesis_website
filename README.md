@@ -1,6 +1,6 @@
 # Guía para la gestión del sitio web de Némesis
 
-El presente repositorio contiene los archivos necesarios para modificar y actualizar la página web de la Revista Némesis. La estructura es la siguiente:
+El presente repositorio contiene los archivos necesarios para modificar y actualizar la [página web de la Revista Némesis](https://revistanemesis.netlify.app/). La estructura es la siguiente:
 
 En la capa inicial se encuentran los documentos asociados al inicio de la página, es decir, las plantillas .qmd de cada sección dispuesta en la barra de navegación superior. Además, se encuentra el yml que renderiza el archivo html que luego se publica en la página, el archivo css que le da forma a la página y carpetas de trabajo. Cabe mencionar que el archivo _publish.yml está hecho para subir la página a la app netlify, donde se encuentra alojado el link del sitio web.
 
@@ -17,19 +17,4 @@ Asimismo, en la capa inicial se alojan archivos de soporte de la página como `4
 
 ### Códigos de .qmd
 
-Los archivos *.qmd* que están en las carpetas `product` y `recents` están codificados de tal manera de favorecer el orden y la posibilidad de encontrar estos archivos. A continuación se presenta el diccionario de cada una de esas plantillas.
-
-##### recents
-
--   `new_02`: Némesis te invita al nuevo seminario internacional de OLES
--   `new_01`: ¡Némesis inaugura su nueva página web!
-
-##### comentarios
-
--   `com_bib_01`: La era de la Farsa de Rodrigo Baño.
--   `com_bib_02`: Desobeder de Federic Gros.
--   `com_bib_03`: Chavs. La demonización de la clase obrera de Jon Owen.
--   `com_bib_04`: El misterio de los kibbutz de Ran Abramitzky.
--   `com_bib_05`: La ideología de la competencia de Marinela Chaui.
--   `com_bib_06`: Contra el fasciscmo de Humberto Eco.
--   `com_bib_07`: De la "regeneración del pueblo" a la huelga general de Sergio Grez.
+Los archivos *.qmd* que están en las carpetas `product` y `recents` están codificados de tal manera de favorecer el orden y la posibilidad de encontrar estos archivos. 
