@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: 54b7e940-c276-4f82-91e8-00f853717dfa
-      url: 'https://revistanemesis.netlify.app'
+      url: https://revistanemesis.netlify.app
