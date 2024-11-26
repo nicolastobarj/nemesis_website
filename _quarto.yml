@@ -15,10 +15,10 @@ website:
           - organizacion.qmd
       - text: Equipo
         href: equipo.qmd
-      - text: Convocatoria NºXX
-        href: tematica.qmd
       - text: "Recientes"
         href: recents.qmd
+      - text: Convocatoria XXI
+        href: convocatoria.qmd
         
     right:
       - icon: instagram
@@ -55,7 +55,7 @@ website:
             - product/comentarios.qmd
             - product/entrevistas.qmd
             - product/columnas.qmd
-            - product/coloquios.qmd
+            - tematica.qmd
         - section: "Alianzas"
           contents:
             - text: Teoría Social Hoy
