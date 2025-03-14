@@ -21,11 +21,11 @@ Revista Némesis de Ciencias Sociales abre el llamado para la recepción de art�
 
 **Teoría Social:** Teorización de las sociedades contemporáneas. Esto puede ser, por un lado, buscando articular un relato o arquitectura teórica que interpreta estas en su conjunto, incluyendo sus esferas políticas, sociales, culturales y económicas.
 
-El plazo de recepción de los manuscritos será hasta el 15 de diciembre. El Comité editorial de la revista se compromete a informar, durante los primeros 10 días hábiles de recepción del artículo, si es que el texto será revisado para su publicación en el número XX, o en los próximos números de la revista.
+El plazo de recepción de los manuscritos será hasta el 20 de enero. El Comité editorial de la revista se compromete a informar, durante los primeros 10 días hábiles de recepción del artículo, si es que el texto será revisado para su publicación en el número XX, o en los próximos números de la revista.
 
 **Comunicación del fallo editorial a los autores:** En caso de ser declarados publicables en el número XX de Revista Némesis, el plazo consta de entre 15 y 30 días hábiles desde el momento de recepción del manuscrito. 
 
-Fecha de publicación del número: Última semana de marzo de 2025
+Fecha de publicación del número: abril de 2025.
 
 # **Normas Editoriales**
 
@@ -185,9 +185,9 @@ El estilo formal del texto final, una vez aceptado, queda subordinado a la diagr
 
 ## **Comentarios bibliográficos**
 
-Los comentarios bibliográficos tiene un formato menos pauteado que los artículos y ensayos. Para postular, debe enviar dos documentos a nemesis\@uchile.cl. Primero, una carta declarando la conformidad con la originalidad y exclusividad del comentario y la cesión de los derechos para que Revista Némesis publique el comentario en caso de ser aceptado. Segundo, un archivo del manuscrito con los siguientes datos: título del texto reseñado, en español e inglés; nombre, correo electrónico, afiliación institucional y teléfono de contacto del(los) autor(es) del ensayo. El manuscrito debe ser entregado en formato doc o docx.
+Los comentarios bibliográficos tienen un formato menos pauteado que los artículos y ensayos. Para hacer envío de este debe ser vía el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSdg4NTkgWBJO0Ah9Q3VMkudxJxrMIab5dEH-MCXGSH8m9lZCg/viewform?usp=sf_link), teniendo que completar los distintos apartados y adjuntar el manuscrito en el formato indicado.
 
-En términos de extensión, pueden variar entre las **1000 y 3000 palabras**. Se priorizarán textos actuales, o sea, con menos de 10 años de longevidad.
+En términos de extensión, pueden variar entre las **1000 y 3000 palabras**. Se priorizarán textos actuales, o sea, con **menos de 10 años de longevidad**.
 
 # **Procesos de selección**
 
@@ -209,13 +209,11 @@ El comité editorial se reserva el derecho de hacer correcciones de estilo, orto
 
 Todos los comentarios bibliográficos recibidos son publicados en las redes sociales y la página web de la revista si cumplen con la línea editorial de la misma. Sin embargo, un mes antes de la publicación del próximo número, el comité editorial se reúne para deliberar los mejores 2 o 3 comentarios, que luego son publicados en el número de la revista.
 
-El comité editorial se contactará con el autor del comentario para enviarle una versión revisada del manuscrito, esperando que sea aprobada por el autor para ser publicado.
+El comité editorial se contactará con el autor del comentario seleccionado para enviarle una versión revisada del manuscrito, esperando que sea aprobada por el autor para ser publicado. Durante este proceso, el autor deberá enviar dos documentos a nemesis\@uchile.cl. Primero, una carta declarando la conformidad con la originalidad y exclusividad del comentario y la cesión de los derechos para que Revista Némesis publique el comentario en caso de ser aceptado. Segundo, un archivo del manuscrito con los siguientes datos: título del texto reseñado, en español e inglés; nombre, correo electrónico, afiliación institucional y teléfono de contacto del autor. El manuscrito debe ser entregado en formato doc o docx.
 
 # **Sobre el uso del lenguaje inclusivo**
 
-El uso de lenguaje inclusivo es decisión del autor, es decir, no es de uso obligado ni prohibido para los manuscritos que se publiquen en la Revista Némesis. La Revista Némesis sólo publicará manuscritos en su web (columnas de opinión y notas de investigación) que, en caso de usar lenguaje inclusivo, utilicen una barra diagonal ("/"; los/as estudiantes, por ejemplo), que expliciten ambos sexos (los y las estudiantes, por ejemplo) o que usen términos neutros (en vez de los y las estudiantes "el estudiantado", por ejemplo). En su publicación principal (ensayos, artículos, reseñas y entrevistas), Némesis sólo permitirá el uso de estos dos últimos. La Revista Némesis, en todas sus publicaciones, se reserva el derecho de publicar manuscritos que reemplacen la "o" por la "e" (los estudiantes por "les" estudiantes, por ejemplo), que reemplacen la "o" por la "x" (los estudiantes por "lxs" estudiantes, por ejemplo), que reemplacen la "o" por un "\@" (los estudiantes por "l\@s estudiantes") y que reemplacen la "o" por un guión (los estudiantes por "l-s estudiantes, por ejemplo).
-
-Los autores que deseen usar lenguaje inclusivo deben abogar por el cuidado de este, evitando su abuso y prefiriendo el uso de términos neutros que incluyan a hombres, mujeres y otras identidades.
+El uso de lenguaje inclusivo es decisión del autor, es decir, no es de uso obligado ni prohibido para los manuscritos que se publiquen en la Revista Némesis. Se sugiere el uso de la "e" (les estudiantes, por ejemplo), barra diagonal ("/"; los/as estudiantes, por ejemplo), que expliciten ambos sexos (los y las estudiantes, por ejemplo) o que usen términos neutros (en vez de los y las estudiantes, “el estudiantado”, por ejemplo). Dentro de lo posible, se espera que el uso del lenguaje inclusivo sea homogéneo.
 
 # **Anexos**
 
