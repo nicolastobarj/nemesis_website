@@ -15,8 +15,6 @@ website:
           - organizacion.qmd
       - text: Equipo
         href: equipo.qmd
-      - text: "Recientes"
-        href: recents.qmd
       - text: Convocatoria XXI
         href: convocatoria.qmd
         

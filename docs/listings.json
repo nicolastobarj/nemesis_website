@@ -24,6 +24,8 @@
   {
     "listing": "/product/columnas.html",
     "items": [
+      "/product/columnas/column_09.html",
+      "/product/columnas/column_08.html",
       "/product/columnas/column_07.html",
       "/product/columnas/column_06.html",
       "/product/columnas/column_05.html",
@@ -40,6 +42,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/product/columnas/column_09.html",
+      "/product/columnas/column_08.html",
       "/product/columnas/column_07.html",
       "/product/columnas/column_06.html",
       "/product/columnas/column_05.html",
@@ -58,36 +62,11 @@
       "/product/comentarios/com_bib_03.html",
       "/product/comentarios/com_bib_02.html",
       "/product/comentarios/com_bib_01.html",
-      "/product/columnas/column_01.html",
-      "/recents/new_11.html",
-      "/recents/convocatoria.html",
-      "/recents/new_10.html",
-      "/recents/new_09.html",
-      "/recents/new_08.html",
-      "/recents/new_07.html",
-      "/recents/new_06.html",
-      "/recents/new_05.html",
-      "/recents/new_04.html",
-      "/recents/new_03.html",
-      "/recents/new_02.html",
-      "/recents/new_01.html"
+      "/product/columnas/column_01.html"
     ]
   },
   {
     "listing": "/recents.html",
-    "items": [
-      "/recents/new_11.html",
-      "/recents/convocatoria.html",
-      "/recents/new_10.html",
-      "/recents/new_09.html",
-      "/recents/new_08.html",
-      "/recents/new_07.html",
-      "/recents/new_06.html",
-      "/recents/new_05.html",
-      "/recents/new_04.html",
-      "/recents/new_03.html",
-      "/recents/new_02.html",
-      "/recents/new_01.html"
-    ]
+    "items": []
   }
 ]

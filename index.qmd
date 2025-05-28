@@ -26,29 +26,10 @@ listing:
     image-placeholder: images/comentarios_dalle.png
     exclude:
       category: "no_visualize"
-  - id: recents
-    contents: recents
-    type: grid
-    sort: 
-      - date desc
-      - title
-    grid-columns: 3
-    grid-item-border: true
-    fields: [title, subtitle, image, categories, date]
-    categories: false
-    max-items: 6
-    image-align: left
-    image-height: 15.0rem
-    image-placeholder: images/comentarios_dalle.png
-
+  
 page-layout: full
 title-block-banner: true
 ---
-
-## Información reciente
-
-::: {#recents}
-:::
 
 ## Últimas producciones
 
