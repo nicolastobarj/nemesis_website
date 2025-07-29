@@ -1,0 +1,39 @@
+---
+title: "El mito del esfuerzo: cómo en Chile justificamos la desigualdad"
+categories: "Columnas de opinión"
+author: Nain López Valdés
+date: 07-01-2025
+image: ../../images/columna_12.png
+lang: es
+about: 
+  template: marquee
+---
+
+En Chile, la idea de que el éxito depende solo del esfuerzo individual está muy arraigada. Se asume que las clases sociales existen de manera “natural”, como si el sistema realmente ofreciera las mismas oportunidades para todos. Es una mirada funcionalista, al estilo de Davis y Moore (1972), combinada con una visión hayekiana donde el mercado se ve como el mejor mecanismo para distribuir recursos. Sin embargo, esta lógica no solo es cuestionable, sino que ha servido para justificar desigualdades en áreas clave como la educación y las pensiones.
+El sistema de admisión escolar es un ejemplo claro. En teoría, permite que todas las familias elijan el colegio de sus hijos, lo que debería generar más equidad. Pero investigaciones como las de Valenzuela, Bellei y de los Ríos (2014) han demostrado que este sistema termina reproduciendo la segregación. Como explica Seymour (2021), la idea de “elección” en un contexto desigual solo refuerza los privilegios. No todas las familias tienen la misma información ni los mismos recursos para postular estratégicamente o cambiarse a un mejor colegio. Al final, los establecimientos más demandados siguen recibiendo a estudiantes de sectores acomodados, mientras que quienes vienen de contextos más vulnerables quedan con menos opciones. No es la elección lo que define las oportunidades, sino las condiciones sociales y económicas.
+
+Lo mismo pasa con las pensiones. La capitalización individual se defiende bajo la misma lógica del esfuerzo personal: si alguien ahorra lo suficiente, tendrá una buena jubilación. Pero estudios como los de Arenas de Mesa (2019) han demostrado que este sistema ha profundizado la desigualdad, porque la capacidad de ahorro depende directamente de los ingresos y la estabilidad laboral. Aunque las bajas pensiones afectan a la mayoría, sigue instalada la idea de que el problema es individual y no del sistema. Cualquier intento de reforma se rechaza con el argumento de que la capitalización es un derecho, sin asumir que este modelo ha fallado en garantizar pensiones dignas.
+
+Ahora, ¿cómo se construye esta forma de pensar? No es solo que la gente decida creer en el mito del mérito: es una ideología que se refuerza en distintos espacios. Desde la escuela, se inculca la idea de que con esfuerzo cualquier estudiante puede salir adelante, invisibilizando las barreras estructurales. Los medios de comunicación refuerzan la narrativa de los “casos de éxito”, mostrando ejemplos de personas que “salieron de la pobreza” gracias a su trabajo duro, pero sin mencionar cómo la mayoría queda atrapada en condiciones de precariedad. Incluso en la familia, muchas veces se repite la idea de que “si uno quiere, puede”, sin cuestionar que hay factores como el acceso a redes de apoyo, la herencia económica y la educación que influyen mucho más en las oportunidades de vida.
+
+El problema de fondo no es solo económico, sino también ideológico. En Chile, el discurso del mérito y la competencia impide que las personas desarrollen conciencia de clase. Lukács (2024) plantea que la conciencia de clase no surge automáticamente, sino que requiere un proceso de reflexión sobre las condiciones en las que se vive. Sin embargo, el sistema está diseñado para bloquear esa reflexión. Solo en momentos de crisis –como el estallido social– esta conciencia de clase logra activarse, pero de forma pasajera. Una vez que la crisis se disipa, la estructura social y económica vuelve a imponer su lógica, diluyendo el impulso transformador.Como señala Ananya Roy (2017), el malestar por la desigualdad no siempre se traduce en cambios estructurales, porque las soluciones siguen enmarcadas dentro del mismo modelo de mercado.
+
+El mérito y el esfuerzo individual han tomado un valor simbólico que refuerza la idea de que el sistema funciona. En lugar de cuestionar las condiciones estructurales que generan desigualdad, muchas personas buscan validarse a través del consumo y el emprendimiento. Así, es más común que un chico de población aspire a comprarse unas Jordan Retro 4 Black Cat para demostrar su esfuerzo, que a involucrarse en mejorar las condiciones de su familia o su comunidad. Mientras esta lógica siga predominando, la desigualdad se seguirá viendo como algo natural, como si todo dependiera solo del esfuerzo y no de las oportunidades reales que tiene cada persona.
+
+**Referencias**
+
+::: {style="margin-left: 0.5in;  text-indent: -0.5in;"}
+Arenas de Mesa, A. (2019). Los sistemas de pensiones en la encrucijada: desafíos para la sostenibilidad en América Latina. Comisión Económica para América Latina y el Caribe (CEPAL).
+
+Davis, K., Moore, W., Tulmin, M., & Wesolowski, W. (1972). El continuo debate sobre la desigualdad. En R. Bendix & S. M. Lipset (Eds.), Clase, status y poder (Vol. I). Editorial Foessa.
+
+Lukács, G. (2024). Historia y conciencia de clase: estudios de dialéctica marxista. Ediciones R y R.
+
+Roy, A. (2017). Encountering Poverty: Thinking and Acting in an Unequal World. University of California Press. University of California Press
+
+Seymour, M. (2021). Desigualdad, legitimación y conflicto: Dimensiones políticas y culturales de la desigualdad en América Latina. 
+
+Valenzuela, J. P., Bellei, C., & De los Ríos, D. (2014). Segregación escolar en Chile. Centro de Estudios MINEDUC.
+
+:::
+

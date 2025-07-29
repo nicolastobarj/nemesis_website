@@ -24,6 +24,9 @@
   {
     "listing": "/product/columnas.html",
     "items": [
+      "/product/columnas/column_13.html",
+      "/product/columnas/column_12.html",
+      "/product/columnas/column_11.html",
       "/product/columnas/column_10.html",
       "/product/columnas/column_09.html",
       "/product/columnas/column_08.html",
@@ -37,8 +40,15 @@
     ]
   },
   {
+    "listing": "/product/coloquios.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/product/columnas/column_13.html",
+      "/product/columnas/column_12.html",
+      "/product/columnas/column_11.html",
       "/product/columnas/column_10.html",
       "/product/columnas/column_09.html",
       "/product/columnas/column_08.html",
@@ -62,10 +72,6 @@
       "/product/comentarios/com_bib_01.html",
       "/product/columnas/column_01.html"
     ]
-  },
-  {
-    "listing": "/product/coloquios.html",
-    "items": []
   },
   {
     "listing": "/recents.html",

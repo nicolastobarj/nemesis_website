@@ -41,14 +41,6 @@ lang: es
 ## Comunicaciones y Extensión
 
 ::: {layout-ncol="2"}
-![](images/javi.png-01.png)
-
-![](images/isma.png.png)
-
-**Javiera Ruiz.** Coordinadora del equipo de Comunicaciones y Extensión. Intereses en Teoría Crítica, Sociología Política, Teoría Latinoamericana y Sociología de la Educación.
-
-**Ismael Aguayo.** Estudiante de tercer año de sociología UChile. Intereses en Sociología Digital, Inteligencia Artificial y Ciencias Sociales Computacionales.
-
 ![](images/felipe.png)
 
 ![](images/chuma.png-01.png)
@@ -59,9 +51,9 @@ lang: es
 :::
 
 ::: {layout-ncol="2"}
-![](images/cris.png-01.png)
+![](images/isma.png.png)
 
 ![](images/b.png)
 
-**Cristobal Unda.** Estudiante de tercer año de sociología UChile. Intereses en Sociología de la Cultura, Sociología Musical y Política Juvenil.
+**Ismael Aguayo.** Estudiante de cuarto año de sociología. Interesado en las Ciencias Sociales Computacionales y la relación entre tecnología y educación.
 :::
