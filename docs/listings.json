@@ -8,6 +8,7 @@
   {
     "listing": "/product/comentarios.html",
     "items": [
+      "/product/comentarios/com_bib_12.html",
       "/product/comentarios/com_bib_11.html",
       "/product/comentarios/com_bib_10.html",
       "/product/comentarios/com_bib_09.html",
@@ -22,30 +23,9 @@
     ]
   },
   {
-    "listing": "/product/columnas.html",
-    "items": [
-      "/product/columnas/column_13.html",
-      "/product/columnas/column_12.html",
-      "/product/columnas/column_11.html",
-      "/product/columnas/column_10.html",
-      "/product/columnas/column_09.html",
-      "/product/columnas/column_08.html",
-      "/product/columnas/column_07.html",
-      "/product/columnas/column_06.html",
-      "/product/columnas/column_05.html",
-      "/product/columnas/column_04.html",
-      "/product/columnas/column_03.html",
-      "/product/columnas/column_02.html",
-      "/product/columnas/column_01.html"
-    ]
-  },
-  {
-    "listing": "/product/coloquios.html",
-    "items": []
-  },
-  {
     "listing": "/index.html",
     "items": [
+      "/product/comentarios/com_bib_12.html",
       "/product/columnas/column_13.html",
       "/product/columnas/column_12.html",
       "/product/columnas/column_11.html",
@@ -70,6 +50,28 @@
       "/product/comentarios/com_bib_03.html",
       "/product/comentarios/com_bib_02.html",
       "/product/comentarios/com_bib_01.html",
+      "/product/columnas/column_01.html"
+    ]
+  },
+  {
+    "listing": "/product/coloquios.html",
+    "items": []
+  },
+  {
+    "listing": "/product/columnas.html",
+    "items": [
+      "/product/columnas/column_13.html",
+      "/product/columnas/column_12.html",
+      "/product/columnas/column_11.html",
+      "/product/columnas/column_10.html",
+      "/product/columnas/column_09.html",
+      "/product/columnas/column_08.html",
+      "/product/columnas/column_07.html",
+      "/product/columnas/column_06.html",
+      "/product/columnas/column_05.html",
+      "/product/columnas/column_04.html",
+      "/product/columnas/column_03.html",
+      "/product/columnas/column_02.html",
       "/product/columnas/column_01.html"
     ]
   },
