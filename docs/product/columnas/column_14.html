@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Carlos Gabriel Chávez Reyes">
 
-<title>Noticias y actividades</title>
+<title>Sobre algunas formas de dominación</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +24,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/circle_logo_black.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-9d81ecda2a6976a8309627a9671386fb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-25522c275987f8922df5964c3ce27d31.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/circle_logo_black.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-9d81ecda2a6976a8309627a9671386fb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-25522c275987f8922df5964c3ce27d31.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,79 +68,21 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Buscar"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-subtitle','listing-reading-time','listing-image','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed quarto-light">
+<body class="nav-sidebar docked nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/circle_logo_black.png" alt="" class="navbar-logo light-content">
-    <img src="./images/circle_logo_black.png" alt="" class="navbar-logo dark-content">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/circle_logo_black.png" alt="" class="navbar-logo light-content">
+    <img src="../../images/circle_logo_black.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -156,21 +96,21 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-somos">    
         <li>
-    <a class="dropdown-item" href="./proyecto.html">
+    <a class="dropdown-item" href="../../proyecto.html">
  <span class="dropdown-text">Proyecto</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./organizacion.html">
+    <a class="dropdown-item" href="../../organizacion.html">
  <span class="dropdown-text">Organización de trabajo</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./equipo.html"> 
+    <a class="nav-link" href="../../equipo.html"> 
 <span class="menu-text">Equipo</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./convocatoria.html"> 
+    <a class="nav-link" href="../../convocatoria.html"> 
 <span class="menu-text">Convocatoria XXI</span></a>
   </li>  
 </ul>
@@ -206,18 +146,18 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Noticias y actividades</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Sobre algunas formas de dominación</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
-      <a href="./index.html" class="sidebar-logo-link">
+      <a href="../../index.html" class="sidebar-logo-link">
       </a>
       </div>
     <div class="sidebar-menu-container"> 
@@ -239,25 +179,25 @@ window.Quarto = {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./product/comentarios.html" class="sidebar-item-text sidebar-link">
+  <a href="../../product/comentarios.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Comentarios bibliográficos</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./product/entrevistas.html" class="sidebar-item-text sidebar-link">
+  <a href="../../product/entrevistas.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Entrevistas</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./product/columnas.html" class="sidebar-item-text sidebar-link">
+  <a href="../../product/columnas.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Columnas de opinión</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./tematica.html" class="sidebar-item-text sidebar-link">
+  <a href="../../tematica.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Temática anual.</span></a>
   </div>
 </li>
@@ -291,57 +231,66 @@ window.Quarto = {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(0)</span></div></div></div>
+    
 <!-- main -->
-<main class="content column-body" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Noticias y actividades</h1>
-</div>
-
-
-
-<div class="quarto-title-meta column-body">
-
-    
-  
-    
+<div class="quarto-about-marquee">
+  <div class="about-image-container">
+    <img src="../../images/column_14.png" class="about-image " style="width: 100%;">
   </div>
-  
-
-
-</header>
-
-
-<p>Esperamos mantener informados e informadas a nuestro público. Por eso, hemos creado esta sección, en la cual estaremos subiendo activamente <em>noticias (que van desde hitos organizacionales hasta logros de nuestros integrantes)</em>, <em>actividades (eventos que iremos levantando durante el año)</em> e <em>invitaciones</em> de interés para las y los estudiantes de la Facultad de Ciencias Sociales UChile.</p>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filtro">
+  <div class="about-contents">
+    <header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Sobre algunas formas de dominación</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Columnas de opinión</div>
+  </div>
+  </div>
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Autor/a</div>
+  <div class="quarto-title-meta-heading">Afiliación</div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Carlos Gabriel Chávez Reyes </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Universidad Veracruzana, México
+          </p>
+      </div>
+  </div>
+<div class="quarto-title-meta">
+    <div>
+    <div class="quarto-title-meta-heading">Fecha de publicación</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">9 de junio de 2027</p>
     </div>
+  </div>
+  </div>
+</header> <main class="content" id="quarto-document-content">
+<p>Foucault (2014) habla del poder como una red institucionalizada de organizaciones, como una escuela, una fábrica o una prisión, que controlan y aseguran el funcionamiento social en lugar de una racionalidad administrativa que planea y manipula a los individuos. Es un poder supraindividual en el que todos participan, aunque no de manera consciente. Sin embargo, sostiene que el poder sigue siendo la prohibición, la ley y la negación, esencialmente e antiguo imperativo :“no debes”. Además, Foucault cuestiona la idea de que el poder solo se perciba como una regla o una prohibición, creyendo que esto se debe a la influencia de Kant y a su idea de que la ley moral de la relación entre el “sí debes” y el ” no debes” sirve como una matriz de regulación de toda conducta humana.</p>
+<p>No obstante, explica que, durante la lucha entre los poderes feudales y el poder monárquico, el derecho siempre sirvió como herramienta del poder monárquico para enfrentar las instituciones, las costumbres, los reglamentos, las formas de ligación y pertenencias que caracterizaban la sociedad feudal. Sin embargo, el desarrollo de un pensamiento jurídico aseguró parcialmente el crecimiento del Estado en Europa. Por lo tanto, el poder del Estado, o el poder monárquico, estaba esencialmente representado en el derecho (Foucault, 2014).</p>
+<p>En aquel entonces, el poder tenía una naturaleza recaudatoria y predatoria. La monarquía había organizado el sistema de poder a partir del final de la Edad Media con inconvenientes importantes para el avance del capitalismo. Uno de ellos era el poder político que se ejercía en el cuerpo social, que era un poder muy discontinuo. Y el otro problema eran los sistemas excesivamente onerosos. Era costoso porque la función del poder era principalmente recaudar: el derecho a recaudar impuestos, incluso décimos para el clero sobre las cosechas respectivamente (Foucault, 2014).</p>
+<p>La importancia de este último aspecto radica en que, gracias a eso, surgió la necesidad de encontrar un mecanismo de poder que pudiera controlar tanto a las cosas como a las personas, y que se aplicara en el mismo sentido que el proceso económico. Esto resultó en una transformación tecnológica significativa en el poder occidental, similar a la que ocurrió con la tecnología industrial: originando una tecnología de disciplina que permite controlar el cuerpo social, es decir, a los individuos.</p>
+<p>Consecuentemente, Foucault (2014) decía que entonces es esencial analizar no solo la historia de las técnicas industriales, sino también la de las técnicas políticas. Algunas técnicas de individualización del poder se enfocan en la vigilancia de alguien, el control de su comportamiento o sus aptitudes, o la mejora de sus habilidades y la ubicación de alguien en el lugar adecuado. La educación es el espacio por excelencia donde esa tecnología disciplinar aparece latentemente. Se usan métodos disciplinarios donde las personas, los niños, son individualizados dentro de la multiplicidad, es decir, que, a pesar de la multiplicidad de estudiantes, se busca lograr una individualización del poder, como el control y la vigilancia para cada uno, por ejemplo, los exámenes y la regla de estar sentados en fila a la vista del profesor. Asimismo, constituyen una especie de anatomía política, porque son una tecnología individualizante de poder que se centra en los individuos a partir de sus propios cuerpos y comportamientos (Foucault, 2014).</p>
+<p>De otro modo, se ha pensado que el poder no se limita a las personas consideradas como sujetos/súbditos, sino que es la población misma a la que se le ejerce el poder. Sin embargo, ¿por qué esta característica es relevante? Tal vez porque se sabe que una comunidad tiene tasas de natalidad, mortalidad, enfermedades, posibilidades de muerte o desarrollo, y además, se percibe que la relación de poder con el sujeto, o mejor, con el individuo, no debe ser simplemente esa forma de sujeción que permite al poder recaudar bienes sobre el súbdito, riquezas y eventualmente su cuerpo y sus cualidades, sino que el poder se debe ejercer sobre los individuos en tanto constituyen una especie de entidad biológica, que debe ser tomada en consideración si se entiende a la población también como una máquina de producir todo, como riquezas, bienes, o hasta desigualdad. En ese momento, se creó lo que Foucault llamaría biopolítica (Foucault, 2014). Además, ese hallazgo de la población como entidad social, junto con el hallazgo de la persona y el cuerpo moldeable, es otro importante núcleo tecnológico que ha influido en la evolución de las políticas occidentales y de las sociedades contemporáneas.</p>
+<p>Ahora bien, por otro lado, la libertad a la que supuestamente competen nuestras acciones siempre estará determinada, también al menos inconscientemente por las emociones. El sujeto de la acción está principalmente implicado, desde el punto de vista emocional, en las situaciones donde se encuentra en la necesidad de valorar. Mientras que las representaciones elaboradas sobre una idea de justicia, por ejemplo, los actores la valoran dentro de un sistema coherente de relaciones y/o de hechos sociales específicos, en una especie de moral social no escrita consistente en desaprobaciones de esos mismos hechos sociales, vinculados a la situación definida propiamente por ellos.</p>
+<p>Axel Honneth (2011) rescata una cita de Michael Mann en la que dice que solo aquellos que tienen un verdadero poder social deben desarrollar valores sociales consistentes. Luego introduce dos argumentos sistemáticamente plausibles: en primer lugar, que las personas de las clases socialmente oprimidas no tienen ninguna obligación de legitimación social. En segundo lugar, las creencias normativas de los miembros de las clases socialmente oprimidas no están sometidas a la presión de la elaboración debido a su ambiente cultural.</p>
+<p>En otras palabras, los miembros de las clases socialmente dominantes normalmente están obligados a justificar el orden social que les privilegia, tanto ante sí mismos como ante los demás miembros de una sociedad. Es decir, las clases dominadas no tienen esta presión de justificar algo. Aunque su entorno social requiere un sistema cultural de interpretación que pueda explicar la desigualdad sufrida y hacer que las hegemónicas cargas impuestas sean soportables biográficamente, no están obligados interna ni externamente a fundamentar los hechos sociales que requieren justificación dentro de un sistema de valores que se basa en un principio fundamentalista (Honneth, 2011).</p>
+<p>Según Pierre Bourdieu (2019), las clases sociales que ejercen el poder político y económico también tienen un monopolio de la apropiación de la tradición cultural a través de formaciones altamente calificadas. Es responsabilidad de ellos descifrar una tradición moral que promueve y fomenta la integración de las propias normas de comportamiento dentro de un sistema de valores que se extiende más allá de las circunstancias (Honneth, 2011).</p>
+<p>Por otra parte, la moral social de las clases sociales más bajas presenta un conjunto de demandas de justicia que no están relacionadas entre sí. De esa manera, su “moralidad interior”, que se mantiene dentro de las pautas éticas de desaprobación, solo muestra de cierta manera la negativa de un orden moral institucionalizado. La moral social de las comunidades oprimidas no tiene representaciones independientes de la situación de un orden moral total ni proyecciones de una sociedad justa, sino que presenta una sensibilidad altamente susceptible a violar exigencias de moralidad supuestas de manera justificada. Para ello resulta importante destacar el concepto de “conciencia de injusticia”, porque las representaciones elaboradas de la justicia valoran los hechos sociales dentro de un sistema coherente de relaciones, mientras que la moral social no escrita consiste en desaprobar los hechos sociales relacionados con la situación (Honneth, 2011).</p>
+<p>Honneth (2011) utiliza estas demandas morales para mantener la conciencia de la injusticia. Por lo tanto, la conciencia social de la injusticia se percibe indirectamente a través de los criterios de reprobación moral de los acontecimientos y sucesos sociales, ya que ni sus premisas de valor ni sus ideas de justicia son evidentes. Con relación a la clase trabajadora, por poner un ejemplo, las formas en que expresan su preocupación por la injusticia varían según su organización política y el nivel de control social en la que se encuentran.</p>
+<p>Según Axel Honneth (2011), a saber, los miembros de las clases socioeconómicas más bajas tienen una mínima responsabilidad de integrar sus propios estándares morales en un sistema coherente y estructurado que permita el cuestionamiento, pues su participación no se considera dominante y, por tanto, no legítimo. En un campo social, por ejemplo, los agentes que buscan monopolizar el capital están en una posición de dominio, valorando los códigos culturales hasta el punto de que otros jugadores no estén familiarizados con esos códigos utilizados en el campo. Por tanto, la dinámica de dicha estructura estará siempre al control de la clase dominante y de sus reglas y nunca al revés (Bourdieu, 2019).</p>
+<p><strong>Referencias</strong></p>
+<div style="margin-left: 0.5in;  text-indent: -0.5in;">
+<p>Bourdieu, P. (2019). <em>Curso de sociología general.</em> Buenos Aires: Siglo XXI. Foucault, M. (2014). <em>Las redes del poder.</em> Buenos Aires: Prometeo. Honneth, A. (2011). <em>La sociedad del desprecio.</em> Madrid: Trotta.</p>
 </div>
-<div class="list quarto-listing-default">
 
+
+</main> 
+  </div>
 </div>
-<div class="listing-no-matching d-none">No hay resultados</div>
-</div></main> <!-- /main -->
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
