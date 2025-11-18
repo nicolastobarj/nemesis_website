@@ -9,51 +9,33 @@ lang: es
 ## Directorio
 
 ::: {layout-ncol="2" layout-valign="center"}
-![](images/mauri.png-01.png){width="500"}
+![](images/chuma.png-01.png){width="500"}
 
-![](images/charly.png-01.png){width="500"}
+![](images/isma.png.png){width="500"}
 
-**Mauricio Encina**. Licenciado en Sociología UChile. Temáticas ligadas a Filosofía Política, Sociología Histórica y Sociología de las Élites.
+**Domingo Monasterio.** Estudiante de cuarto año de sociología UChile. Interes en en Teoría de Sistemas, Filosofía Contemporánea y Posestructuralismo.
 
-**Cristóbal Albornoz.** Licenciado en Sociología UChile. Intereses en la teoría social, la Sociología Política. En el ámbito teórico, interesado en la Teoría Crítica, Teoría Marxista y Teoría de Sistemas.
+**Ismael Aguayo.** Estudiante de cuarto año de sociología UChile. Interes en las transformaciones digitales y su impacto sociopolítico, a través de métodos computacionales y estadísticos.
 :::
 
 ## Comité Editorial
 
 ::: {layout-ncol="2" layout-halign="center"}
-![](images/paula.png-01.png)
-
 ![](images/cape.png-01.png)
 
-**Paula Calfil.** Estudiante de tercer año de sociologúa UChile. Intereses en Teoría Crítica, Teorías Feministas, Sociología Criminalística y Estudios Urbanos.
+'
 
-**Joaquín Capetillo**. Estudiante de cuarto año de sociología UChile. Intereses en Teoría Crítica, Teoría del Habitus y Postestructuralismo.
-
-![](images/iker.png-01.png)
-
-![](images/ovi.png-01.png)
-
-**Iker Brauchi.** Estudiante de tercer año de sociología UChile. Intereses en Teoría Anarquista, Teoría Crítica y Sociología de las Comunidades.
-
-**Octavio Villaroel.** Licenciado en sociología UChile. Intereses en el vínculo de lo social con las tecnologías digitales y la meritocracia.
+**Joaquín Capetillo**. Estudiante de quinto año de sociología UChile. Intereses en Teoría Crítica, Teoría del Habitus y Postestructuralismo.
 :::
 
 ## Comunicaciones y Extensión
 
-::: {layout-ncol="2"}
+::: {layout-ncol="2" layout-halign="center"}
 ![](images/felipe.png)
 
-![](images/chuma.png-01.png)
+![](images/javi.png-01.png)
 
-**Felipe Carvajal.** Estudiante de tercer año de sociología UChile. Intereses en Estudios Urbanos y Sociología Digital.
+**Felipe Carvajal.** Estudiante de cuarto año de sociología UChile. Intereses en Estudios Urbanos y Sociología Digital.
 
-**Domingo Monasterio.** Estudiante de tercer año de sociología UChile. Intereses en Teoría Social y Sociología Histórica.
-:::
-
-::: {layout-ncol="2"}
-![](images/isma.png.png)
-
-![](images/b.png)
-
-**Ismael Aguayo.** Estudiante de cuarto año de sociología. Interesado en las Ciencias Sociales Computacionales y la relación entre tecnología y educación.
+**Javiera Ruiz Alvarado.** Estudiante de cuarto año de sociología UChile y miembro del Equipo Directivo del Núcleo Teoría Social Hoy. Intereses en Feminismo Postestructuralista, Sociología Latinoamericana, Filosofía Política y Filosofía del Afecto.
 :::

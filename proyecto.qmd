@@ -9,7 +9,7 @@ Némesis es una Revista de estudiantes de la Facultad de Ciencias Sociales de la
 
 La Revista Némesis nace en 1998 del esfuerzo de estudiantes de la Facultad de Ciencias Sociales de la Universidad de Chile. En el proceso de formación disciplinar, para aquellos estudiantes fueron visibles las miserias presentes en las ciencias sociales heredadas de la dictadura, y la necesidad y el deseo se conjugaron para repensar las condiciones de producción del pensamiento. Fue el pensamiento pensándose a sí y a sus condiciones.
 
-<img src="images/dalle_index_1.png" align="right" width="300"/></img>
+<img src="images/dalle_index_1.png" align="right" width="300" style="margin-left: 20px;"/>
 
 En la Revista Némesis comprendemos que, para interpelar, para polemizar, no basta con vociferar, sino que hay que ejercer una práctica crítica de las actuales formas de pensar lo social. Es una crítica que se realiza en la praxis. Así es como se nos describe a Némesis, la diosa griega de la venganza, quien, libre de los influjos del olimpo, actúa con justicia cuando esta no aparece. Némesis interviene sobre los asuntos humanos, recordándole a estos que son humanos y que sus desequilibrios son castigados. En este sentido, la preocupación por las problemáticas sociopolíticas contemporáneas de nuestras sociedades ha sido transversal en estas más de dos décadas de vida.
 

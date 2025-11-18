@@ -4,7 +4,7 @@ categories: "Columnas de opinión"
 author: 
   - name: Carlos Gabriel Chávez Reyes
     affiliation: Universidad Veracruzana, México
-date: 30-09-2025
+date: 09-30-2025
 image: ../../images/column_14.png
 lang: es
 about: 
@@ -42,7 +42,9 @@ Según Axel Honneth (2011), a saber, los miembros de las clases socioeconómicas
 ::: {style="margin-left: 0.5in;  text-indent: -0.5in;"}
 
 Bourdieu, P. (2019). *Curso de sociología general.* Buenos Aires: Siglo XXI. 
+
 Foucault, M. (2014). *Las redes del poder.* Buenos Aires: Prometeo. 
+
 Honneth, A. (2011). *La sociedad del desprecio.* Madrid: Trotta. 
 
 :::

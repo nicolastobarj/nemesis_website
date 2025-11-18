@@ -267,7 +267,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="qué-es-némesis">¿Qué es Némesis?</h2>
 <p>Némesis es una Revista de estudiantes de la Facultad de Ciencias Sociales de la Universidad de Chile. Esta se configura como espacio de discusión de problemáticas sociopolíticas contemporáneas, ligando la formación disciplinar con el ejercicio de reflexionar acerca de nuestra sociedad. En este sentido, si bien halla sus raíces en la Escuela de Sociología, extiende sus ramas hacía el amplio espectro del pensamiento social.</p>
 <p>La Revista Némesis nace en 1998 del esfuerzo de estudiantes de la Facultad de Ciencias Sociales de la Universidad de Chile. En el proceso de formación disciplinar, para aquellos estudiantes fueron visibles las miserias presentes en las ciencias sociales heredadas de la dictadura, y la necesidad y el deseo se conjugaron para repensar las condiciones de producción del pensamiento. Fue el pensamiento pensándose a sí y a sus condiciones.</p>
-<p><img src="images/dalle_index_1.png" align="right" width="300"></p>
+<p><img src="images/dalle_index_1.png" align="right" width="300" style="margin-left: 20px;"></p>
 <p>En la Revista Némesis comprendemos que, para interpelar, para polemizar, no basta con vociferar, sino que hay que ejercer una práctica crítica de las actuales formas de pensar lo social. Es una crítica que se realiza en la praxis. Así es como se nos describe a Némesis, la diosa griega de la venganza, quien, libre de los influjos del olimpo, actúa con justicia cuando esta no aparece. Némesis interviene sobre los asuntos humanos, recordándole a estos que son humanos y que sus desequilibrios son castigados. En este sentido, la preocupación por las problemáticas sociopolíticas contemporáneas de nuestras sociedades ha sido transversal en estas más de dos décadas de vida.</p>
 <p>Las miserias siguen presentes. La <em>justicia</em> y <em>libertad</em> son una necesidad. Némesis está presente.</p>
 <p>La <em>Revista Némesis</em> cuenta con una fuente estable de financiamiento, aportada por el Departamento de Sociología de la Facultad de Ciencias Sociales de la Universidad de Chile, lo cual permite dar continuidad a la publicación de los distintos números de la revista y a sus proyectos.</p>
@@ -384,7 +384,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/revistanemesis\.netlify\.app");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -718,7 +718,7 @@ ul.task-list li input[type="checkbox"] {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>El contenido de este sitio web fue desarrollado por Ismael Aguayo <br> Licencias reservadas por Némesis UChile</p>
+<p>Licencias reservadas por Némesis UChile</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
