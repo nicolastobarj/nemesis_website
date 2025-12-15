@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/product/columnas/column_15.html",
       "/product/columnas/column_14.html",
       "/product/comentarios/com_bib_12.html",
       "/product/columnas/column_13.html",
@@ -57,6 +58,7 @@
   {
     "listing": "/product/columnas.html",
     "items": [
+      "/product/columnas/column_15.html",
       "/product/columnas/column_14.html",
       "/product/columnas/column_13.html",
       "/product/columnas/column_12.html",
