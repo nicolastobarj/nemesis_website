@@ -8,11 +8,12 @@ about:
   template: marquee
 ---
 
-*Importante:*
+::: {.callout-important}
 
 1.  Los manuscritos que no cumplan las normas que se establecen a continuación (de formato, estructura y citación) serán devueltos a sus autores.
-
 2.  Los manuscritos enviados deben ser inéditos, esto es, no haber sido publicados en ningún otro medio de difusión con anterioridad y no estar en proceso de evaluación en otra revista.
+
+:::
 
 La Revista Némesis en sus convocatorias recibe tres tipos de aportes: artículos de investigación empírica, ensayos teóricos y comentarios bibliográficos.
 
