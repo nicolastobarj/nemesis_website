@@ -1,0 +1,121 @@
+---
+title: "Normas para autores"
+categories: "Convocatorias"
+author: Dirección y Equipo Editorial Némesis
+date: today
+lang: es
+about: 
+  template: marquee
+---
+
+*Importante:*
+
+1.  Los manuscritos que no cumplan las normas que se establecen a continuación (de formato, estructura y citación) serán devueltos a sus autores.
+
+2.  Los manuscritos enviados deben ser inéditos, esto es, no haber sido publicados en ningún otro medio de difusión con anterioridad y no estar en proceso de evaluación en otra revista.
+
+La Revista Némesis en sus convocatorias recibe tres tipos de aportes: artículos de investigación empírica, ensayos teóricos y comentarios bibliográficos.
+
+## Artículos de investigación empírica
+
+Se entiende  por **“artículos de investigación empírica”** todo manuscrito realizado a partir de una investigación que analice sistemáticamente datos primarios o secundarios, ya sea a través de técnicas cualitativas, cuantitativas, mixtas o revisión de literatura. Se espera que los artículos contengan tanto un análisis riguroso de los datos utilizados como que se sustenten en teoría atingente al área de las ciencias sociales. Los manuscritos de este tipo deben tener la siguiente estructura:
+
+-   **Título del manuscrito:** en español e inglés.
+
+-   **Resumen**: en español e inglés, con un máximo de 200 palabras, que describa el objetivo central del estudio, contenido, metodología y resultados o hallazgos más importantes.
+
+-   **Palabras clave**: cinco palabras clave representativas del estudio, en español e inglés.
+
+-   **Introducción**: se espera que presente el problema de investigación, la pregunta y la hipótesis o el argumento central del trabajo, según corresponda.
+
+-   **Marco conceptual y empírico**: esta sección puede estar unida a la introducción. Pueden utilizarse subtítulos para guiar los contenidos, los cuales deben abordar los antecedentes teóricos, empíricos y/o metodológicos asociados a la investigación.
+
+-   **Metodología**: se requiere la descripción y justificación de la(s) fuente(s) de datos, la(s) estrategia(s) de análisis y, según corresponda al estudio, el abordaje de las variables utilizadas, las técnicas aplicadas, las formas de muestreo y selección de participantes, así como las consideraciones éticas pertinentes.
+
+-   **Resultados**: en esta sección se espera que se describan los principales hallazgos del estudio, en relación con sus preguntas, objetivos o hipótesis.
+
+-   **Discusión**: se espera que se sometan a discusión los hallazgos a la luz de la literatura especializada sistematizada en los antecedentes, dando lugar a reflexiones sustantivas en torno a sus resultados.
+
+-   **Conclusiones**: se espera que resuman su artículo, discutan las limitaciones de su estudio, las futuras líneas de investigación y las preguntas que se desprenden a partir de su investigación.
+
+-   **Referencias**: se requiere que todas las fuentes utilizadas en la investigación queden en esta sección en formato [APA 7ma edición](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf).
+
+El manuscrito no debe contener ninguna forma de identificación de los autores, como nombres, afiliaciones, contactos o información en las propiedades del archivo (e.g.: “Guardado por \[autor\]”). En su totalidad (incluyendo tablas, referencias y apéndice) los artículos de investigación empírica deben tener como máximo **9,000 palabras**. 
+
+## Ensayos teóricos
+
+Se entiende  por **“ensayo teórico”** todo manuscrito que desarrolle una reflexión enmarcada en el campo de las ciencias sociales. Por ejemplo, la discusión o reflexión sobre una teoría de las ciencias sociales o disciplinas afines, la problematización de dos o más teorías desde un punto de vista novedoso, o el análisis de un fenómeno social a partir de una perspectiva teórica dada. Se espera que una tesis o argumento central claro organice la exposición de ideas. A diferencia de los artículos de investigación empírica, los ensayos teóricos tienen una estructura menos rígida. Sin embargo, los manuscritos de este tipo deben tener como mínimo los siguientes apartados:
+
+-   **Título del manuscrito:** en español e inglés.
+
+-   **Resumen:** en español e inglés, con un máximo de 200 palabras, que describa el objetivo central del estudio, contenido, metodología y resultados o hallazgos más importantes.
+
+-   **Palabras clave:** Cinco palabras clave representativas del estudio, en español e inglés.
+
+-   **Introducción:** se espera que se introduzca el tema a tratar, especificando los principales aspectos y dimensiones teóricas del problema, así como el contexto social o disciplinar pertinente, que permita presentar el argumento central, las preguntas, objetivos y/o la tesis que guían el ensayo.
+
+-   **Desarrollo:** se espera que se profundicen las principales tesis o argumentos señalados. Para esto se pueden usar subtítulos (y el título de esta sección puede ser alterado). 
+
+-   **Conclusiones:** por último, se espera una breve síntesis del desarrollo previo que permita retomar el argumento central (o la tesis/objetivo/preguntas) a la luz de los hallazgos, para aportar una reflexión pertinente al tema y plantear futuras líneas de investigación.
+
+-   **Referencias:** se requiere que todas las fuentes utilizadas en la investigación queden en esta sección en formato [APA 7ma edición](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf).
+
+El manuscrito no debe contener ninguna forma de identificación de los autores, como nombres, afiliaciones, contactos o información en las propiedades del archivo (e.g.: “Guardado por \[autor\]”). En su totalidad (incluyendo tablas, referencias y apéndice) los artículos de investigación empírica deben tener como máximo **6,000 palabras**. 
+
+## Comentarios bibliográficos
+
+La revista publica a lo largo del año **comentarios bibliográficos** en sus redes sociales y medios de difusión. En el número final, se seleccionan las mejores para su publicación. Estos tienen un formato menos pauteado que los artículos y ensayos. Para hacer envío de este debe ser vía el [siguiente formulario](https://forms.gle/eRP7gZWjpeF8vspYA), teniendo que completar los distintos apartados y adjuntar el manuscrito en el formato indicado. En términos de extensión, pueden variar entre las **1,000 y 3,000 palabras.** Se priorizarán comentarios relativos a textos actuales, con menos de 10 años de antigüedad.
+
+## Envío de Manuscritos
+
+Para que su postulación sea válida debe enviar tres documentos a [**nemesis\@uchile.cl**](mailto:nemesis@uchile.cl). Primero, un documento conteniendo el cuerpo del trabajo, en conformidad con las normas declaradas anteriormente. Segundo, una carta firmada en formato PDF donde se indique si el artículo se enmarca en un estudio más extenso o una investigación (véanse los anexos). En la misma debe declararse la conformidad con el punto 2 (originalidad y exclusividad) y la cesión de los derechos para que Revista Némesis publique el artículo en caso de ser aceptado. Tercero, un archivo con los siguientes datos: 
+
+-   Título del artículo en español e inglés. 
+
+-   Nombre del(los) autor(es).
+
+-   Correo electrónico del(los) autor(es).
+
+-   Afiliación institucional.
+
+-   Códigos ORCID del(los) autor(es).
+
+-   Financiamiento (si aplica).
+
+-   Opcional: Teléfono de contacto del(los) autor(es). 
+
+Los documentos deben ser enviados al correo [**nemesis\@uchile.cl**](mailto:nemesis@uchile.cl), indicado por asunto: **\[NXXI\] Apellido del autor - Título corto** (e.g**.: “**\[NXXI\] Harvey – Ciudades Rebeldes”). La persona que envía el manuscrito recibirá las correcciones. Si desean que las comunicaciones sean recibidas por todos los autores, pueden agregarlos a la cadena de correos para que sean considerados.
+
+Los artículos deben considerar los siguientes aspectos formales:
+
+-   Texto justificado.
+
+-   No debe utilizarse sangría de primera línea.
+
+-   Interlineado sencillo.
+
+-   Letra Times New Roman 12.
+
+-   Las tablas deben ser adjuntas en formato editable (no como imagen)  y conforme a las [normas APA 7ma edición](https://normas-apa.org/estructura/tablas/) (solo líneas horizontales de color negro en la primera y última fila).
+
+-   Las figuras deben ser numeradas y mencionadas en el texto (e.g.: “Como se ve en la Figura 1…”).
+
+## Proceso de publicación
+
+Los trabajos recibidos serán evaluados por el comité editorial y por evaluadores externos. Todo el proceso se realiza mediante el sistema de referato doble ciego, el cual consiste en la revisión paralela por parte de dos editores familiarizados con el artículo (uno perteneciente al comité editorial de Némesis y otro externo).
+
+Entre 15 y 30 días hábiles desde la recepción del manuscrito, los autores serán notificados con respecto a si su manuscrito fue considerado “no publicable”, “publicable con modificaciones” o “publicable sin modificaciones”.
+
+Para los trabajos catalogados como “publicable con modificaciones”, los autores tendrán un plazo de hasta 15 días hábiles para enviar el texto con las modificaciones sugeridas.
+
+El comité editorial aceptará o rechazará definitivamente los trabajos reenviados a más tardar el \[fecha límite de aceptación\].
+
+La Revista se reserva el derecho de rechazar un artículo en caso de controversia o cualquier situación no contemplada en estos términos de referencia, lo cual será resuelto de forma conjunta por la dirección y el equipo editorial de la revista, y constituirá una decisiónserá de naturaleza inapelable.
+
+## Sobre el uso de lenguaje inclusivo
+
+El uso de lenguaje inclusivo es decisión del autor, es decir que su utilización se encuentra permitida para los manuscritos que se publiquen en la Revista Némesis. Se permite el uso de la “e” (e.g.: “les estudiantes”), de barra diagonal (i.e.:“/”; e.g.: “los/as estudiantes"), que se expliciten ambos sexos (e.g.: “los y las estudiantes"), o que se usen términos neutros (e.g.: “el estudiantado”, en vez de “"los y las estudiantes”). Se espera que el uso del lenguaje inclusivo sea homogéneo y consistente a lo largo del manuscrito.
+
+## Anexo
+
+[Carta de exclusividad](docx_pdf/carta_exclusividad.pdf)

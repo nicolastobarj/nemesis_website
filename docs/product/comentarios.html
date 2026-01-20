@@ -174,6 +174,10 @@ window.Quarto = {
     <a class="nav-link" href="../convocatoria.html"> 
 <span class="menu-text">Convocatoria XXI</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../normas_autores.html"> 
+<span class="menu-text">Normas para Autores</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -723,7 +727,7 @@ Nicolás Tobar
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/revistanemesis\.netlify\.app");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

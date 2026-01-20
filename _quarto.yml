@@ -17,7 +17,8 @@ website:
         href: equipo.qmd
       - text: Convocatoria XXI
         href: convocatoria.qmd
-        
+      - text: Normas para Autores
+        href: normas_autores.qmd
     right:
       - icon: instagram
         href: https://www.instagram.com/revistanemesis

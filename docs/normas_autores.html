@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Dirección y Equipo Editorial Némesis">
 
-<title>Entrevistas</title>
+<title>Normas para autores</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +24,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../images/circle_logo_black.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-9d81ecda2a6976a8309627a9671386fb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-25522c275987f8922df5964c3ce27d31.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./images/circle_logo_black.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-9d81ecda2a6976a8309627a9671386fb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-25522c275987f8922df5964c3ce27d31.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,67 +68,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Buscar"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-date','listing-reading-time','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-sidebar docked nav-fixed quarto-light">
@@ -140,9 +80,9 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../images/circle_logo_black.png" alt="" class="navbar-logo light-content">
-    <img src="../images/circle_logo_black.png" alt="" class="navbar-logo dark-content">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/circle_logo_black.png" alt="" class="navbar-logo light-content">
+    <img src="./images/circle_logo_black.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -156,25 +96,25 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-somos">    
         <li>
-    <a class="dropdown-item" href="../proyecto.html">
+    <a class="dropdown-item" href="./proyecto.html">
  <span class="dropdown-text">Proyecto</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../organizacion.html">
+    <a class="dropdown-item" href="./organizacion.html">
  <span class="dropdown-text">Organización de trabajo</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../equipo.html"> 
+    <a class="nav-link" href="./equipo.html"> 
 <span class="menu-text">Equipo</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../convocatoria.html"> 
+    <a class="nav-link" href="./convocatoria.html"> 
 <span class="menu-text">Convocatoria XXI</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../normas_autores.html"> 
+    <a class="nav-link active" href="./normas_autores.html" aria-current="page"> 
 <span class="menu-text">Normas para Autores</span></a>
   </li>  
 </ul>
@@ -210,7 +150,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="https://revistanemesis.uchile.cl">Publicaciones</a></li><li class="breadcrumb-item"><a href="../product/entrevistas.html">Entrevistas</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Normas para autores</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -221,7 +161,7 @@ window.Quarto = {
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
-      <a href="../index.html" class="sidebar-logo-link">
+      <a href="./index.html" class="sidebar-logo-link">
       </a>
       </div>
     <div class="sidebar-menu-container"> 
@@ -243,25 +183,25 @@ window.Quarto = {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../product/comentarios.html" class="sidebar-item-text sidebar-link">
+  <a href="./product/comentarios.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Comentarios bibliográficos</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../product/entrevistas.html" class="sidebar-item-text sidebar-link active">
+  <a href="./product/entrevistas.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Entrevistas</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../product/columnas.html" class="sidebar-item-text sidebar-link">
+  <a href="./product/columnas.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Columnas de opinión</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../tematica.html" class="sidebar-item-text sidebar-link">
+  <a href="./tematica.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Temática anual.</span></a>
   </div>
 </li>
@@ -295,73 +235,136 @@ window.Quarto = {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">En esta página</h2>
+  <ul>
+  <li><a href="#artículos-de-investigación-empírica" id="toc-artículos-de-investigación-empírica" class="nav-link active" data-scroll-target="#artículos-de-investigación-empírica">Artículos de investigación empírica</a></li>
+  <li><a href="#ensayos-teóricos" id="toc-ensayos-teóricos" class="nav-link" data-scroll-target="#ensayos-teóricos">Ensayos teóricos</a></li>
+  <li><a href="#comentarios-bibliográficos" id="toc-comentarios-bibliográficos" class="nav-link" data-scroll-target="#comentarios-bibliográficos">Comentarios bibliográficos</a></li>
+  <li><a href="#envío-de-manuscritos" id="toc-envío-de-manuscritos" class="nav-link" data-scroll-target="#envío-de-manuscritos">Envío de Manuscritos</a></li>
+  <li><a href="#proceso-de-publicación" id="toc-proceso-de-publicación" class="nav-link" data-scroll-target="#proceso-de-publicación">Proceso de publicación</a></li>
+  <li><a href="#sobre-el-uso-de-lenguaje-inclusivo" id="toc-sobre-el-uso-de-lenguaje-inclusivo" class="nav-link" data-scroll-target="#sobre-el-uso-de-lenguaje-inclusivo">Sobre el uso de lenguaje inclusivo</a></li>
+  <li><a href="#anexo" id="toc-anexo" class="nav-link" data-scroll-target="#anexo">Anexo</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="https://revistanemesis.uchile.cl">Publicaciones</a></li><li class="breadcrumb-item"><a href="../product/entrevistas.html">Entrevistas</a></li></ol></nav>
-<div class="quarto-title">
-<h1 class="title">Entrevistas</h1>
-</div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
+<div class="quarto-about-marquee">
+  <div class="about-image-container">
   </div>
-  
+  <div class="about-contents">
+    <header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Normas para autores</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Convocatorias</div>
+  </div>
+  </div>
+<div class="quarto-title-meta">
+    <div>
+    <div class="quarto-title-meta-heading">Autor/a</div>
+    <div class="quarto-title-meta-contents">
+             <p>Dirección y Equipo Editorial Némesis </p>
+          </div>
+  </div>
+    <div>
+    <div class="quarto-title-meta-heading">Fecha de publicación</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">20 de enero de 2026</p>
+    </div>
+  </div>
+  </div>
+</header> <main class="content" id="quarto-document-content">
+
+<p><em>Importante:</em></p>
+<ol type="1">
+<li><p>Los manuscritos que no cumplan las normas que se establecen a continuación (de formato, estructura y citación) serán devueltos a sus autores.</p></li>
+<li><p>Los manuscritos enviados deben ser inéditos, esto es, no haber sido publicados en ningún otro medio de difusión con anterioridad y no estar en proceso de evaluación en otra revista.</p></li>
+</ol>
+<p>La Revista Némesis en sus convocatorias recibe tres tipos de aportes: artículos de investigación empírica, ensayos teóricos y comentarios bibliográficos.</p>
+<section id="artículos-de-investigación-empírica" class="level2">
+<h2 data-anchor-id="artículos-de-investigación-empírica">Artículos de investigación empírica</h2>
+<p>Se entiende&nbsp; por <strong>“artículos de investigación empírica”</strong> todo manuscrito realizado a partir de una investigación que analice sistemáticamente datos primarios o secundarios, ya sea a través de técnicas cualitativas, cuantitativas, mixtas o revisión de literatura. Se espera que los artículos contengan tanto un análisis riguroso de los datos utilizados como que se sustenten en teoría atingente al área de las ciencias sociales. Los manuscritos de este tipo deben tener la siguiente estructura:</p>
+<ul>
+<li><p><strong>Título del manuscrito:</strong> en español e inglés.</p></li>
+<li><p><strong>Resumen</strong>: en español e inglés, con un máximo de 200 palabras, que describa el objetivo central del estudio, contenido, metodología y resultados o hallazgos más importantes.</p></li>
+<li><p><strong>Palabras clave</strong>: cinco palabras clave representativas del estudio, en español e inglés.</p></li>
+<li><p><strong>Introducción</strong>: se espera que presente el problema de investigación, la pregunta y la hipótesis o el argumento central del trabajo, según corresponda.</p></li>
+<li><p><strong>Marco conceptual y empírico</strong>: esta sección puede estar unida a la introducción. Pueden utilizarse subtítulos para guiar los contenidos, los cuales deben abordar los antecedentes teóricos, empíricos y/o metodológicos asociados a la investigación.</p></li>
+<li><p><strong>Metodología</strong>: se requiere la descripción y justificación de la(s) fuente(s) de datos, la(s) estrategia(s) de análisis y, según corresponda al estudio, el abordaje de las variables utilizadas, las técnicas aplicadas, las formas de muestreo y selección de participantes, así como las consideraciones éticas pertinentes.</p></li>
+<li><p><strong>Resultados</strong>: en esta sección se espera que se describan los principales hallazgos del estudio, en relación con sus preguntas, objetivos o hipótesis.</p></li>
+<li><p><strong>Discusión</strong>: se espera que se sometan a discusión los hallazgos a la luz de la literatura especializada sistematizada en los antecedentes, dando lugar a reflexiones sustantivas en torno a sus resultados.</p></li>
+<li><p><strong>Conclusiones</strong>: se espera que resuman su artículo, discutan las limitaciones de su estudio, las futuras líneas de investigación y las preguntas que se desprenden a partir de su investigación.</p></li>
+<li><p><strong>Referencias</strong>: se requiere que todas las fuentes utilizadas en la investigación queden en esta sección en formato <a href="https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf">APA 7ma edición</a>.</p></li>
+</ul>
+<p>El manuscrito no debe contener ninguna forma de identificación de los autores, como nombres, afiliaciones, contactos o información en las propiedades del archivo (e.g.: “Guardado por [autor]”). En su totalidad (incluyendo tablas, referencias y apéndice) los artículos de investigación empírica deben tener como máximo <strong>9,000 palabras</strong>.&nbsp;</p>
+</section>
+<section id="ensayos-teóricos" class="level2">
+<h2 data-anchor-id="ensayos-teóricos">Ensayos teóricos</h2>
+<p>Se entiende&nbsp; por <strong>“ensayo teórico”</strong> todo manuscrito que desarrolle una reflexión enmarcada en el campo de las ciencias sociales. Por ejemplo, la discusión o reflexión sobre una teoría de las ciencias sociales o disciplinas afines, la problematización de dos o más teorías desde un punto de vista novedoso, o el análisis de un fenómeno social a partir de una perspectiva teórica dada. Se espera que una tesis o argumento central claro organice la exposición de ideas. A diferencia de los artículos de investigación empírica, los ensayos teóricos tienen una estructura menos rígida. Sin embargo, los manuscritos de este tipo deben tener como mínimo los siguientes apartados:</p>
+<ul>
+<li><p><strong>Título del manuscrito:</strong> en español e inglés.</p></li>
+<li><p><strong>Resumen:</strong> en español e inglés, con un máximo de 200 palabras, que describa el objetivo central del estudio, contenido, metodología y resultados o hallazgos más importantes.</p></li>
+<li><p><strong>Palabras clave:</strong> Cinco palabras clave representativas del estudio, en español e inglés.</p></li>
+<li><p><strong>Introducción:</strong> se espera que se introduzca el tema a tratar, especificando los principales aspectos y dimensiones teóricas del problema, así como el contexto social o disciplinar pertinente, que permita presentar el argumento central, las preguntas, objetivos y/o la tesis que guían el ensayo.</p></li>
+<li><p><strong>Desarrollo:</strong> se espera que se profundicen las principales tesis o argumentos señalados. Para esto se pueden usar subtítulos (y el título de esta sección puede ser alterado).&nbsp;</p></li>
+<li><p><strong>Conclusiones:</strong> por último, se espera una breve síntesis del desarrollo previo que permita retomar el argumento central (o la tesis/objetivo/preguntas) a la luz de los hallazgos, para aportar una reflexión pertinente al tema y plantear futuras líneas de investigación.</p></li>
+<li><p><strong>Referencias:</strong> se requiere que todas las fuentes utilizadas en la investigación queden en esta sección en formato <a href="https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf">APA 7ma edición</a>.</p></li>
+</ul>
+<p>El manuscrito no debe contener ninguna forma de identificación de los autores, como nombres, afiliaciones, contactos o información en las propiedades del archivo (e.g.: “Guardado por [autor]”). En su totalidad (incluyendo tablas, referencias y apéndice) los artículos de investigación empírica deben tener como máximo <strong>6,000 palabras</strong>.&nbsp;</p>
+</section>
+<section id="comentarios-bibliográficos" class="level2">
+<h2 data-anchor-id="comentarios-bibliográficos">Comentarios bibliográficos</h2>
+<p>La revista publica a lo largo del año <strong>comentarios bibliográficos</strong> en sus redes sociales y medios de difusión. En el número final, se seleccionan las mejores para su publicación. Estos tienen un formato menos pauteado que los artículos y ensayos. Para hacer envío de este debe ser vía el <a href="https://forms.gle/eRP7gZWjpeF8vspYA">siguiente formulario</a>, teniendo que completar los distintos apartados y adjuntar el manuscrito en el formato indicado. En términos de extensión, pueden variar entre las <strong>1,000 y 3,000 palabras.</strong> Se priorizarán comentarios relativos a textos actuales, con menos de 10 años de antigüedad.</p>
+</section>
+<section id="envío-de-manuscritos" class="level2">
+<h2 data-anchor-id="envío-de-manuscritos">Envío de Manuscritos</h2>
+<p>Para que su postulación sea válida debe enviar tres documentos a <a href="mailto:nemesis@uchile.cl"><strong>nemesis@uchile.cl</strong></a>. Primero, un documento conteniendo el cuerpo del trabajo, en conformidad con las normas declaradas anteriormente. Segundo, una carta firmada en formato PDF donde se indique si el artículo se enmarca en un estudio más extenso o una investigación (véanse los anexos). En la misma debe declararse la conformidad con el punto 2 (originalidad y exclusividad) y la cesión de los derechos para que Revista Némesis publique el artículo en caso de ser aceptado. Tercero, un archivo con los siguientes datos:&nbsp;</p>
+<ul>
+<li><p>Título del artículo en español e inglés.&nbsp;</p></li>
+<li><p>Nombre del(los) autor(es).</p></li>
+<li><p>Correo electrónico del(los) autor(es).</p></li>
+<li><p>Afiliación institucional.</p></li>
+<li><p>Códigos ORCID del(los) autor(es).</p></li>
+<li><p>Financiamiento (si aplica).</p></li>
+<li><p>Opcional: Teléfono de contacto del(los) autor(es).&nbsp;</p></li>
+</ul>
+<p>Los documentos deben ser enviados al correo <a href="mailto:nemesis@uchile.cl"><strong>nemesis@uchile.cl</strong></a>, indicado por asunto: <strong>[NXXI] Apellido del autor - Título corto</strong> (e.g<strong>.: “</strong>[NXXI] Harvey – Ciudades Rebeldes”). La persona que envía el manuscrito recibirá las correcciones. Si desean que las comunicaciones sean recibidas por todos los autores, pueden agregarlos a la cadena de correos para que sean considerados.</p>
+<p>Los artículos deben considerar los siguientes aspectos formales:</p>
+<ul>
+<li><p>Texto justificado.</p></li>
+<li><p>No debe utilizarse sangría de primera línea.</p></li>
+<li><p>Interlineado sencillo.</p></li>
+<li><p>Letra Times New Roman 12.</p></li>
+<li><p>Las tablas deben ser adjuntas en formato editable (no como imagen)&nbsp; y conforme a las <a href="https://normas-apa.org/estructura/tablas/">normas APA 7ma edición</a> (solo líneas horizontales de color negro en la primera y última fila).</p></li>
+<li><p>Las figuras deben ser numeradas y mencionadas en el texto (e.g.: “Como se ve en la Figura 1…”).</p></li>
+</ul>
+</section>
+<section id="proceso-de-publicación" class="level2">
+<h2 data-anchor-id="proceso-de-publicación">Proceso de publicación</h2>
+<p>Los trabajos recibidos serán evaluados por el comité editorial y por evaluadores externos. Todo el proceso se realiza mediante el sistema de referato doble ciego, el cual consiste en la revisión paralela por parte de dos editores familiarizados con el artículo (uno perteneciente al comité editorial de Némesis y otro externo).</p>
+<p>Entre 15 y 30 días hábiles desde la recepción del manuscrito, los autores serán notificados con respecto a si su manuscrito fue considerado “no publicable”, “publicable con modificaciones” o “publicable sin modificaciones”.</p>
+<p>Para los trabajos catalogados como “publicable con modificaciones”, los autores tendrán un plazo de hasta 15 días hábiles para enviar el texto con las modificaciones sugeridas.</p>
+<p>El comité editorial aceptará o rechazará definitivamente los trabajos reenviados a más tardar el [fecha límite de aceptación].</p>
+<p>La Revista se reserva el derecho de rechazar un artículo en caso de controversia o cualquier situación no contemplada en estos términos de referencia, lo cual será resuelto de forma conjunta por la dirección y el equipo editorial de la revista, y constituirá una decisiónserá de naturaleza inapelable.</p>
+</section>
+<section id="sobre-el-uso-de-lenguaje-inclusivo" class="level2">
+<h2 data-anchor-id="sobre-el-uso-de-lenguaje-inclusivo">Sobre el uso de lenguaje inclusivo</h2>
+<p>El uso de lenguaje inclusivo es decisión del autor, es decir que su utilización se encuentra permitida para los manuscritos que se publiquen en la Revista Némesis. Se permite el uso de la “e” (e.g.: “les estudiantes”), de barra diagonal (i.e.:“/”; e.g.: “los/as estudiantes”), que se expliciten ambos sexos (e.g.: “los y las estudiantes”), o que se usen términos neutros (e.g.: “el estudiantado”, en vez de ““los y las estudiantes”). Se espera que el uso del lenguaje inclusivo sea homogéneo y consistente a lo largo del manuscrito.</p>
+</section>
+<section id="anexo" class="level2">
+<h2 data-anchor-id="anexo">Anexo</h2>
+<p><a href="docx_pdf/carta_exclusividad.pdf">Carta de exclusividad</a></p>
 
 
-</header>
-
-
-<p>La sección de entrevistas proporciona una perspectiva experta y única sobre temas relevantes en el campo de estudio de las Ciencias Sociales. Puede incluir preguntas sobre la experiencia personal del entrevistado en el campo científico, su investigación actual o más reciente, su perspectiva sobre temas disciplinares y públicos, entre otras. Las entrevistas se graban, y luego quedan subidas a las redes sociales y la página de Némesis.</p>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="RW50cmV2aXN0YQ==" data-listing-date-sort="1694401200000" data-listing-file-modified-sort="1759179401630" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="38" data-listing-word-count-sort="7491">
-<div class="thumbnail"><a href="../product/entrevistas/entrevista_01.html" class="no-external">
-
-<img loading="lazy" src="../images/entrevista_01.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../product/entrevistas/entrevista_01.html" class="no-external">Reflexiones sociopolíticas a 50 años del golpe de Estado en Chile</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../product/entrevistas/entrevista_01.html" class="no-external">Una conversación con Sergio Grez</a>
+</section>
+</main> 
+  </div>
 </div>
-</div>
-<div class="metadata">
-<a href="../product/entrevistas/entrevista_01.html" class="no-external">
-<div class="listing-date">
-11 sept 2023
-</div>
-<div class="listing-reading-time">38 minutos</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No hay resultados</div>
-</div></main> <!-- /main -->
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
