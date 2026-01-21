@@ -1,37 +1,49 @@
 ---
-title: "¡Bienvenido/a al portal de la Revista de Estudiantes de Sociología UChile!"
+title: "Revista Némesis"
+subtitle: "¡Bienvenido/a al portal de estudiantes de Sociología UChile!"
 
 lang: es
 
-toc: true
-
-sidebar: true
-
-about: 
-  template: marquee
-  image: images/header.jpg
-
+# This enables the "magazine" grid layout
 listing:
   - id: product
     contents: product
-    type: default
+    type: grid               # <--- The Magazine Grid Look
     sort: 
-      - date desc
-      - title
-    fields: [categories, title, subtitle, image, date]
-    categories: false
-    max-items: 5
-    image-align: right
-    image-height: 10.0rem
-    image-placeholder: images/comentarios_dalle.png
+      - "date desc"
+      - "title"
+    fields: [image, title, subtitle, author, date, reading-time]
+    categories: true         
+    sort-ui: false           
+    filter-ui: false         
+    max-items: 9             
+    image-height: 250px      
+    image-placeholder: "images/comentarios_dalle.png"
     exclude:
       category: "no_visualize"
-  
-page-layout: full
-title-block-banner: true
----
 
-## Últimas producciones
+# Reverting to the valid 'marquee' template
+about: 
+  template: marquee        
+  image: images/header.jpg
+  image-shape: rectangle
+  image-width: 100%          
+  links:                     
+    - icon: newspaper
+      text: "Leer última edición"
+      href: product/columnas.qmd
+    - icon: pencil
+      text: "Enviar artículo"
+      href: normas_autores.qmd
+
+page-layout: full
+title-block-banner: true     
+---
 
 ::: {#product}
 :::
+
+<br>
+<div style="text-align: center; max-width: 800px; margin: 0 auto; color: #5b005b;">
+  <p><em>Un espacio de reflexión crítica y producción sociológica desde el estudiantado.</em></p>
+</div>

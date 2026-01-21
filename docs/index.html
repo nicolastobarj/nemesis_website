@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>¡Bienvenido/a al portal de la Revista de Estudiantes de Sociología UChile!</title>
+<title>Revista Némesis</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-9d81ecda2a6976a8309627a9671386fb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-25522c275987f8922df5964c3ce27d31.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-75d1f0cee86d8754c992542031c37da2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,10 +79,10 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories','listing-title','listing-subtitle','listing-image','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 25,
+      valueNames: ['listing-image','listing-title','listing-subtitle','listing-author','listing-date','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 18,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -99,6 +99,22 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
+<style>
+
+      .quarto-title-block .quarto-title-banner h1,
+      .quarto-title-block .quarto-title-banner h2,
+      .quarto-title-block .quarto-title-banner h3,
+      .quarto-title-block .quarto-title-banner h4,
+      .quarto-title-block .quarto-title-banner h5,
+      .quarto-title-block .quarto-title-banner h6
+      {
+        color: #FFFFBC;
+      }
+
+      .quarto-title-block .quarto-title-banner {
+        color: #FFFFBC;
+      }
+</style>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -131,9 +147,20 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Revista Némesis">
+<meta property="og:description" content="¡Bienvenido/a al portal de estudiantes de Sociología UChile!">
+<meta property="og:image" content="https://revistanemesis.uchile.cl/images/column_15.png">
+<meta property="og:image:height" content="1080">
+<meta property="og:image:width" content="1920">
+<meta name="twitter:title" content="Revista Némesis">
+<meta name="twitter:description" content="¡Bienvenido/a al portal de estudiantes de Sociología UChile!">
+<meta name="twitter:image" content="https://revistanemesis.uchile.cl/images/column_15.png">
+<meta name="twitter:image-height" content="1080">
+<meta name="twitter:image-width" content="1920">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-sidebar docked nav-fixed quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
@@ -145,6 +172,7 @@ window.Quarto = {
     <img src="./images/circle_logo_black.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
+            <div id="quarto-search" class="" title="Buscar"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -177,20 +205,33 @@ window.Quarto = {
     <a class="nav-link" href="./normas_autores.html"> 
 <span class="menu-text">Normas para Autores</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-publicaciones" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Publicaciones</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-publicaciones">    
+        <li>
+    <a class="dropdown-item" href="./product/comentarios.html">
+ <span class="dropdown-text">Comentarios bibliográficos</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./product/entrevistas.html">
+ <span class="dropdown-text">Entrevistas</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./product/columnas.html">
+ <span class="dropdown-text">Columnas de opinión</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://revistanemesis.uchile.cl" target="_blank"> 
+<span class="menu-text">Portal Revista princial</span></a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://www.instagram.com/revistanemesis" target="_blank"> <i class="bi bi-instagram" role="img">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/RevistaNemesis" target="_blank"> <i class="bi bi-twitter" role="img">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://web.facebook.com/profile.php?id=100064994021305" target="_blank"> <i class="bi bi-facebook" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -205,246 +246,263 @@ window.Quarto = {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">¡Bienvenido/a al portal de la Revista de Estudiantes de Sociología UChile!</li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">¡Bienvenido/a al portal de la Revista de Estudiantes de Sociología UChile!</h1>
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Revista Némesis</h1>
+            <p class="subtitle lead">¡Bienvenido/a al portal de estudiantes de Sociología UChile!</p>
                       </div>
   </div>
-  <div class="quarto-title-meta column-body">
+  <div class="quarto-title-meta column-page-left">
     </div>
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
-      <a href="./index.html" class="sidebar-logo-link">
-      </a>
-      </div>
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Publicaciones</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Alternar sección">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="https://revistanemesis.uchile.cl" class="sidebar-item-text sidebar-link" target="_blank">
- <span class="menu-text">Portal Revista princial</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./product/comentarios.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Comentarios bibliográficos</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./product/entrevistas.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Entrevistas</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./product/columnas.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Columnas de opinión</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./tematica.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Temática anual.</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
- <span class="menu-text">Alianzas</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Alternar sección">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="https://teoriasocialhoy.org" class="sidebar-item-text sidebar-link" target="_blank">
- <span class="menu-text">Teoría Social Hoy</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="https://www.instagram.com/redes.ch" class="sidebar-item-text sidebar-link" target="_blank">
- <span class="menu-text">REDES</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">En esta página</h2>
-  <ul>
-  <li><a href="#últimas-producciones" id="toc-últimas-producciones" class="nav-link active" data-scroll-target="#últimas-producciones">Últimas producciones</a></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(28)</span></div><div class="category" data-category="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==">Columnas de opinión <span class="quarto-category-count">(15)</span></div><div class="category" data-category="Q29tZW50YXJpb3MlMjBiaWJsaW9nciVDMyVBMWZpY29z">Comentarios bibliográficos <span class="quarto-category-count">(12)</span></div><div class="category" data-category="RW50cmV2aXN0YQ==">Entrevista <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-marquee column-body">
+<div class="quarto-about-marquee column-page-left">
   <div class="about-image-container">
-    <img src="images/header.jpg" class="about-image " style="width: 100%;">
+    <img src="images/header.jpg" class="about-image
+  rectangle " style="width: 100%;">
   </div>
   <div class="about-contents">
-     <main class="content quarto-banner-title-block column-body" id="quarto-document-content">
-
-<section id="últimas-producciones" class="level2">
-<h2 data-anchor-id="últimas-producciones">Últimas producciones</h2>
-<div id="listing-product" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1768878000000" data-listing-file-modified-sort="1765915936595" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1664">
-<div class="thumbnail"><a href="./product/columnas/column_15.html" class="no-external">
-<img loading="lazy" src="./images/column_15.png" class="thumbnail-image" style="height: 10.0rem;">
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./product/columnas/column_15.html" class="no-external">El nuevo clivaje aún no nace (y el viejo se resiste a morir)</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./product/columnas/column_15.html" class="no-external">Por qué el triunfo de Kast no inaugura un orden estable.</a>
+     <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<div id="listing-product" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1768878000000" data-listing-file-modified-sort="1765915936595" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1664">
+<a href="./product/columnas/column_15.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/column_15.png" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+El nuevo clivaje aún no nace (y el viejo se resiste a morir)
+</h5>
+<div class="card-subtitle listing-subtitle">
+Por qué el triunfo de Kast no inaugura un orden estable.
 </div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg=='); return false;">Columnas de opinión</div>
+<div class="listing-reading-time card-text text-muted">9 minutos</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Ismael Aguayo
 </div>
-</div>
-<div class="metadata">
-<a href="./product/columnas/column_15.html" class="no-external">
 <div class="listing-date">
 20 ene 2026
 </div>
-</a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1759201200000" data-listing-file-modified-sort="1761522902008" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1460">
-<div class="thumbnail"><a href="./product/columnas/column_14.html" class="no-external">
-<img loading="lazy" src="./images/column_14.png" class="thumbnail-image" style="height: 10.0rem;">
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./product/columnas/column_14.html" class="no-external">Sobre algunas formas de dominación</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./product/columnas/column_14.html" class="no-external"></a>
+</div></a>
 </div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg=='); return false;">Columnas de opinión</div>
+<div class="g-col-1" data-index="1" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1759201200000" data-listing-file-modified-sort="1761522902008" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1460">
+<a href="./product/columnas/column_14.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/column_14.png" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sobre algunas formas de dominación
+</h5>
+<div class="listing-reading-time card-text text-muted">8 minutos</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Carlos Gabriel Chávez Reyes
 </div>
-</div>
-<div class="metadata">
-<a href="./product/columnas/column_14.html" class="no-external">
 <div class="listing-date">
 30 sept 2025
 </div>
-</a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="Q29tZW50YXJpb3MlMjBiaWJsaW9nciVDMyVBMWZpY29z" data-listing-date-sort="1753761600000" data-listing-file-modified-sort="1761522849665" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="15" data-listing-word-count-sort="2881">
-<div class="thumbnail"><a href="./product/comentarios/com_bib_12.html" class="no-external">
-<img loading="lazy" src="./images/com_bib_12.jpg" class="thumbnail-image" style="height: 10.0rem;">
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./product/comentarios/com_bib_12.html" class="no-external">Pensando el fascismo en tiempos de crisis</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./product/comentarios/com_bib_12.html" class="no-external">Reseña a El Fascismo de Ernst Mandel</a>
+</div></a>
 </div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Q29tZW50YXJpb3MlMjBiaWJsaW9nciVDMyVBMWZpY29z'); return false;">Comentarios bibliográficos</div>
+<div class="g-col-1" data-index="2" data-categories="Q29tZW50YXJpb3MlMjBiaWJsaW9nciVDMyVBMWZpY29z" data-listing-date-sort="1753761600000" data-listing-file-modified-sort="1761522849665" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="15" data-listing-word-count-sort="2881">
+<a href="./product/comentarios/com_bib_12.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/com_bib_12.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Pensando el fascismo en tiempos de crisis
+</h5>
+<div class="card-subtitle listing-subtitle">
+Reseña a El Fascismo de Ernst Mandel
 </div>
+<div class="listing-reading-time card-text text-muted">15 minutos</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Cristóbal Albornoz Vargas
 </div>
-<div class="metadata">
-<a href="./product/comentarios/com_bib_12.html" class="no-external">
 <div class="listing-date">
 29 jul 2025
 </div>
-</a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1751601600000" data-listing-file-modified-sort="1759179401629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1582">
-<div class="thumbnail"><a href="./product/columnas/column_13.html" class="no-external">
-<img loading="lazy" src="./images/column_13.jpg" class="thumbnail-image" style="height: 10.0rem;">
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./product/columnas/column_13.html" class="no-external">“Si esto es un hombre”</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./product/columnas/column_13.html" class="no-external">El drama infinito del Holocausto y sus paralelos con el genocidio palestino</a>
+</div></a>
 </div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg=='); return false;">Columnas de opinión</div>
+<div class="g-col-1" data-index="3" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1751601600000" data-listing-file-modified-sort="1759179401629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1582">
+<a href="./product/columnas/column_13.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/column_13.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+“Si esto es un hombre”
+</h5>
+<div class="card-subtitle listing-subtitle">
+El drama infinito del Holocausto y sus paralelos con el genocidio palestino
 </div>
+<div class="listing-reading-time card-text text-muted">8 minutos</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Mauricio Encina
 </div>
-<div class="metadata">
-<a href="./product/columnas/column_13.html" class="no-external">
 <div class="listing-date">
 4 jul 2025
 </div>
-</a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1751342400000" data-listing-file-modified-sort="1759179401629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="818">
-<div class="thumbnail"><a href="./product/columnas/column_12.html" class="no-external">
-<img loading="lazy" src="./images/columna_12.png" class="thumbnail-image" style="height: 10.0rem;">
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./product/columnas/column_12.html" class="no-external">El mito del esfuerzo: cómo en Chile justificamos la desigualdad</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./product/columnas/column_12.html" class="no-external"></a>
+</div></a>
 </div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg=='); return false;">Columnas de opinión</div>
+<div class="g-col-1" data-index="4" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1751342400000" data-listing-file-modified-sort="1759179401629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="818">
+<a href="./product/columnas/column_12.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/columna_12.png" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+El mito del esfuerzo: cómo en Chile justificamos la desigualdad
+</h5>
+<div class="listing-reading-time card-text text-muted">5 minutos</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Nain López Valdés
 </div>
-</div>
-<div class="metadata">
-<a href="./product/columnas/column_12.html" class="no-external">
 <div class="listing-date">
 1 jul 2025
 </div>
-</a>
 </div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1749441600000" data-listing-file-modified-sort="1759179401629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1198">
+<a href="./product/columnas/column_11.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/columna_11.png" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Las niñeces existen ahora
+</h5>
+<div class="listing-reading-time card-text text-muted">6 minutos</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Yhislaine Pavez Manzzo
+</div>
+<div class="listing-date">
+9 jun 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1748404800000" data-listing-file-modified-sort="1759179401629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="860">
+<a href="./product/columnas/column_10.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/columna_10.png" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Falsas promesas de una política anti-partidista: la verdadera agenda tras la movilización en FACSO
+</h5>
+<div class="listing-reading-time card-text text-muted">5 minutos</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Domingo Monasterio e Ismael Aguayo
+</div>
+<div class="listing-date">
+28 may 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1747800000000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1406">
+<a href="./product/columnas/column_09.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/columna_09.png" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Del campo social al campo social transnacional
+</h5>
+<div class="listing-reading-time card-text text-muted">8 minutos</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Carlos Gabriel Chávez Reyes, Thelma Sarai Jeronimo Santana
+</div>
+<div class="listing-date">
+21 may 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1747195200000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1075">
+<a href="./product/columnas/column_08.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/columna_08.png" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+¿Hablar de clase? ¿Quiénes somos la clase obrera?
+</h5>
+<div class="listing-reading-time card-text text-muted">6 minutos</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Derek Alejandro Jamet
+</div>
+<div class="listing-date">
+14 may 2025
+</div>
+</div>
+</div>
+</div></a>
 </div>
 </div>
 <div class="listing-no-matching d-none">No hay resultados</div>
 </div>
+<br>
+<div style="text-align: center; max-width: 800px; margin: 0 auto; color: #5b005b;">
+<p>
+<em>Un espacio de reflexión crítica y producción sociológica desde el estudiantado.</em>
+</p>
+</div>
 
 
-</section>
 </main> 
+    <div class="about-footer"><div class="about-links">
+  <a href="/product/columnas.html" class="about-link" rel="" target="">
+    <i class="bi bi-newspaper"></i>
+     <span class="about-link-text">Leer última edición</span>
+  </a>
+  <a href="/normas_autores.html" class="about-link" rel="" target="">
+    <i class="bi bi-pencil"></i>
+     <span class="about-link-text">Enviar artículo</span>
+  </a>
+</div>
+</div>
   </div>
 </div>
  <!-- /main -->
@@ -513,7 +571,7 @@ window.Quarto = {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/revistanemesis\.uchile\.cl");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -847,7 +905,7 @@ window.Quarto = {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>Licencias reservadas por Némesis UChile</p>
+<p>Revista Némesis - Facultad de Ciencias Sociales - Universidad de Chile © 2026</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

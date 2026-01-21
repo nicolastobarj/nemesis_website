@@ -2,12 +2,14 @@ project:
   type: website
   output-dir: docs
 
+lang: es
+
 website:
 
   favicon: images/circle_logo_black.png
   
   navbar:
-    search: false
+    search: true
     left:
       - text: "Somos"
         menu:
@@ -19,15 +21,18 @@ website:
         href: convocatoria.qmd
       - text: Normas para Autores
         href: normas_autores.qmd
+      - text: "Publicaciones"
+        menu:
+          - product/comentarios.qmd
+          - product/entrevistas.qmd
+          - product/columnas.qmd
+      
     right:
+      - text: Portal Revista princial
+        href: https://revistanemesis.uchile.cl
+        target: _blank
       - icon: instagram
         href: https://www.instagram.com/revistanemesis
-        target: _blank
-      - icon: twitter
-        href: https://twitter.com/RevistaNemesis
-        target: _blank
-      - icon: facebook
-        href: https://web.facebook.com/profile.php?id=100064994021305
         target: _blank
       - icon: mailbox
         href: mailto:nemesis@uchile.cl
@@ -37,50 +42,29 @@ website:
     border: true
     pinned: true
     back-to-top-navigation: false
-    
-  sidebar:
-      search: false
-      pinned: true
-      style: "docked"
-      background: "light"
-      foreground: "dark"
-      border: true
-      contents:
-        - section: "Publicaciones"
-          contents: 
-            - text: Portal Revista princial
-              href: https://revistanemesis.uchile.cl
-              target: _blank
-            - product/comentarios.qmd
-            - product/entrevistas.qmd
-            - product/columnas.qmd
-            - tematica.qmd
-        - section: "Alianzas"
-          contents:
-            - text: Teoría Social Hoy
-              href: https://teoriasocialhoy.org
-              target: _blank
-            - text: REDES
-              href: https://www.instagram.com/redes.ch
-              target: _blank
-      
+  open-graph: true
+  twitter-card: true
+  site-url: "https://revistanemesis.uchile.cl"
 
   page-footer:
-    center: "Licencias reservadas por Némesis UChile"
+    center: "Revista Némesis - Facultad de Ciencias Sociales - Universidad de Chile © 2026"
       
 format:
   html:
     theme: journal
-    mainfont: arapey
+    mainfont: "Merriweather"
+    sansfont: "Source Sans Pro"
     fontsize: 1.1rem
     fontcolor: "#330033"
     linkcolor: "#009B86"
-    monofont: lato
+    monofont: "Fira Code"
     css: styles.css
     toc: true
     highlight-style: monokai
+    title-block-banner: "#330033"
+    title-block-banner-color: "#FFFFBC"
 
-editor: visual
+editor: source
 
 execute:
   freeze: auto

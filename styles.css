@@ -1,17 +1,43 @@
 /* css styles */
 body {
   background-color: #FCFBF4;
-}
-#quarto-sidebar-glass {
-  display: none;
+  line-height: 1.8;
 }
 
-#quarto-sidebar-glass {
-  pointer-events: none;  /* Desactiva la interacción de clic */
+p {
+    text-align: justify;
+    hyphens: auto;       
 }
-body {
-    /*font-family: 'Arial', sans-serif; /* Cambia la fuente a Arial */
-    text-align: justify;              /* Justifica todo el texto */
-    /*font-size: 16px;                  /* Tamaño de la fuente */
-    /*line-height: 1.6;                 /* Altura de línea para mejorar legibilidad */
+
+/* Custom Callout Color to match Némesis Purple */
+.callout-important {
+    border-left-color: #330033 !important;
+}
+.callout-important .callout-header {
+    background-color: #f0e6f0 !important; /* A light purple background */
+    color: #330033 !important;
+}
+
+/* --- Callout: NOTE (Teal from Palette) --- */
+.callout-note {
+    border-left-color: #009b86 !important;
+}
+.callout-note .callout-header {
+    background-color: #e0f7fa !important; /* Very light teal */
+    color: #00796b !important; /* Slightly darker teal for text readability */
+}
+.callout-note .callout-icon {
+    color: #009b86 !important; /* Icon matches border */
+}
+
+/* --- Callout: TIP (Orange from Palette) --- */
+.callout-tip {
+    border-left-color: #f36f10 !important;
+}
+.callout-tip .callout-header {
+    background-color: #fff3e0 !important; /* Very light orange */
+    color: #e65100 !important; /* Dark orange for text */
+}
+.callout-tip .callout-icon {
+    color: #f36f10 !important;
 }
