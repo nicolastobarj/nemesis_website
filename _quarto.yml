@@ -11,6 +11,7 @@ website:
   twitter-card: true
   site-url: "https://revistanemesis.netlify.app"  
   navbar:
+    title: "Revista Némesis"
     search: true
     left:
       - text: "Somos"

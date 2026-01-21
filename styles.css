@@ -125,3 +125,22 @@ p {
     color: #999 !important;
     background-color: transparent !important;
 }
+
+/* --- Estilo del Título en la Barra de Navegación --- */
+
+.navbar-title {
+    text-transform: none !important;        /* Adiós a las mayúsculas forzadas */
+    font-family: "Merriweather", serif !important; /* Tu tipografía oficial */
+    font-weight: 400;                       /* Negrita para que destaque */
+    font-size: 1.3rem;                      /* Tamaño ideal */
+    color: #FFFFBC !important;              /* Tu color Crema (Némesis) */
+    letter-spacing: 0.5px;                  /* Un poquito de aire entre letras */
+    vertical-align: middle;                 /* Alineación perfecta con el logo */
+}
+
+
+.navbar-brand img {
+    max-height: 40px !important; /* Ajusta este número a tu gusto (defecto es ~35px) */
+    width: auto;                 /* Mantiene la proporción para que no se deforme */
+    margin-right: 0.12rem;        /* Un poco más de espacio entre logo y texto */
+}
