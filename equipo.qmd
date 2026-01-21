@@ -1,41 +1,71 @@
 ---
 title: "Equipo Revista Némesis"
-toc: false
+toc: true
 sidebar: false
 toc-depth: 2
 lang: es
+page-layout: full
 ---
 
 ## Directorio
 
-::: {layout-ncol="2" layout-valign="center"}
-![](images/chuma.png-01.png){width="500"}
+::: {.team-grid}
 
-![](images/isma.png.png){width="500"}
+::: {.team-member}
+![](images/chuma.jpg)
 
-**Domingo Monasterio.** Estudiante de cuarto año de sociología UChile. Interes en en Teoría de Sistemas, Filosofía Contemporánea y Posestructuralismo.
+<div class="member-name">Domingo Monasterio</div>
+<div class="member-bio">
+Estudiante de cuarto año de sociología UChile. Sus intereses se centran en la Teoría de Sistemas, la Filosofía Contemporánea y el Posestructuralismo.
+</div>
+:::
 
-**Ismael Aguayo.** Estudiante de cuarto año de sociología UChile. Interes en las transformaciones digitales y su impacto sociopolítico, a través de métodos computacionales y estadísticos.
+::: {.team-member}
+![](images/isma.jpg)
+
+<div class="member-name">Ismael Aguayo</div>
+<div class="member-bio">
+Estudiante de cuarto año de sociología UChile. Se enfoca en el estudio de las transformaciones digitales y su impacto sociopolítico, utilizando métodos computacionales y estadísticos.
+</div>
+:::
+
 :::
 
 ## Comité Editorial
 
-::: {layout-ncol="2" layout-halign="center"}
-![](images/cape.png-01.png)
+::: {.team-grid}
 
-'
+::: {.team-member}
+![](images/cape.jpg)
 
-**Joaquín Capetillo**. Estudiante de quinto año de sociología UChile. Intereses en Teoría Crítica, Teoría del Habitus y Postestructuralismo.
+<div class="member-name">Joaquín Capetillo</div>
+<div class="member-bio">
+Estudiante de quinto año de sociología UChile. Sus líneas de interés son la Teoría Crítica, la Teoría del Habitus y el Postestructuralismo.
+</div>
+:::
+
 :::
 
 ## Comunicaciones y Extensión
 
-::: {layout-ncol="2" layout-halign="center"}
-![](images/felipe.png)
+::: {.team-grid}
 
-![](images/javi.png-01.png)
+::: {.team-member}
+![](images/pipe.jpg)
 
-**Felipe Carvajal.** Estudiante de cuarto año de sociología UChile. Intereses en Estudios Urbanos, Política Habitacional y Sociología Digital.
+<div class="member-name">Felipe Carvajal</div>
+<div class="member-bio">
+Estudiante de cuarto año de sociología UChile. Interesado en Estudios Urbanos, Política Habitacional y Sociología Digital.
+</div>
+:::
 
-**Javiera Ruiz Alvarado.** Estudiante de cuarto año de sociología UChile y miembro del Equipo Directivo del Núcleo Teoría Social Hoy. Intereses en Feminismo Postestructuralista, Sociología Latinoamericana, Filosofía Política y Filosofía del Afecto.
+::: {.team-member}
+![](images/javi.jpg)
+
+<div class="member-name">Javiera Ruiz Alvarado</div>
+<div class="member-bio">
+Estudiante de cuarto año de sociología UChile y miembro del Equipo Directivo del Núcleo Teoría Social Hoy. Sus intereses abarcan el Feminismo Postestructuralista, la Sociología Latinoamericana y la Filosofía del Afecto.
+</div>
+:::
+
 :::

@@ -15,17 +15,17 @@ website:
         menu:
           - proyecto.qmd
           - organizacion.qmd
-      - text: Equipo
-        href: equipo.qmd
+          - text: Equipo
+            href: equipo.qmd
       - text: Convocatoria XXI
         href: convocatoria.qmd
       - text: Normas para Autores
         href: normas_autores.qmd
       - text: "Publicaciones"
         menu:
+          - product/columnas.qmd
           - product/comentarios.qmd
           - product/entrevistas.qmd
-          - product/columnas.qmd
       
     right:
       - text: Portal Revista princial

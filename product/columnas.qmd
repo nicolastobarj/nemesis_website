@@ -5,10 +5,15 @@ lang: es
 listing:
   contents: columnas
   type: default
-  sort: 
-    - "date desc"
-  fields: [title, author, date, reading-time, image]
+  sort: date desc
+  feed: true
+  fields: [date, title, author, reading-time, description, image]
+  filter-ui: true
   page-size: 10
+  image-align: left
+  image-height: 15.0rem
+  image-placeholder: ../../images/comentarios_dalle.png
+page-layout: full
 ---
 
 Existe un montón de estudiantes de la FACSO interesados en la contingencia sociopolítica. Es recurrente que entre los integrantes de este estamento se compartan puntos de vista y discusiones sobre lo que está ocurriendo en el momento de la facultad, el país o el mundo. Pero por mucho que se escribe, estas valiosas reflexiones quedan sin espacio de difusión formal. Por eso, Némesis entrega la posibilidad de recibir columnas de opinión respecto a los debates públicos y acontecimientos sociopolíticos relevantes para el estudiantado.

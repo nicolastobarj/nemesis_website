@@ -41,3 +41,87 @@ p {
 .callout-tip .callout-icon {
     color: #f36f10 !important;
 }
+
+
+/* --- Team Page Styles (Mejorado para items únicos) --- */
+
+.team-grid {
+    display: flex;             /* FLEX es mejor para centrar elementos impares */
+    flex-wrap: wrap;           /* Permite que bajen a la siguiente línea si no caben */
+    justify-content: center;   /* LA CLAVE: Centra todo horizontalmente */
+    gap: 4rem;                 /* Espacio generoso entre tarjetas */
+    margin-bottom: 4rem;
+    align-items: flex-start;   /* Alinea al inicio verticalmente */
+}
+
+.team-member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    
+    /* Control de ancho para que no se estiren cuando están solos */
+    width: 100%;
+    max-width: 350px;       /* <-- ESTO SOLUCIONA TU PROBLEMA */
+}
+
+.team-member img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid #330033; /* Color Némesis */
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    background-color: white; /* Por si la imagen tiene transparencia */
+}
+
+.member-name {
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #330033;
+    margin-bottom: 0.5rem;
+}
+
+.member-role {
+    font-size: 0.9rem;
+    color: #666;
+    font-style: italic;
+    margin-bottom: 0.5rem;
+}
+
+.member-bio {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: #444; /* Un gris oscuro para mejor lectura que el negro puro */
+}
+
+/* --- Pagination Styling (Némesis Brand) --- */
+
+/* 1. Botón Activo (El número de la página actual) */
+.pagination .page-item.active .page-link {
+    background-color: #330033 !important; /* Tu morado oscuro */
+    border-color: #330033 !important;
+    color: #FFFFBC !important;             /* Tu color crema para el número */
+}
+
+/* 2. Botones Inactivos (Los otros números) */
+.pagination .page-link {
+    color: #330033 !important;             /* Texto morado */
+    background-color: transparent !important;
+    border: 1px solid #e0e0e0;             /* Un borde gris muy suave */
+}
+
+/* 3. Efecto Hover (Cuando pasas el mouse por encima) */
+.pagination .page-link:hover {
+    background-color: #f0e6f0 !important;  /* Un morado muy pálido */
+    color: #330033 !important;
+    border-color: #330033 !important;
+}
+
+/* 4. Ajuste para dispositivos móviles (opcional) */
+.page-item.disabled .page-link {
+    color: #999 !important;
+    background-color: transparent !important;
+}

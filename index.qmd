@@ -1,6 +1,6 @@
 ---
 title: "Revista Némesis"
-subtitle: "¡Bienvenido/a al portal de estudiantes de Sociología UChile!"
+subtitle: "¡Bienvenido/a a la página de la revista estudiantil de la FACSO UChile!"
 
 lang: es
 
@@ -13,10 +13,10 @@ listing:
       - "date desc"
       - "title"
     fields: [image, title, subtitle, author, date, reading-time]
-    categories: true         
+    categories: false         
     sort-ui: false           
     filter-ui: false         
-    max-items: 9             
+    page-size: 9             
     image-height: 250px      
     image-placeholder: "images/comentarios_dalle.png"
     exclude:
@@ -30,7 +30,7 @@ about:
   image-width: 100%          
   links:                     
     - icon: newspaper
-      text: "Leer última edición"
+      text: "Leer última publicación"
       href: product/columnas.qmd
     - icon: pencil
       text: "Enviar artículo"
@@ -42,8 +42,3 @@ title-block-banner: true
 
 ::: {#product}
 :::
-
-<br>
-<div style="text-align: center; max-width: 800px; margin: 0 auto; color: #5b005b;">
-  <p><em>Un espacio de reflexión crítica y producción sociológica desde el estudiantado.</em></p>
-</div>

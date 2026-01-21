@@ -80,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-reading-time','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-reading-time','listing-description','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       page: 10,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
@@ -193,12 +193,12 @@ window.Quarto = {
     <a class="dropdown-item" href="../organizacion.html">
  <span class="dropdown-text">Organización de trabajo</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../equipo.html">
+ <span class="dropdown-text">Equipo</span></a>
+  </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="../equipo.html"> 
-<span class="menu-text">Equipo</span></a>
-  </li>  
   <li class="nav-item">
     <a class="nav-link" href="../convocatoria.html"> 
 <span class="menu-text">Convocatoria XXI</span></a>
@@ -213,16 +213,16 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-publicaciones">    
         <li>
+    <a class="dropdown-item" href="../product/columnas.html">
+ <span class="dropdown-text">Columnas de opinión</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../product/comentarios.html">
  <span class="dropdown-text">Comentarios bibliográficos</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../product/entrevistas.html">
  <span class="dropdown-text">Entrevistas</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../product/columnas.html">
- <span class="dropdown-text">Columnas de opinión</span></a>
   </li>  
     </ul>
   </li>
@@ -252,13 +252,13 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
+    <div class="quarto-title column-page">
       <h1 class="title">Columnas de opinión</h1>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta">
+  <div class="quarto-title-meta column-page">
 
       
     
@@ -266,14 +266,14 @@ window.Quarto = {
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
 
 
@@ -286,22 +286,31 @@ window.Quarto = {
 
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filtro">
+    </div>
+</div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1768878000000" data-listing-file-modified-sort="1765915936595" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1664">
+<div class="quarto-post image-left" data-index="0" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1768964400000" data-listing-file-modified-sort="1765915936595" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1664">
 <div class="thumbnail"><a href="../product/columnas/column_15.html" class="no-external">
 
-<img loading="lazy" src="../images/column_15.png" class="thumbnail-image">
+<img loading="lazy" src="../images/column_15.png" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_15.html" class="no-external">El nuevo clivaje aún no nace (y el viejo se resiste a morir)</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_15.html" class="no-external">
+Un clivaje se define como la distinción que ordena las preferencias políticas y la conformación de los partidos políticos en un país. Ejemplos clásicos de esto son Iglesia…<em></em>
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_15.html" class="no-external">
 <div class="listing-date">
-20 ene 2026
+21 ene 2026
 </div>
 <div class="listing-author">
 Ismael Aguayo
@@ -310,16 +319,19 @@ Ismael Aguayo
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1759201200000" data-listing-file-modified-sort="1761522902008" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1460">
+<div class="quarto-post image-left" data-index="1" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1759201200000" data-listing-file-modified-sort="1761522902008" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1460">
 <div class="thumbnail"><a href="../product/columnas/column_14.html" class="no-external">
 
-<img loading="lazy" src="../images/column_14.png" class="thumbnail-image">
+<img loading="lazy" src="../images/column_14.png" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_14.html" class="no-external">Sobre algunas formas de dominación</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_14.html" class="no-external">
+Foucault (2014) habla del poder como una red institucionalizada de organizaciones, como una escuela, una fábrica o una prisión, que controlan y aseguran el funcionamiento…
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_14.html" class="no-external">
@@ -333,16 +345,20 @@ Carlos Gabriel Chávez Reyes
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1751601600000" data-listing-file-modified-sort="1759179401629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1582">
+<div class="quarto-post image-left" data-index="2" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1751601600000" data-listing-file-modified-sort="1759179401629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1582">
 <div class="thumbnail"><a href="../product/columnas/column_13.html" class="no-external">
 
-<img loading="lazy" src="../images/column_13.jpg" class="thumbnail-image">
+<img loading="lazy" src="../images/column_13.jpg" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_13.html" class="no-external">“Si esto es un hombre”</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_13.html" class="no-external">
+<em>“allí recibimos los primeros golpes y la cosa fue tan inesperada e insensata que no sentimos ningún dolor, ni en el cuerpo ni en el alma, sólo un estupor profundo…<em><br>
+</em>¿Cómo es…</em>
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_13.html" class="no-external">
@@ -356,16 +372,19 @@ Mauricio Encina
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1751342400000" data-listing-file-modified-sort="1759179401629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="818">
+<div class="quarto-post image-left" data-index="3" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1751342400000" data-listing-file-modified-sort="1759179401629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="818">
 <div class="thumbnail"><a href="../product/columnas/column_12.html" class="no-external">
 
-<img loading="lazy" src="../images/columna_12.png" class="thumbnail-image">
+<img loading="lazy" src="../images/columna_12.png" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_12.html" class="no-external">El mito del esfuerzo: cómo en Chile justificamos la desigualdad</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_12.html" class="no-external">
+En Chile, la idea de que el éxito depende solo del esfuerzo individual está muy arraigada. Se asume que las clases sociales existen de manera “natural”, como si el sistema…
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_12.html" class="no-external">
@@ -379,16 +398,19 @@ Nain López Valdés
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1749441600000" data-listing-file-modified-sort="1759179401629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1198">
+<div class="quarto-post image-left" data-index="4" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1749441600000" data-listing-file-modified-sort="1759179401629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1198">
 <div class="thumbnail"><a href="../product/columnas/column_11.html" class="no-external">
 
-<img loading="lazy" src="../images/columna_11.png" class="thumbnail-image">
+<img loading="lazy" src="../images/columna_11.png" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_11.html" class="no-external">Las niñeces existen ahora</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_11.html" class="no-external">
+El protagonismo infantil es un tema que ha estado en boga desde hace unos años atrás en Latinoamérica y el mundo. En la siguiente columna, analizaré el primer capítulo del…
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_11.html" class="no-external">
@@ -402,16 +424,19 @@ Yhislaine Pavez Manzzo
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1748404800000" data-listing-file-modified-sort="1759179401629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="860">
+<div class="quarto-post image-left" data-index="5" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1748404800000" data-listing-file-modified-sort="1759179401629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="860">
 <div class="thumbnail"><a href="../product/columnas/column_10.html" class="no-external">
 
-<img loading="lazy" src="../images/columna_10.png" class="thumbnail-image">
+<img loading="lazy" src="../images/columna_10.png" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_10.html" class="no-external">Falsas promesas de una política anti-partidista: la verdadera agenda tras la movilización en FACSO</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_10.html" class="no-external">
+<em>En el momento en que parecíamos estar en buenas condiciones para ulteriores avances, fuimos atacados desde la retaguardia…</em>
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_10.html" class="no-external">
@@ -425,16 +450,19 @@ Domingo Monasterio e Ismael Aguayo
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1747800000000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1406">
+<div class="quarto-post image-left" data-index="6" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1747800000000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1406">
 <div class="thumbnail"><a href="../product/columnas/column_09.html" class="no-external">
 
-<img loading="lazy" src="../images/columna_09.png" class="thumbnail-image">
+<img loading="lazy" src="../images/columna_09.png" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_09.html" class="no-external">Del campo social al campo social transnacional</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_09.html" class="no-external">
+El término “transnacional” a menudo se usa como sinónimo de “internacional”, “multinacional” e incluso “posnacional”. En cualquier momento, los migrantes mantienen vínculos…
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_09.html" class="no-external">
@@ -448,16 +476,19 @@ Carlos Gabriel Chávez Reyes, Thelma Sarai Jeronimo Santana
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1747195200000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1075">
+<div class="quarto-post image-left" data-index="7" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1747195200000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1075">
 <div class="thumbnail"><a href="../product/columnas/column_08.html" class="no-external">
 
-<img loading="lazy" src="../images/columna_08.png" class="thumbnail-image">
+<img loading="lazy" src="../images/columna_08.png" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_08.html" class="no-external">¿Hablar de clase? ¿Quiénes somos la clase obrera?</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_08.html" class="no-external">
+¿Qué sentido tiene hablar de la clase obrera en la actualidad? La vieja imagen del obrero fabril parece haberse desvanecido por completo frente a la proliferación de…
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_08.html" class="no-external">
@@ -471,16 +502,19 @@ Derek Alejandro Jamet
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1734318000000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1878">
+<div class="quarto-post image-left" data-index="8" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1734318000000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1878">
 <div class="thumbnail"><a href="../product/columnas/column_07.html" class="no-external">
 
-<img loading="lazy" src="../images/column_07.jpg" class="thumbnail-image">
+<img loading="lazy" src="../images/column_07.jpg" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_07.html" class="no-external">«Los hijos de Marx y Coca-Cola»: el modernismo de la contracultura</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_07.html" class="no-external">
+A sesenta años de la llegada de la beatlemanía a Nueva York, el fenómeno global de la <em>british invasion</em> y la cadena de fenómenos que tienen lugar en Occidente durante los…<em></em><em></em>
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_07.html" class="no-external">
@@ -494,16 +528,19 @@ Joaquín Capetillo
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1732330800000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1058">
+<div class="quarto-post image-left" data-index="9" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1732330800000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1058">
 <div class="thumbnail"><a href="../product/columnas/column_06.html" class="no-external">
 
-<img loading="lazy" src="../images/column_06.jpg" class="thumbnail-image">
+<img loading="lazy" src="../images/column_06.jpg" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_06.html" class="no-external">Prima Solar y el futuro cada vez más aterrador</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_06.html" class="no-external">
+En el marco de la reciente polémica sobre el lanzamiento de la línea de ropa de Ropero Paula, Prima Solar (2024) comentó en sus historias de Instagram:
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_06.html" class="no-external">
@@ -517,16 +554,19 @@ Javiera Ruiz
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1732158000000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1493">
+<div class="quarto-post image-left" data-index="10" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1732158000000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1493">
 <div class="thumbnail"><a href="../product/columnas/column_05.html" class="no-external">
 
-<img loading="lazy" data-src="../images/column_05.jpg" class="thumbnail-image">
+<img loading="lazy" data-src="../images/column_05.jpg" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_05.html" class="no-external">Lo amplio del frente amplio: unas consideraciones acerca de su falta de proyecto</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_05.html" class="no-external">
+“El diputado del <strong>Frente Amplio</strong>, <strong>Gonzalo Winter</strong>, habló sobre la aprobación del proyecto de ley que establece las <strong>normas generales sobre el uso de la fuerza</strong> (RUF) y la…<strong></strong>
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_05.html" class="no-external">
@@ -540,16 +580,19 @@ Iker Brauchi
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1731553200000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1528">
+<div class="quarto-post image-left" data-index="11" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1731553200000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1528">
 <div class="thumbnail"><a href="../product/columnas/column_04.html" class="no-external">
 
-<img loading="lazy" data-src="../images/column_04.png" class="thumbnail-image">
+<img loading="lazy" data-src="../images/column_04.png" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_04.html" class="no-external">Algunos apuntes sobre el trap chileno</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_04.html" class="no-external">
+<em>Foto por Francisco Farias</em>
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_04.html" class="no-external">
@@ -563,16 +606,19 @@ Cristóbal Unda Labbé
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1728961200000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1338">
+<div class="quarto-post image-left" data-index="12" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1728961200000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1338">
 <div class="thumbnail"><a href="../product/columnas/column_03.html" class="no-external">
 
-<img loading="lazy" data-src="../images/column_03.jpg" class="thumbnail-image">
+<img loading="lazy" data-src="../images/column_03.jpg" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_03.html" class="no-external">Walter Benjamin y la cotidianidad de la modernidad</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_03.html" class="no-external">
+Walter Benjamin (nacido en Berlín en 1892, y fallecido en trágicas circunstancias en Portbou en 1940) fue un filósofo y ensayista alemán de la primera mitad del siglo XX y…
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_03.html" class="no-external">
@@ -586,16 +632,19 @@ Cristóbal Albornoz Vargas
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1725595200000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1300">
+<div class="quarto-post image-left" data-index="13" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1725595200000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1300">
 <div class="thumbnail"><a href="../product/columnas/column_02.html" class="no-external">
 
-<img loading="lazy" data-src="../images/column_02.jpg" class="thumbnail-image">
+<img loading="lazy" data-src="../images/column_02.jpg" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_02.html" class="no-external">Oasis</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_02.html" class="no-external">
+El retorno de la banda más importante del rock británico de los últimos 30 años no es sólo un bálsamo para quienes desde niños aprendimos acordes, coreamos sus canciones e…
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_02.html" class="no-external">
@@ -609,16 +658,19 @@ Mauricio Encina
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1603335600000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1175">
+<div class="quarto-post image-left" data-index="14" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1603335600000" data-listing-file-modified-sort="1759179401628" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1175">
 <div class="thumbnail"><a href="../product/columnas/column_01.html" class="no-external">
 
-<img loading="lazy" data-src="../images/column_01.jpg" class="thumbnail-image">
+<img loading="lazy" data-src="../images/column_01.jpg" class="thumbnail-image" style="height: 15.0rem;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../product/columnas/column_01.html" class="no-external">Migración en Chile</a>
 </h3>
+<div class="delink listing-description"><a href="../product/columnas/column_01.html" class="no-external">
+Los procesos migratorios han estado presentes en las distintas regiones del mundo a lo largo de la historia, no obstante, durante los últimos años se ha producido un aumento…
+</a></div>
 </div>
 <div class="metadata">
 <a href="../product/columnas/column_01.html" class="no-external">
