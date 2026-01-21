@@ -90,12 +90,12 @@ background: #330033;
 <link rel="stylesheet" href="/styles.css">
 <meta property="og:title" content="Oops! Parece que este sitio no existe">
 <meta property="og:description" content="Probablemente se trata de un espacio de la página que aún está en desarrollo, o que fue removido">
-<meta property="og:image" content="https://revistanemesis.uchile.cl/images/404.png">
+<meta property="og:image" content="https://revistanemesis.netlify.app/images/404.png">
 <meta property="og:image:height" content="1024">
 <meta property="og:image:width" content="1024">
 <meta name="twitter:title" content="Oops! Parece que este sitio no existe">
 <meta name="twitter:description" content="Probablemente se trata de un espacio de la página que aún está en desarrollo, o que fue removido">
-<meta name="twitter:image" content="https://revistanemesis.uchile.cl/images/404.png">
+<meta name="twitter:image" content="https://revistanemesis.netlify.app/images/404.png">
 <meta name="twitter:image-height" content="1024">
 <meta name="twitter:image-width" content="1024">
 <meta name="twitter:card" content="summary_large_image">
@@ -298,7 +298,7 @@ background: #330033;
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/revistanemesis\.uchile\.cl");
+        var filterRegex = new RegExp("https:\/\/revistanemesis\.netlify\.app");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

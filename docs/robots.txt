@@ -1,1 +1,1 @@
-Sitemap: https://revistanemesis.uchile.cl/sitemap.xml
+Sitemap: https://revistanemesis.netlify.app/sitemap.xml
