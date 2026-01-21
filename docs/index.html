@@ -37,6 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-9d81ecda2a6976a8309627a9671386fb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -113,6 +114,7 @@ ul.task-list li input[type="checkbox"] {
 
       .quarto-title-block .quarto-title-banner {
         color: #FFFFBC;
+background: #330033;
       }
 </style>
 
@@ -147,21 +149,14 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="home.css">
 <meta property="og:title" content="Revista Némesis">
-<meta property="og:description" content="¡Bienvenido/a a la página de la revista estudiantil de la FACSO UChile!">
-<meta property="og:image" content="https://revistanemesis.netlify.app/images/column_15.png">
 <meta property="og:site_name" content="Revista Némesis">
-<meta property="og:image:height" content="1080">
-<meta property="og:image:width" content="1920">
 <meta name="twitter:title" content="Revista Némesis">
-<meta name="twitter:description" content="¡Bienvenido/a a la página de la revista estudiantil de la FACSO UChile!">
-<meta name="twitter:image" content="https://revistanemesis.netlify.app/images/column_15.png">
-<meta name="twitter:image-height" content="1080">
-<meta name="twitter:image-width" content="1920">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
@@ -252,27 +247,32 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
-      <h1 class="title">Revista Némesis</h1>
-            <p class="subtitle lead">¡Bienvenido/a a la página de la revista estudiantil de la FACSO UChile!</p>
-                      </div>
-  </div>
-  <div class="quarto-title-meta column-page">
-    </div>
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-layout-custom page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
 <!-- main -->
-<div class="quarto-about-marquee column-page">
-  <div class="about-image-container">
-    <img src="images/header.jpg" class="about-image
-  rectangle " style="width: 100%;">
+
+
+
+
+<div class="hero-banner">
+  <div class="hero-content">
+    <h1>Némesis</h1>
+    <h3>La revista estudiantil de la Facultad de Ciencias Sociales UChile.</h3>
+    
+    <div class="hero-buttons">
+      <a href="#novedades" class="btn btn-nemesis-primary btn-lg" role="button">Ver novedades</a>
+      <a href="./normas_autores.html" class="btn btn-nemesis-outline btn-lg" role="button">Enviar artículo</a>
+    </div>
   </div>
-  <div class="about-contents">
-     <main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+</div>
+<div class="content-container">
+<div id="novedades" style="padding-top: 60px; margin-top: -40px;">
+
+</div>
+<section id="novedades" class="level2">
+<h2 data-anchor-id="novedades">Novedades</h2>
+<hr style="border-top: 2px solid #330033; opacity: 1;">
 <div id="listing-product" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-categories="Q29sdW1uYXMlMjBkZSUyMG9waW5pJUMzJUIzbg==" data-listing-date-sort="1768964400000" data-listing-file-modified-sort="1765915936595" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1664">
@@ -950,23 +950,20 @@ Ignacio López
 </div>
 
 
-</main> 
-    <div class="about-footer"><div class="about-links">
-  <a href="/product/columnas.html" class="about-link" rel="" target="">
-    <i class="bi bi-newspaper"></i>
-     <span class="about-link-text">Leer última publicación</span>
-  </a>
-  <a href="/normas_autores.html" class="about-link" rel="" target="">
-    <i class="bi bi-pencil"></i>
-     <span class="about-link-text">Enviar artículo</span>
-  </a>
+
+</section>
 </div>
-</div>
-  </div>
-</div>
- <!-- /main -->
+
+
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

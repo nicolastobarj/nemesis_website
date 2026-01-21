@@ -1,14 +1,14 @@
 ---
-title: "Revista Némesis"
-subtitle: "¡Bienvenido/a a la página de la revista estudiantil de la FACSO UChile!"
-
+pagetitle: "Revista Némesis"
 lang: es
+toc: false
+page-layout: custom
+css: home.css
 
-# This enables the "magazine" grid layout
 listing:
   - id: product
     contents: product
-    type: grid               # <--- The Magazine Grid Look
+    type: grid
     sort: 
       - "date desc"
       - "title"
@@ -21,24 +21,31 @@ listing:
     image-placeholder: "images/comentarios_dalle.png"
     exclude:
       category: "no_visualize"
-
-# Reverting to the valid 'marquee' template
-about: 
-  template: marquee        
-  image: images/header.jpg
-  image-shape: rectangle
-  image-width: 100%          
-  links:                     
-    - icon: newspaper
-      text: "Leer última publicación"
-      href: product/columnas.qmd
-    - icon: pencil
-      text: "Enviar artículo"
-      href: normas_autores.qmd
-
-page-layout: full
-title-block-banner: true     
 ---
+
+```{=html}
+<div class="hero-banner">
+  <div class="hero-content">
+    <h1>Némesis</h1>
+    <h3>La revista estudiantil de la Facultad de Ciencias Sociales UChile.</h3>
+    
+    <div class="hero-buttons">
+      <a href="#novedades" class="btn btn-nemesis-primary btn-lg" role="button">Ver novedades</a>
+      <a href="normas_autores.qmd" class="btn btn-nemesis-outline btn-lg" role="button">Enviar artículo</a>
+    </div>
+  </div>
+</div>
+```
+
+::: {.content-container}
+
+<div id="novedades" style="padding-top: 60px; margin-top: -40px;"></div>
+
+## Novedades
+<hr style="border-top: 2px solid #330033; opacity: 1;">
 
 ::: {#product}
 :::
+
+
+

@@ -3,7 +3,6 @@ title: "Convocatoria XXI"
 categories: "Convocatorias"
 author: Dirección y Equipo Editorial Némesis
 date: today
-image: images/convocatoria.jpg
 lang: es
 about: 
   template: marquee
