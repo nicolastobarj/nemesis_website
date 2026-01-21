@@ -8,7 +8,7 @@ date: 05-01-2023
 image: ../../images/chavs.jpg
 lang: es
 about: 
-  template: trestles
+  template: marquee
 ---
 
 A propósito de la conmemoración del Día Internacional de los Trabajadores, conviene abordar la relación actual entre política y mundo laboral. Para estos efectos, la publicación del periodista británico Owen Jones es ilustrativa acerca de la situación actual del obrerismo inglés. Mediante referencias hacia la cultura política de la Inglaterra contemporánea, en las que destaca los miembros de los partidos conservador y laborista, el tratamiento periodístico en diarios y programas de televisión y fenómenos como la violencia en el fútbol y el consumo musical, Jones expone como tesis fundamental que la antigua clase trabajadora inglesa --sobre la que se escribe a inicios del siglo XX -- ha derivado en un relato estereotipado acerca de un sector social constituido por los "Chavs", término peyorativo para referirse a la subcultura de la clase baja y que habla de jóvenes que consumen ropa de marcas deportivas y cadenas llamativas. A este respecto, los trabajadores se han convertido para empresarios, políticos, periodistas, escritores y deportistas en un raro espécimen que nada tiene que ver con el honrado obrero sobre el que se forjó la industrialización y modernización nacional.

@@ -8,7 +8,7 @@ date: 09-05-2023
 image: ../../images/com_bib_09.jpeg
 lang: es
 about: 
-  template: trestles
+  template: marquee
 ---
 
 Innumerables debates sobre el aborto y la eutanasia; agresivas condenas a las industrias pornográfica, textil, alimentaria, fiebre ecologista y animalista: habitamos una época marcada por un aparente resurgimiento de la moral occidental, que se había extraviado con la llegada de la contracultura juvenil de las décadas del 60 y 70. Lipovetsky, sin embargo, no logra hacerse a la idea de este renacer moral de occidente: más bien, estamos frente a una sociedad posmoralista, cuyas características son una cultura fuera-del-deber en la que el psicologismo se impone sobre el moralismo, lo que supone la transición de un individualismo permisivo (aquél que pregonó la contracultura hippie, por ejemplo) a uno «correcto»: la era posmoralista no es transgresiva ya, pero tampoco es mojigata, pues “ya no se trata de prohibir en bloque, sino de respetar las diferentes sensibilidades” (p. 76). Apogeo del minimalismo ético, fiebre de la autonomía individual: la decadencia de lo moral en nuestras sociedades no desemboca ya en la deriva orgiástica que se anunciaba tras el 68; se trata de una cultura «gestionada», auto-regulada por medio de la idiosincrasia y la heterogeneidad del gusto, la liberación jamás devino libertinaje. La «mano invisible» ha ampliado su campo de acción: el neo-individualismo funciona hoy como un «desorden organizador». 

@@ -8,7 +8,7 @@ date: 09-30-2023
 image: ../../images/com_bib_11.jpg
 lang: es
 about: 
-  template: trestles
+  template: marquee
 ---
 La caída del muro de Berlín, la disolución de las meta-relatos y el fin de los grandes intelectuales. A principios del siglo XX todo daba para pensar que se habían acabado los paradigmas de pensamiento o las ideologías capaces de darle una explicación hasta al último fenómeno de la sociedad con sus categorías. De ahí que los esfuerzos de la sociología se volcaran a encoger su camara, retrotraer los diagnósticos de época, y comenzar a enfocarse en “temáticas” o áreas particulares de estudio. Así fue como la problematización de la modernidad quedó en segundo plano ¿De donde venimos? y ¿Hacia donde vamos? fueron preguntas cada vez menos recurrentes en las Ciencias Sociales en el último tiempo. 
 

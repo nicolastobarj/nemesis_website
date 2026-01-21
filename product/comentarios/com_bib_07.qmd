@@ -8,7 +8,7 @@ date: 08-04-2023
 image: ../../images/com_bib_07.jpg
 lang: es
 about: 
-  template: trestles
+  template: marquee
 ---
 
 Durante las últimas décadas la historiografía nacional ha profundizado en los actores populares del siglo XIX, distanciándose del pensamiento conservador y marxista. Por un lado, para historiadores como Alberto Edwards, Francisco Antonio Encina, Jaime Eyzaguirre y Gonzalo Vial, estos fueron años de un progresivo deterioro moral dado el debilitamiento del poder político del sector más encumbrado de la aristocracia del Valle Central. Por otro lado, para historiadores como Hernán Ramírez Necochea el periodo en cuestión es una suerte de prehistoria del movimiento obrero del siglo XX, delimitando una estricta línea divisoria entre el artesanado urbano previo y el proletariado posterior a la Guerra del Pacífico.

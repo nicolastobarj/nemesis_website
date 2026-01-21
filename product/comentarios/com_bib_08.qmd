@@ -8,7 +8,7 @@ date: 08-22-2023
 image: ../../images/com_bib_08.jpeg
 lang: es
 about: 
-  template: trestles
+  template: marquee
 ---
 
 En los últimos años han suscitado interés un conjunto de autores que navegan alrededor de la polémica propuesta política del aceleracionismo. Esta corriente de pensamiento surge en Inglaterra en los años noventa. Sin embargo, no es como tal una escuela de pensamiento, sino un conjunto de autores que comparten un sustrato común: la intención intelectual de pensar nuevas formas políticas, pero que a su vez poseen varias divergencias entre sí. 

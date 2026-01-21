@@ -8,7 +8,7 @@ date: 06-15-2023
 image: ../../images/ideologia_competencia.webp
 lang: es
 about: 
-  template: trestles
+  template: marquee
 ---
 
 Las transformaciones de la ideología burguesa desde el siglo XIX, pasando por la regulación fordista que introduce una nueva práctica en las relaciones sociales conocida como la organización y la llegada de la fase neoliberal, es el escenario en el que se enmarca el libro La ideología de la Competencia escrito por la filosófica e intelectual brasileña Marilena Chauí.

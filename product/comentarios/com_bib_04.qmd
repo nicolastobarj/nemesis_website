@@ -8,7 +8,7 @@ date: 05-31-2023
 image: ../../images/kibbutz.jpg
 lang: es
 about: 
-  template: trestles
+  template: marquee
 ---
 
 The mystery of the Kibbutz (en español, el misterio de los Kibutz), libro publicado el año 2018 por el economista y brillante Profesor de Princeton Ran Abramitzky es uno de los intentos más recientes de estudiar de forma sistemática la dimensión técnica y la factibilidad de proyectos de sociedad con bases fuertemente comunitaristas, igualitaristas y con un foco en el bienestar tanto individual como colectivo. Usando como referente histórico los denominados "Kibutz", comunidades asentadas en Israel nacidas a principios del siglo XX al alero de una generación de judíos/israelís cuya orientación ideológica era primordialmente socialista se estudia el funcionamiento, auge, y luego declive del proyecto socialista que se cristalizó en los denominados Kibutz.

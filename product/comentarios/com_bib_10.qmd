@@ -8,7 +8,7 @@ date: 09-26-2023
 image: ../../images/com_bib_10.jpg
 lang: es
 about: 
-  template: trestles
+  template: marquee
 ---
 
 A diferencia del Manifiesto Comunista escrito al fragor de las revoluciones de 1848 y el optimismo revolucionario. El presente texto se enmarca en un contexto de alarma frente a una catástrofe inminente. En este contexto Bruno Latour (antropólogo) conocido por sus aportes en al estudio de la ciencia y por participar en la creación de la Teoría del Actor Red (ANT en inglés), que, junto a Nikolaj Schultz (sociólogo) coescriben este manifiesto para ser repartido con urgencia a los partidos ecológicos.

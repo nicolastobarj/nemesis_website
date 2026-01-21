@@ -5,9 +5,11 @@ project:
 lang: es
 
 website:
-
+  title: "Revista Némesis"
   favicon: images/circle_logo_black.png
-  
+  open-graph: true
+  twitter-card: true
+  site-url: "https://revistanemesis.netlify.app"  
   navbar:
     search: true
     left:
@@ -42,9 +44,6 @@ website:
     border: true
     pinned: true
     back-to-top-navigation: false
-  open-graph: true
-  twitter-card: true
-  site-url: "https://revistanemesis.uchile.cl"
 
   page-footer:
     center: "Revista Némesis - Facultad de Ciencias Sociales - Universidad de Chile © 2026"

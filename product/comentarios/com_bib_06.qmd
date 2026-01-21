@@ -8,7 +8,7 @@ date: 07-22-2023
 image: ../../images/com_bib_06.webp
 lang: es
 about: 
-  template: trestles
+  template: marquee
 ---
 
 Por lo general se usa en el lenguaje cotidianamente el término “fascismo”, pero ¿Qué es el fascismo? En este texto del famoso semiólogo y medievalista Umberto Eco, en una faceta más política busca responder a la pregunta. Este texto es una traducción de su conferencia “El fascismo eterno” realizada en 1995 en la Universidad de Columbia, en el marco de la conmemoración del comienzo de la insurrección partisana en el norte de Italia en contra del fascismo. 

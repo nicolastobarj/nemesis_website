@@ -12,11 +12,11 @@ page-layout: full
 ::: {.team-grid}
 
 ::: {.team-member}
-![](images/chuma.jpg)
+![](images/chuma.jpeg)
 
 <div class="member-name">Domingo Monasterio</div>
 <div class="member-bio">
-Estudiante de cuarto año de sociología UChile. Sus intereses se centran en la Teoría de Sistemas, la Filosofía Contemporánea y el Posestructuralismo.
+Licenciado en sociología UChile. Sus intereses se centran en la Teoría de Sistemas, la Filosofía Contemporánea y el Posestructuralismo.
 </div>
 :::
 
@@ -25,7 +25,7 @@ Estudiante de cuarto año de sociología UChile. Sus intereses se centran en la 
 
 <div class="member-name">Ismael Aguayo</div>
 <div class="member-bio">
-Estudiante de cuarto año de sociología UChile. Se enfoca en el estudio de las transformaciones digitales y su impacto sociopolítico, utilizando métodos computacionales y estadísticos.
+Licenciado en sociología UChile. Sus líneas de interes son la Inteligencia Artificial, las Ciencias Sociales Computacionales y el impacto de la transformación digital en la interacción social y la política.
 </div>
 :::
 
@@ -40,7 +40,7 @@ Estudiante de cuarto año de sociología UChile. Se enfoca en el estudio de las 
 
 <div class="member-name">Joaquín Capetillo</div>
 <div class="member-bio">
-Estudiante de quinto año de sociología UChile. Sus líneas de interés son la Teoría Crítica, la Teoría del Habitus y el Postestructuralismo.
+Licenciado en sociología UChile. Sus líneas de interés son la Teoría Crítica, la Teoría del Habitus y el Postestructuralismo.
 </div>
 :::
 
@@ -55,7 +55,7 @@ Estudiante de quinto año de sociología UChile. Sus líneas de interés son la 
 
 <div class="member-name">Felipe Carvajal</div>
 <div class="member-bio">
-Estudiante de cuarto año de sociología UChile. Interesado en Estudios Urbanos, Política Habitacional y Sociología Digital.
+Licenciado en sociología UChile. Interesado en Estudios Urbanos, Política Habitacional y Sociología Digital.
 </div>
 :::
 

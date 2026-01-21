@@ -8,7 +8,7 @@ date: 04-19-2023
 image: ../../images/desobedecer.webp
 lang: es
 about: 
-  template: trestles
+  template: marquee
 ---
 
 Frèderic Gros es un filósofo francés, profesor de la Universidad París XII y en el Institut d'Ètudes Politiques, pero más conocido por haber editado las últimas lecciones de Michel Foucault realizadas en el Collège de France. "Desobedecer" es su segundo libro publicado en español en 2018, siendo posterior a "Andar, una filosofía" publicada en español el 2014. El libro parte con la provocadora frase atribuida a Wilhem Reich en la que señala que no hay que cuestionarnos por qué rebelarnos, sino que por qué no rebelarnos. Con esta provocativa pregunta el autor hace un barrido filosófico de cómo ha sido abordada la idea de la desobediencia, así como su relación con conceptos como la rebelión, transgresión, obediencia, resistencia, sobre-obediencia, o desobediencia civil y cívica.
