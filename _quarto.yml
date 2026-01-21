@@ -6,6 +6,8 @@ lang: es
 
 website:
   title: "Revista Némesis"
+  description: "Revista estudiantil de la Facultad de Ciencias Sociales UChile."
+  image: "images/circle_logo_black.png"
   favicon: images/circle_logo_black.png
   open-graph: true
   twitter-card: true

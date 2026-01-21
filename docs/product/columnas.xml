@@ -8,7 +8,14 @@
 <title>Revista Némesis</title>
 <link>https://revistanemesis.netlify.app/product/columnas.html</link>
 <atom:link href="https://revistanemesis.netlify.app/product/columnas.xml" rel="self" type="application/rss+xml"/>
-<description></description>
+<description>Revista estudiantil de la Facultad de Ciencias Sociales UChile.</description>
+<image>
+<url>https://revistanemesis.netlify.app/images/circle_logo_black.png</url>
+<title>Revista Némesis</title>
+<link>https://revistanemesis.netlify.app/product/columnas.html</link>
+<height>144</height>
+<width>144</width>
+</image>
 <generator>quarto-1.8.21</generator>
 <lastBuildDate>Wed, 21 Jan 2026 03:00:00 GMT</lastBuildDate>
 <item>
