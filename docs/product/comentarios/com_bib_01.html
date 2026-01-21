@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-9d81ecda2a6976a8309627a9671386fb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-25522c275987f8922df5964c3ce27d31.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-75d1f0cee86d8754c992542031c37da2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,15 +69,39 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Buscar"
   }
 }</script>
+<style>
+
+      .quarto-title-block .quarto-title-banner h1,
+      .quarto-title-block .quarto-title-banner h2,
+      .quarto-title-block .quarto-title-banner h3,
+      .quarto-title-block .quarto-title-banner h4,
+      .quarto-title-block .quarto-title-banner h5,
+      .quarto-title-block .quarto-title-banner h6
+      {
+        color: #FFFFBC;
+      }
+
+      .quarto-title-block .quarto-title-banner {
+        color: #FFFFBC;
+background: #330033;
+      }
+</style>
 
 
 <link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="La era de la farsa">
+<meta property="og:description" content="El profesor nos entrega un panorama general del traspaso de la economía doméstica a la economía política">
+<meta property="og:image" content="https://revistanemesis.uchile.cl/images/era_de_la_farsa.jpg">
+<meta name="twitter:title" content="La era de la farsa">
+<meta name="twitter:description" content="El profesor nos entrega un panorama general del traspaso de la economía doméstica a la economía política">
+<meta name="twitter:image" content="https://revistanemesis.uchile.cl/images/era_de_la_farsa.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-sidebar docked nav-fixed fullcontent quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -86,6 +110,7 @@ ul.task-list li input[type="checkbox"] {
     <img src="../../images/circle_logo_black.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
+            <div id="quarto-search" class="" title="Buscar"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -118,20 +143,33 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../../normas_autores.html"> 
 <span class="menu-text">Normas para Autores</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-publicaciones" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Publicaciones</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-publicaciones">    
+        <li>
+    <a class="dropdown-item" href="../../product/comentarios.html">
+ <span class="dropdown-text">Comentarios bibliográficos</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../product/entrevistas.html">
+ <span class="dropdown-text">Entrevistas</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../product/columnas.html">
+ <span class="dropdown-text">Columnas de opinión</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://revistanemesis.uchile.cl" target="_blank"> 
+<span class="menu-text">Portal Revista princial</span></a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://www.instagram.com/revistanemesis" target="_blank"> <i class="bi bi-instagram" role="img">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/RevistaNemesis" target="_blank"> <i class="bi bi-twitter" role="img">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://web.facebook.com/profile.php?id=100064994021305" target="_blank"> <i class="bi bi-facebook" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -146,95 +184,39 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">La era de la farsa</li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
-<!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
-      <a href="../../index.html" class="sidebar-logo-link">
-      </a>
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">La era de la farsa</h1>
+            <p class="subtitle lead">Rodrigo Baño</p>
+                  <div>
+        <div class="description">
+          El profesor nos entrega un panorama general del traspaso de la economía doméstica a la economía política
+        </div>
       </div>
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Publicaciones</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Alternar sección">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="https://revistanemesis.uchile.cl" class="sidebar-item-text sidebar-link" target="_blank">
- <span class="menu-text">Portal Revista princial</span></a>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Comentarios bibliográficos</div>
+              </div>
+                  </div>
   </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../product/comentarios.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Comentarios bibliográficos</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../product/entrevistas.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Entrevistas</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../product/columnas.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Columnas de opinión</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../tematica.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Temática anual.</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
- <span class="menu-text">Alianzas</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Alternar sección">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="https://teoriasocialhoy.org" class="sidebar-item-text sidebar-link" target="_blank">
- <span class="menu-text">Teoría Social Hoy</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="https://www.instagram.com/redes.ch" class="sidebar-item-text sidebar-link" target="_blank">
- <span class="menu-text">REDES</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-    </ul>
+  <div class="quarto-title-meta">
+      <div>
+      <div class="quarto-title-meta-heading">Autor/a</div>
+      <div class="quarto-title-meta-contents">
+               <p>Nicolás Tobar </p>
+            </div>
     </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+      <div>
+      <div class="quarto-title-meta-heading">Fecha de publicación</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">3 de abril de 2023</p>
+      </div>
+    </div>
+    </div>
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
@@ -242,36 +224,9 @@ ul.task-list li input[type="checkbox"] {
   <div class="about-entity">
     <img src="../../images/era_de_la_farsa.jpg" class="about-image
   rounded " style="width: 20em;">
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">La era de la farsa</h1>
-<p class="subtitle lead">Rodrigo Baño</p>
-  <div class="quarto-categories">
-    <div class="quarto-category">Comentarios bibliográficos</div>
+
   </div>
-  </div>
-<div>
-  <div class="description">
-    El profesor nos entrega un panorama general del traspaso de la economía doméstica a la economía política
-  </div>
-</div>
-<div class="quarto-title-meta">
-    <div>
-    <div class="quarto-title-meta-heading">Autor/a</div>
-    <div class="quarto-title-meta-contents">
-             <p>Nicolás Tobar </p>
-          </div>
-  </div>
-    <div>
-    <div class="quarto-title-meta-heading">Fecha de publicación</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">3 de abril de 2023</p>
-    </div>
-  </div>
-  </div>
-</header>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
+  <div class="about-contents"><main class="content quarto-banner-title-block" id="quarto-document-content">
 <p>El profesor Baño nos entrega una lectura muy entretenida e interesante sobre cómo las transformaciones en las condiciones materiales de producción y reproducción de la vida inciden en los cambios culturales y las orientaciones de valor asociados a ella. Desde esta esquina revisará las contradicciones y dilemas que vivimos en la época actual. Durante todo el libro la tesis es bastante simple, y sin querer ser injusto, se resume en el siguiente párrafo.</p>
 <p>Desde sus orígenes, el animal humano se agrupa en comunidades familiares donde se centralizan las tareas económicas para suplir las necesidades de la especie. Se cría a los hijos en la familia, se caza, cultiva y distribuye la comida alrededor de la familia, y por supuesto se establece el poder político a partir del “dominus”, es decir, un patriarca o matriarca. Con el desarrollo de los procesos evolutivos del homo sapiens sapiens, se construirán ciudades, lo cual dará inicio al paso de la economía doméstica a la economía política. Es decir, el traspaso de las funciones de reproducción y producción económica de la familia al mercado. Asimismo el poder político será heredado del “dominus” al “imperium”, pues ya no se trata de un jefe de familia, sino de un Estado nacional centralizado, con jerarquías formales que fundamentan el uso del poder. Por supuesto, este es un proceso que se prolonga durante varios siglos, donde entre medio ocurren revoluciones industriosas e industriales que profundizan esta transición. Acerca de las orientaciones de valor, esto atenúa el grado de afección de las relaciones sociales, pasando a ser cada vez más instrumentales. De ahí la provocación de la “farsa”.</p>
 <p>A partir de este proceso de largo aliento, el autor, con la agudeza que lo caracteriza, va construyendo los dilemas a los que nos enfrentamos en este siglo XXI. Con los procesos de interconexión global, se comienzan a desarrollar mercados transnacionales que forman un individuo cada vez más especializado, dedicado a una actividad particular, y por lo tanto cada vez más interdependiente del resto de sus congéneres, pero que por su autonomía respecto a la unidad doméstica (la cual pierde cada vez más relevancia en términos económicos - por tanto también relevancia valórica), se entiende a sí mismo como un sujeto autónomo, hecho por sí mismo e hiperindividualizado. Emergen entonces las ideas de ser auténtico, de poder moldear la identidad al antojo personal, y la flexibilidad situacional de la vida ¿Cómo si cada vez somos más impotentes para hacernos cargos individualmente de nuestra supervivencia, nos comprendemos como seres desencarnados y empoderados para llevar las riendas de ella? Llámele usted, la era de la farsa. El dinero manda. Como dice el autor: “El que está fuera del mercado vale callampa”.</p>
@@ -346,7 +301,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/revistanemesis\.uchile\.cl");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -680,7 +635,7 @@ ul.task-list li input[type="checkbox"] {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>Licencias reservadas por Némesis UChile</p>
+<p>Revista Némesis - Facultad de Ciencias Sociales - Universidad de Chile © 2026</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

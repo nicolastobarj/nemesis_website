@@ -33,12 +33,21 @@
     ]
   },
   {
-    "listing": "/product/coloquios.html",
-    "items": []
-  },
-  {
-    "listing": "/recents.html",
-    "items": []
+    "listing": "/product/comentarios.html",
+    "items": [
+      "/product/comentarios/com_bib_12.html",
+      "/product/comentarios/com_bib_11.html",
+      "/product/comentarios/com_bib_10.html",
+      "/product/comentarios/com_bib_09.html",
+      "/product/comentarios/com_bib_08.html",
+      "/product/comentarios/com_bib_07.html",
+      "/product/comentarios/com_bib_06.html",
+      "/product/comentarios/com_bib_05.html",
+      "/product/comentarios/com_bib_04.html",
+      "/product/comentarios/com_bib_03.html",
+      "/product/comentarios/com_bib_02.html",
+      "/product/comentarios/com_bib_01.html"
+    ]
   },
   {
     "listing": "/product/columnas.html",
@@ -64,23 +73,6 @@
     "listing": "/product/entrevistas.html",
     "items": [
       "/product/entrevistas/entrevista_01.html"
-    ]
-  },
-  {
-    "listing": "/product/comentarios.html",
-    "items": [
-      "/product/comentarios/com_bib_12.html",
-      "/product/comentarios/com_bib_11.html",
-      "/product/comentarios/com_bib_10.html",
-      "/product/comentarios/com_bib_09.html",
-      "/product/comentarios/com_bib_08.html",
-      "/product/comentarios/com_bib_07.html",
-      "/product/comentarios/com_bib_06.html",
-      "/product/comentarios/com_bib_05.html",
-      "/product/comentarios/com_bib_04.html",
-      "/product/comentarios/com_bib_03.html",
-      "/product/comentarios/com_bib_02.html",
-      "/product/comentarios/com_bib_01.html"
     ]
   }
 ]

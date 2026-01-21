@@ -1,39 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://revistanemesis.uchile.cl/product/columnas.html</loc>
+    <loc>https://revistanemesis.uchile.cl/organizacion.html</loc>
     <lastmod>2025-09-29T20:56:41.628Z</lastmod>
-  </url>
-  <url>
-    <loc>https://revistanemesis.uchile.cl/product/columnas/column_05.html</loc>
-    <lastmod>2025-09-29T20:56:41.628Z</lastmod>
-  </url>
-  <url>
-    <loc>https://revistanemesis.uchile.cl/product/columnas/column_15.html</loc>
-    <lastmod>2025-12-16T20:12:16.595Z</lastmod>
-  </url>
-  <url>
-    <loc>https://revistanemesis.uchile.cl/index.html</loc>
-    <lastmod>2026-01-21T02:33:56.789Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.uchile.cl/proyecto.html</loc>
     <lastmod>2025-11-13T00:16:45.272Z</lastmod>
   </url>
   <url>
-    <loc>https://revistanemesis.uchile.cl/normas_autores.html</loc>
-    <lastmod>2026-01-21T02:25:57.727Z</lastmod>
+    <loc>https://revistanemesis.uchile.cl/index.html</loc>
+    <lastmod>2026-01-21T02:33:56.789Z</lastmod>
   </url>
   <url>
-    <loc>https://revistanemesis.uchile.cl/productos.html</loc>
+    <loc>https://revistanemesis.uchile.cl/product/comentarios.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/comentarios/com_bib_05.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/comentarios/com_bib_10.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/comentarios/com_bib_08.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/comentarios/com_bib_03.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/comentarios/com_bib_07.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/comentarios/com_bib_01.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/entrevistas/entrevista_01.html</loc>
     <lastmod>2025-09-29T20:56:41.630Z</lastmod>
   </url>
   <url>
-    <loc>https://revistanemesis.uchile.cl/organizacion.html</loc>
+    <loc>https://revistanemesis.uchile.cl/product/columnas/column_09.html</loc>
+    <lastmod>2025-09-29T20:56:41.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/columnas/column_02.html</loc>
+    <lastmod>2025-09-29T20:56:41.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/columnas/column_11.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/columnas/column_05.html</loc>
+    <lastmod>2025-09-29T20:56:41.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/columnas/column_10.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/columnas/column_06.html</loc>
+    <lastmod>2025-09-29T20:56:41.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/columnas/column_03.html</loc>
+    <lastmod>2025-09-29T20:56:41.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/columnas/column_01.html</loc>
+    <lastmod>2025-09-29T20:56:41.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/equipo.html</loc>
+    <lastmod>2025-11-18T19:54:24.444Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/convocatorias.html</loc>
+    <lastmod>2025-09-29T20:56:41.446Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/columnas/column_13.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/columnas/column_12.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/columnas/column_04.html</loc>
+    <lastmod>2025-09-29T20:56:41.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/columnas/column_07.html</loc>
     <lastmod>2025-09-29T20:56:41.628Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.uchile.cl/product/columnas/column_14.html</loc>
     <lastmod>2025-10-26T23:55:02.008Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/columnas/column_15.html</loc>
+    <lastmod>2025-12-16T20:12:16.595Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/columnas/column_08.html</loc>
+    <lastmod>2025-09-29T20:56:41.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/columnas.html</loc>
+    <lastmod>2025-09-29T20:56:41.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/entrevistas.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/comentarios/com_bib_11.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/comentarios/com_bib_06.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/comentarios/com_bib_02.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/comentarios/com_bib_09.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/comentarios/com_bib_04.html</loc>
+    <lastmod>2025-09-29T20:56:41.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/product/comentarios/com_bib_12.html</loc>
+    <lastmod>2025-10-26T23:54:09.665Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/normas_autores.html</loc>
+    <lastmod>2026-01-21T02:25:57.727Z</lastmod>
+  </url>
+  <url>
+    <loc>https://revistanemesis.uchile.cl/convocatoria.html</loc>
+    <lastmod>2026-01-20T17:10:56.782Z</lastmod>
   </url>
 </urlset>
