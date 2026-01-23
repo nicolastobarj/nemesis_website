@@ -11,9 +11,9 @@ about:
 Para más información sobre el proceso de publicación y los términos de referencia revisar [las normas para autores](normas_autores.html).
 :::
 
-::: {.callout-tip appearance="minimal"}
+::: {.callout-important appearance="minimal" }
 
-¡Revista Némesis invita a estudiantes, investigadores, profesionales y académicos de las ciencias sociales y disciplinas afines a enviar sus manuscritos (ensayos, artículos y reseñas) para la convocatoria de su Número XXI! Este año, la temática central será la digitalización y las nuevas tecnologías, a través de un enfoque multidisciplinario y amplio. Les incentivamos a que envíen sus manuscritos y, si tienen alguna consulta, a contactarnos a través de nuestro correo electrónico ([nemesis\@uchile.cl](mailto:nemesis@uchile.cl)) o nuestra cuenta en Instagram ([\@revistanemesis](https://www.instagram.com/revistanemesis/)). Cabe señalar que, si bien los ejes propuestos orientarán parte importante del número, se aceptarán colaboraciones de temática abierta. ¡No dudes en escribirnos!
+¡Revista Némesis invita a estudiantes, investigadores, profesionales y académicos de las ciencias sociales y disciplinas afines a enviar sus manuscritos (ensayos, artículos y reseñas) para la convocatoria de su Número XXI! Este año, la temática central será la digitalización y las nuevas tecnologías, a través de un enfoque multidisciplinario y amplio. Les incentivamos a que envíen sus manuscritos y, si tienen alguna consulta, a contactarnos a través de nuestro correo electrónico ([nemesis\@uchile.cl](mailto:nemesis@uchile.cl)) o nuestra cuenta en Instagram ([\@revistanemesis](https://www.instagram.com/revistanemesis/)). Cabe señalar que, si bien los ejes propuestos orientarán parte importante del número, se aceptarán colaboraciones de temática abierta. El plazo máximo para el envío de manuscritos es el **31 de marzo.** ¡No dudes en escribirnos!
 
 :::
 
